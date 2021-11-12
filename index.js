@@ -9,7 +9,7 @@ async function main() {
     ).toString("utf-8");
 
     // generate hello text
-    let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1);
+    let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1).pop();
     console.log(helloObject);
     console.log(helloObject['hello']);
 
