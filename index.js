@@ -8,7 +8,8 @@ async function main() {
     ).toString("utf-8");
 
     // generate hello text
-    // let helloTextArray = path.join(process.cwd(), "./hello.json");
+    let helloTextArray = path.join(process.cwd(), "./hello.json");
+    console.log(helloTextArray);
     // let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1);
 
     const office_quote = await (
