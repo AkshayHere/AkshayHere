@@ -2,7 +2,7 @@ require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
-const data = JSON.parse(fs.readFileSync(path.join(process.cwd(), "./hello.json")));
+const data = JSON.parse(await fs.readFile(path.join(process.cwd(), "./hello.json")));
 
 async function main() {
     const readmeTemplate = (
