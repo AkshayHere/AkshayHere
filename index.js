@@ -9,8 +9,8 @@ async function main() {
 
     // generate hello text
     const data = await fs.readFile(path.join(process.cwd(), "./hello.json"));
-    // let helloTextArray = data;
-    console.log(data);
+    let helloTextArray = JSON.parse(data);
+    console.log(helloTextArray);
     // let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1);
 
     const office_quote = await (
