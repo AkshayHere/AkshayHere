@@ -2,13 +2,15 @@ require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
+import * as data from path.join(process.cwd(), "./hello.json");
+
 async function main() {
     const readmeTemplate = (
         await fs.readFile(path.join(process.cwd(), "./CUSTOM_README.md"))
     ).toString("utf-8");
 
     // generate hello text
-    let helloTextArray = path.join(process.cwd(), "./hello.json");
+    let helloTextArray = data;
     console.log(helloTextArray);
     // let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1);
 
