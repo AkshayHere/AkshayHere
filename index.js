@@ -11,6 +11,7 @@ async function main() {
     // generate hello text
     let helloObject = helloTextArray.splice(Math.floor(Math.random()*helloTextArray.length), 1);
     console.log(helloObject);
+    console.log(helloObject.hello);
 
     const office_quote = await (
         await fetch("https://officeapi.dev/api/quotes/random")
