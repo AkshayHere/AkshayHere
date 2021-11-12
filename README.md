@@ -10,7 +10,7 @@ Full time Full-stack developer & Part time Movie Buff.
 
 Would love to contribute my bit for the Open source world.
 
-May the force be wit you.
+May the force be with you.
 
 <br>
 
