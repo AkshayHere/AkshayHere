@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-ഏയ്. 👋
+Hej med jer. 👋
 
 I’m Akshay Mohan 
 
@@ -51,9 +51,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Did I stutter?
 >
-> <p>- Gabe Lewis</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
