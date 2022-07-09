@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-สวัสดี. 👋
+Hav muaj. 👋
 
 I’m Akshay Mohan 
 
@@ -51,7 +51,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
 > <p>- Pam Beesly</p>
 
