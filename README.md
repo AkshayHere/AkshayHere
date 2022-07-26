@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Salut. 👋
+Hæ. 👋
 
 I’m Akshay Mohan 
 
@@ -51,7 +51,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
