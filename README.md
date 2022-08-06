@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Halo. 👋
+Bună ziua. 👋
 
 I’m Akshay Mohan 
 
@@ -51,7 +51,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
 > <p>- Andy Bernard</p>
 
