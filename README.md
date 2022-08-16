@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Здравейте 👋
+안녕. 👋
 
 I’m Akshay Mohan 
 
@@ -51,7 +51,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
