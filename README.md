@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Hey there. 👋
+Sveiki tur. 👋
 
 I’m Akshay Mohan 
 
@@ -51,9 +51,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
