@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Hey la. 👋
+Hey ở đó. 👋
 
 I’m Akshay Mohan 
 
@@ -49,11 +49,15 @@ Would love to contribute to open source world.
 
 <br>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
+
+<br>
+
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
 >
-> <p>- Michael Scott</p>
+> <p>- Ryan Howard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -63,4 +67,4 @@ Check back at the top of the hour for a new quote!
 
 <!-- > ### Want to know how I made this README?
 >
-> Check out my [tutorial](https://akshayhere.dev/blog/creating-a-killer-github-profile-readme-part-1/)! -->
+> [Credits](https://github.com/braydoncoyer)! -->
