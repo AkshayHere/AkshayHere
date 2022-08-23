@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Bună ziua. 👋
+Hej. 👋
 
 I’m Akshay Mohan 
 
@@ -55,7 +55,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
 >
 > <p>- Dwight Schrute</p>
 
