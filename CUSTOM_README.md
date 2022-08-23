@@ -49,7 +49,7 @@ Would love to contribute to open source world.
 
 <br>
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes}) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
 <br>
 
@@ -67,4 +67,4 @@ Check back at the top of the hour for a new quote!
 
 <!-- > ### Want to know how I made this README?
 >
-> Check out my [tutorial](https://akshayhere.dev/blog/creating-a-killer-github-profile-readme-part-1/)! -->
+> [Credits](https://github.com/braydoncoyer)! -->
