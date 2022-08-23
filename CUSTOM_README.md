@@ -49,6 +49,10 @@ Would love to contribute to open source world.
 
 <br>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
+
+<br>
+
 ## 📣 How about an Office quote before you go?
 
 > {office_quote}
