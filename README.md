@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Hola. 👋
+Hav muaj. 👋
 
 I’m Akshay Mohan 
 
@@ -55,9 +55,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Kevin Malone</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
