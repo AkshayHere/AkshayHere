@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Ჰეი მანდ. 👋
+你好 👋
 
 I’m Akshay Mohan 
 
@@ -55,7 +55,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
