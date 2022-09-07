@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Hei di sana. 👋
+Ħej hemmhekk. 👋
 
 I’m Akshay Mohan 
 
@@ -55,9 +55,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> It has to be official, and it has to be urine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
