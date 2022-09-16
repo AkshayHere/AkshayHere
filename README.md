@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Гей там. 👋
+Ahoj. 👋
 
 I’m Akshay Mohan 
 
@@ -55,7 +55,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
