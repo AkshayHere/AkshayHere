@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Ողջույն. 👋
+سلام. 👋
 
 I’m Akshay Mohan 
 
@@ -55,9 +55,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
