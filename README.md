@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Pozdravljeni. 👋
+Cześć. 👋
 
 I’m Akshay Mohan 
 
@@ -55,7 +55,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> If you pray enough, you can change yourself into a cat person.
 >
 > <p>- Angela Martin</p>
 
