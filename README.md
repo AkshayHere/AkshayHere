@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Hey yno. 👋
+Boas. 👋
 
 I’m Akshay Mohan 
 
