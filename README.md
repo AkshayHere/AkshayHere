@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-Selam. 👋
+Salut. 👋
 
 I’m Akshay Mohan 
 
@@ -55,7 +55,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 
