@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/Big_Lebowski_dude_cover_3.jpg)](https://github.com/AkshayHere)
 
-שלום. 👋
+приве́т. 👋
 
 I’m Akshay Mohan 
 
@@ -55,9 +55,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Michael Scott</p>
+> <p>- Erin Hannon</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
