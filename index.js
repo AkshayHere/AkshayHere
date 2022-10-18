@@ -8,16 +8,24 @@ async function main() {
     ).toString("utf-8");
 
     const office_quote = await (
-        await fetch("https://officeapi.dev/api/quotes/random")
+        await fetch("https://officeapi.dev/api/quotes/random").catch((err) =>
+            console.error(`Error : ${err.message}`)
+        )
     ).json();
 
     console.log(office_quote);
 
-    const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.data.content)
-        .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
+    if (office_quote) {
+        const { data } = office_quote
+        const readme = readmeTemplate
+            .replace("{office_quote}", office_quote.data.content)
+            .replace(
+                "{office_character}",
+                `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`
+            );
 
-    await fs.writeFile("README.md", readme);
+        await fs.writeFile("README.md", readme);
+    }
 }
 
 main();
