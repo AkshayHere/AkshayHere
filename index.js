@@ -18,10 +18,10 @@ async function main() {
     if (office_quote) {
         const { data } = office_quote
         const readme = readmeTemplate
-            .replace("{office_quote}", office_quote.data.content)
+            .replace("{office_quote}", data.content)
             .replace(
                 "{office_character}",
-                `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`
+                `- ${data.character.firstname} ${data.character.lastname}`
             );
 
         await fs.writeFile("README.md", readme);
