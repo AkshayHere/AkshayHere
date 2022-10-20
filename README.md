@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/20/2022, 7:23:25 PM</sup></sub>
+<sub><sup>Last updated: 10/20/2022, 8:18:50 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
