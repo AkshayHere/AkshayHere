@@ -25,7 +25,7 @@ async function main() {
                 `- ${data.character.firstname} ${data.character.lastname}`
             )
             .replace("{currentDate}", currentDate);
-        console.log(readme);
+        // console.log(readme);
 
         await fs.writeFile("README.md", readme);
     }

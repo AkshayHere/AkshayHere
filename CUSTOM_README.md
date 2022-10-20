@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> {{office_quote}}
+> {office_quote}
 >
-> <p>- {{office_character}}</p>
+> <p>{office_character}</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-Last updated: {{currentDate}}
+<sub><sup>Last updated: {currentDate}</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
