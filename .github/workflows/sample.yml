@@ -9,12 +9,12 @@ jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Let the magic happen
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: 14.6.0
+          node-version: 16
 
       - run: yarn
 
@@ -25,9 +25,10 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "Your Name"
-          git config --global user.email "Your E-Mail"
+          git config --global user.name "AkshayHere"
+          git config --global user.email "akshymohn@gmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
+          
       - name: Push
         uses: ad-m/github-push-action@master
         with:
