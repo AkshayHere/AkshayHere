@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> {It has to be official, and it has to be urine.}
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- {- Dwight Schrute}</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-Last updated: {10/20/2022, 4:53:08 AM}
+<sub><sup>Last updated: 10/20/2022, 4:57:37 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
