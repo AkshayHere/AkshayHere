@@ -16,13 +16,14 @@ async function main() {
     console.log(office_quote);
 
     if (office_quote) {
-        const { data } = office_quote
+        const { data } = office_quote;
         const readme = readmeTemplate
             .replace("{office_quote}", data.content)
             .replace(
                 "{office_character}",
                 `- ${data.character.firstname} ${data.character.lastname}`
             );
+        console.log(readme);
 
         await fs.writeFile("README.md", readme);
     }
