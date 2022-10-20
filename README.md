@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
 > <p>- Andy Bernard</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/20/2022, 8:18:50 PM</sup></sub>
+<sub><sup>Last updated: 10/20/2022, 9:15:52 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
