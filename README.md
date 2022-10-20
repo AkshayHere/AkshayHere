@@ -1,6 +1,6 @@
 [![Akshay's GitHub Banner](./assets/bigLebowski.jpg)](https://github.com/AkshayHere)
 
-This is Akshay Mohan 
+This is Akshay Mohan
 
 Full time Full-stack developer & Part time Movie Buff.
 
@@ -26,19 +26,19 @@ Would love to contribute to open source world.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-<br>
-
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> {It has to be official, and it has to be urine.}
 >
-> <p>- Andy Bernard</p>
+> <p>- {- Dwight Schrute}</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
 
 <br>
+
+Last updated: {10/20/2022, 4:53:08 AM}
 
 <!-- > ### Want to know how I made this README?
 >
