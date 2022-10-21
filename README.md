@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> It has to be official, and it has to be urine.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/21/2022, 9:15:09 PM</sup></sub>
+<sub><sup>Last updated: 10/21/2022, 10:17:03 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
