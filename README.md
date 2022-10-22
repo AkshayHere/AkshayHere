@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Andy Bernard</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/22/2022, 7:15:28 PM</sup></sub>
+<sub><sup>Last updated: 10/22/2022, 8:17:51 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
