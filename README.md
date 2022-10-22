@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/22/2022, 1:37:51 PM</sup></sub>
+<sub><sup>Last updated: 10/22/2022, 2:17:12 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
