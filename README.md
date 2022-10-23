@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/23/2022, 5:25:19 PM</sup></sub>
+<sub><sup>Last updated: 10/23/2022, 6:20:27 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
