@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> I. Declare. Bankruptcy!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/23/2022, 2:18:15 PM</sup></sub>
+<sub><sup>Last updated: 10/23/2022, 3:16:39 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
