@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/24/2022, 9:16:34 PM</sup></sub>
+<sub><sup>Last updated: 10/24/2022, 10:17:11 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
