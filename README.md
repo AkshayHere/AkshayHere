@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/24/2022, 4:27:46 PM</sup></sub>
+<sub><sup>Last updated: 10/24/2022, 5:33:18 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
