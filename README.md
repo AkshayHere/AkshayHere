@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/25/2022, 7:39:41 AM</sup></sub>
+<sub><sup>Last updated: 10/25/2022, 8:29:19 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
