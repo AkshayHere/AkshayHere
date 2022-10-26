@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/26/2022, 11:13:04 AM</sup></sub>
+<sub><sup>Last updated: 10/26/2022, 12:34:47 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
