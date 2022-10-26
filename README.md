@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/26/2022, 8:19:23 AM</sup></sub>
+<sub><sup>Last updated: 10/26/2022, 9:15:02 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
