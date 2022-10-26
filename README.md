@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I feel God in this Chili’s tonight.
 >
-> <p>- Creed Bratton</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/26/2022, 2:21:17 PM</sup></sub>
+<sub><sup>Last updated: 10/26/2022, 3:16:20 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
