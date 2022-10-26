@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/26/2022, 4:20:58 PM</sup></sub>
+<sub><sup>Last updated: 10/26/2022, 5:20:24 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
