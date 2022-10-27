@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> Did I stutter?
 >
-> <p>- Jim Halpert</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/27/2022, 1:21:04 AM</sup></sub>
+<sub><sup>Last updated: 10/27/2022, 3:41:57 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
