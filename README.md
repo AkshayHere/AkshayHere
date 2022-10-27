@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/27/2022, 12:34:13 PM</sup></sub>
+<sub><sup>Last updated: 10/27/2022, 1:43:13 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
