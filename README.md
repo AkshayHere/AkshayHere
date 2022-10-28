@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/28/2022, 8:24:11 AM</sup></sub>
+<sub><sup>Last updated: 10/28/2022, 9:16:53 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
