@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I feel God in this Chili’s tonight.
 >
 > <p>- Pam Beesly</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/29/2022, 11:12:10 AM</sup></sub>
+<sub><sup>Last updated: 10/29/2022, 12:27:08 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
