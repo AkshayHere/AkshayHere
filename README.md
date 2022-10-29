@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> It has to be official, and it has to be urine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/29/2022, 2:14:30 PM</sup></sub>
+<sub><sup>Last updated: 10/29/2022, 3:15:32 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
