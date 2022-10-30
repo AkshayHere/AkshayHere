@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Gabe Lewis</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/30/2022, 3:49:18 AM</sup></sub>
+<sub><sup>Last updated: 10/30/2022, 4:43:13 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
