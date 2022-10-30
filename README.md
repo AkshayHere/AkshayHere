@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/30/2022, 3:15:08 PM</sup></sub>
+<sub><sup>Last updated: 10/30/2022, 4:19:44 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
