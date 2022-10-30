@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> I feel God in this Chili’s tonight.
 >
 > <p>- Pam Beesly</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/30/2022, 8:15:27 PM</sup></sub>
+<sub><sup>Last updated: 10/30/2022, 9:13:18 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
