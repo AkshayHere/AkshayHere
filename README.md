@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/30/2022, 10:15:28 AM</sup></sub>
+<sub><sup>Last updated: 10/30/2022, 11:11:59 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
