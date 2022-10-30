@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/30/2022, 12:29:01 PM</sup></sub>
+<sub><sup>Last updated: 10/30/2022, 1:29:43 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
