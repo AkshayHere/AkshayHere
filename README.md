@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
 > <p>- Angela Martin</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/31/2022, 1:40:32 AM</sup></sub>
+<sub><sup>Last updated: 10/31/2022, 3:44:12 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
