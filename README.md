@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
 > <p>- Pam Beesly</p>
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/31/2022, 7:12:14 PM</sup></sub>
+<sub><sup>Last updated: 10/31/2022, 8:16:43 PM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
