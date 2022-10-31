@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 10/31/2022, 7:14:46 AM</sup></sub>
+<sub><sup>Last updated: 10/31/2022, 8:22:56 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
