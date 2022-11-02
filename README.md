@@ -28,9 +28,9 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -38,7 +38,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-<sub><sup>Last updated: 11/1/2022, 11:17:04 PM</sup></sub>
+<sub><sup>Last updated: 11/2/2022, 1:26:58 AM</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
