@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/11/2022 9:12:19</sup></sub>
+<sub><sup>Last updated: 4/11/2022 12:37:30</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
