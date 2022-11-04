@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Angela Martin</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/11/2022 16:17:30</sup></sub>
+<sub><sup>Last updated: 4/11/2022 20:26:36</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
