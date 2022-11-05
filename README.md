@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/11/2022 12:21:13</sup></sub>
+<sub><sup>Last updated: 5/11/2022 16:15:14</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
