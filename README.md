@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> It has to be official, and it has to be urine.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/11/2022 0:16:23</sup></sub>
+<sub><sup>Last updated: 7/11/2022 4:12:58</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
