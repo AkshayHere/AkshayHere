@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/11/2022 20:22:05</sup></sub>
+<sub><sup>Last updated: 7/11/2022 0:16:23</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
