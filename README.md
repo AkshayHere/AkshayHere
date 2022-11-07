@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Dwight, you ignorant slut!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/11/2022 20:27:43</sup></sub>
+<sub><sup>Last updated: 8/11/2022 0:16:52</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
