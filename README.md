@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
 > <p>- Michael Scott</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/11/2022 0:16:52</sup></sub>
+<sub><sup>Last updated: 8/11/2022 4:13:38</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
