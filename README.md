@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/11/2022 4:12:58</sup></sub>
+<sub><sup>Last updated: 7/11/2022 9:05:45</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
