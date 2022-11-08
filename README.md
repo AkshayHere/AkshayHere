@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/11/2022 16:17:44</sup></sub>
+<sub><sup>Last updated: 8/11/2022 20:28:16</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
