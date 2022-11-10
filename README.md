@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/11/2022 9:06:49</sup></sub>
+<sub><sup>Last updated: 10/11/2022 12:34:28</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
