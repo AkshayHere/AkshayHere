@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> It has to be official, and it has to be urine.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/11/2022 0:17:03</sup></sub>
+<sub><sup>Last updated: 11/11/2022 4:14:09</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
