@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/11/2022 20:27:34</sup></sub>
+<sub><sup>Last updated: 12/11/2022 0:16:49</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
