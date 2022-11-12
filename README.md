@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/11/2022 16:15:40</sup></sub>
+<sub><sup>Last updated: 12/11/2022 20:21:12</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
