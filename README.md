@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/11/2022 0:15:58</sup></sub>
+<sub><sup>Last updated: 14/11/2022 4:12:22</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
