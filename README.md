@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 15/11/2022 0:17:21</sup></sub>
+<sub><sup>Last updated: 15/11/2022 4:13:19</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
