@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
 > <p>- Jim Halpert</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 16/11/2022 20:22:30</sup></sub>
+<sub><sup>Last updated: 17/11/2022 0:15:46</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
