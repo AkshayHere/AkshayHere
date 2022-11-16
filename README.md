@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 16/11/2022 12:18:17</sup></sub>
+<sub><sup>Last updated: 16/11/2022 16:17:27</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
