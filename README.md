@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/11/2022 9:04:05</sup></sub>
+<sub><sup>Last updated: 19/11/2022 12:13:44</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
