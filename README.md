@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Dwight, you ignorant slut!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/11/2022 4:12:21</sup></sub>
+<sub><sup>Last updated: 19/11/2022 9:04:05</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
