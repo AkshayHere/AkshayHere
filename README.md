@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>- Oscar Martinez</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 20/11/2022 9:06:55</sup></sub>
+<sub><sup>Last updated: 20/11/2022 12:16:32</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
