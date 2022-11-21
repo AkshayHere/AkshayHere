@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 21/11/2022 16:16:00</sup></sub>
+<sub><sup>Last updated: 21/11/2022 20:23:15</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
