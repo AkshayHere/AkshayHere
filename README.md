@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 23/11/2022 12:13:49</sup></sub>
+<sub><sup>Last updated: 23/11/2022 16:14:26</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
