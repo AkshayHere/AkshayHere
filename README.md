@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 24/11/2022 20:22:35</sup></sub>
+<sub><sup>Last updated: 25/11/2022 0:14:49</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
