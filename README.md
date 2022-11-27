@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Andy Bernard</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 27/11/2022 9:01:49</sup></sub>
+<sub><sup>Last updated: 27/11/2022 12:12:58</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
