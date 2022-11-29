@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/11/2022 12:13:53</sup></sub>
+<sub><sup>Last updated: 29/11/2022 16:14:58</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
