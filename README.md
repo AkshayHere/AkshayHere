@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 30/11/2022 0:15:33</sup></sub>
+<sub><sup>Last updated: 30/11/2022 4:11:39</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
