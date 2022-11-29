@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/11/2022 20:22:07</sup></sub>
+<sub><sup>Last updated: 30/11/2022 0:15:33</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
