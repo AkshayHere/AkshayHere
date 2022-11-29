@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I. Declare. Bankruptcy!
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/11/2022 8:57:52</sup></sub>
+<sub><sup>Last updated: 29/11/2022 12:13:53</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
