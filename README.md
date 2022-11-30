@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 30/11/2022 20:22:41</sup></sub>
+<sub><sup>Last updated: 1/12/2022 0:15:33</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
