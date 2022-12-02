@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Did I stutter?
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 2/12/2022 20:19:54</sup></sub>
+<sub><sup>Last updated: 3/12/2022 0:14:14</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
