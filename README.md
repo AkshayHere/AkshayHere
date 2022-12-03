@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Pam Beesly</p>
+> <p>- Erin Hannon</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/12/2022 8:51:54</sup></sub>
+<sub><sup>Last updated: 3/12/2022 12:12:26</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
