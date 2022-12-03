@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/12/2022 0:13:12</sup></sub>
+<sub><sup>Last updated: 4/12/2022 4:10:19</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
