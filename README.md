@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/12/2022 4:10:30</sup></sub>
+<sub><sup>Last updated: 5/12/2022 8:53:33</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
