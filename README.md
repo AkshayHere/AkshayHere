@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/12/2022 0:14:20</sup></sub>
+<sub><sup>Last updated: 6/12/2022 4:11:02</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
