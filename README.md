@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/12/2022 8:53:33</sup></sub>
+<sub><sup>Last updated: 5/12/2022 12:13:20</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
