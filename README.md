@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/12/2022 4:11:02</sup></sub>
+<sub><sup>Last updated: 6/12/2022 8:53:21</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
