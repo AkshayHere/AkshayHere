@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/12/2022 20:19:40</sup></sub>
+<sub><sup>Last updated: 9/12/2022 0:14:38</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
