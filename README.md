@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> If you pray enough, you can change yourself into a cat person.
 >
 > <p>- Angela Martin</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/12/2022 12:13:15</sup></sub>
+<sub><sup>Last updated: 11/12/2022 16:12:44</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
