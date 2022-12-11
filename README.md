@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/12/2022 0:13:06</sup></sub>
+<sub><sup>Last updated: 12/12/2022 4:10:25</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
