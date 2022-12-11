@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Angela Martin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/12/2022 16:12:44</sup></sub>
+<sub><sup>Last updated: 11/12/2022 20:18:25</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
