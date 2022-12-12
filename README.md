@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Did I stutter?
 >
-> <p>- Ryan Howard</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/12/2022 16:14:20</sup></sub>
+<sub><sup>Last updated: 12/12/2022 20:20:30</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
