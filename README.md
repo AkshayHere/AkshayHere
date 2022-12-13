@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 13/12/2022 4:10:16</sup></sub>
+<sub><sup>Last updated: 13/12/2022 8:58:25</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
