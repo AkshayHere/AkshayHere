@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/12/2022 20:20:19</sup></sub>
+<sub><sup>Last updated: 15/12/2022 0:14:33</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
