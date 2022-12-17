@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Did I stutter?
 >
-> <p>- Pam Beesly</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/12/2022 8:50:25</sup></sub>
+<sub><sup>Last updated: 17/12/2022 12:12:07</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
