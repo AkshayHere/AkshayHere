@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 18/12/2022 4:09:40</sup></sub>
+<sub><sup>Last updated: 18/12/2022 8:51:22</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
