@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Sorry I annoyed you with my friendship.
 >
 > <p>- Andy Bernard</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 22/12/2022 0:14:51</sup></sub>
+<sub><sup>Last updated: 22/12/2022 4:10:38</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
