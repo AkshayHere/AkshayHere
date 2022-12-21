@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Creed Bratton</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 21/12/2022 16:13:18</sup></sub>
+<sub><sup>Last updated: 21/12/2022 20:19:05</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
