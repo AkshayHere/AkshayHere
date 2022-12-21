@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 21/12/2022 20:19:05</sup></sub>
+<sub><sup>Last updated: 22/12/2022 0:14:51</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
