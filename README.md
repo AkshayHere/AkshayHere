@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 23/12/2022 12:12:17</sup></sub>
+<sub><sup>Last updated: 23/12/2022 16:12:53</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
