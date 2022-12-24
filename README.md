@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Kevin Malone</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 24/12/2022 8:46:36</sup></sub>
+<sub><sup>Last updated: 24/12/2022 12:12:14</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
