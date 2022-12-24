@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Angela Martin</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 24/12/2022 4:10:35</sup></sub>
+<sub><sup>Last updated: 24/12/2022 8:46:36</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
