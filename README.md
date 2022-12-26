@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Jim Halpert</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/12/2022 4:09:57</sup></sub>
+<sub><sup>Last updated: 26/12/2022 8:52:43</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
