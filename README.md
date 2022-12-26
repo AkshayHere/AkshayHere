@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Pam Beesly</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/12/2022 12:12:40</sup></sub>
+<sub><sup>Last updated: 26/12/2022 16:13:29</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
