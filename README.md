@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> I feel God in this Chili’s tonight.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/12/2022 8:52:43</sup></sub>
+<sub><sup>Last updated: 26/12/2022 12:12:40</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
