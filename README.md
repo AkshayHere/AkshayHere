@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 27/12/2022 20:18:38</sup></sub>
+<sub><sup>Last updated: 28/12/2022 0:13:26</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
