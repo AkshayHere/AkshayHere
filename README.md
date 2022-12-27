@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 28/12/2022 0:13:26</sup></sub>
+<sub><sup>Last updated: 28/12/2022 4:10:15</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
