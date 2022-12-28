@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 28/12/2022 4:10:15</sup></sub>
+<sub><sup>Last updated: 28/12/2022 8:51:39</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
