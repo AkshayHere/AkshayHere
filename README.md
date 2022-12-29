@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 30/12/2022 0:13:20</sup></sub>
+<sub><sup>Last updated: 30/12/2022 4:10:42</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
