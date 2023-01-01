@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Pam Beesly</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 1/1/2023 20:17:50</sup></sub>
+<sub><sup>Last updated: 2/1/2023 0:12:45</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
