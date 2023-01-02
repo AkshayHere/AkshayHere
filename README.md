@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 2/1/2023 4:10:25</sup></sub>
+<sub><sup>Last updated: 2/1/2023 8:52:37</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
