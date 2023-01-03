@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Andy Bernard</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/1/2023 4:10:29</sup></sub>
+<sub><sup>Last updated: 3/1/2023 8:52:05</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
