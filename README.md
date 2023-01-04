@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/1/2023 20:19:41</sup></sub>
+<sub><sup>Last updated: 5/1/2023 0:18:09</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
