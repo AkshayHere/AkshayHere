@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Darryl Philbin</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/1/2023 4:11:06</sup></sub>
+<sub><sup>Last updated: 5/1/2023 8:55:07</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
