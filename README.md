@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/1/2023 8:55:07</sup></sub>
+<sub><sup>Last updated: 5/1/2023 12:12:59</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
