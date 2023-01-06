@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Everybody stay calm! Stay f*&#!#% calm!
 >
 > <p>- Michael Scott</p>
 
@@ -36,7 +36,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/1/2023 4:11:24</sup></sub>
+<sub><sup>Last updated: 6/1/2023 8:54:52</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
