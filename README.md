@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Andy Bernard</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/1/2023 12:12:30</sup></sub>
+<sub><sup>Last updated: 6/1/2023 16:13:20</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
