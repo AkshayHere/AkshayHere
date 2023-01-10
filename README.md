@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/1/2023 8:57:22</sup></sub>
+<sub><sup>Last updated: 10/1/2023 12:12:55</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
