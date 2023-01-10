@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> Did I stutter?
 >
-> <p>- Angela Martin</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/1/2023 20:20:36</sup></sub>
+<sub><sup>Last updated: 11/1/2023 0:15:53</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
