@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/1/2023 0:15:53</sup></sub>
+<sub><sup>Last updated: 11/1/2023 4:10:50</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
