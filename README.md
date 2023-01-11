@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/1/2023 20:20:10</sup></sub>
+<sub><sup>Last updated: 12/1/2023 0:20:29</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
