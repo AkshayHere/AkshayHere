@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Darryl Philbin</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/1/2023 20:21:59</sup></sub>
+<sub><sup>Last updated: 13/1/2023 0:28:04</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
