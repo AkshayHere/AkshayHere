@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/1/2023 16:12:37</sup></sub>
+<sub><sup>Last updated: 14/1/2023 20:17:04</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
