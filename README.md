@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2023 0:13:59</sup></sub>
+<sub><sup>Last updated: 17/1/2023 4:10:36</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
