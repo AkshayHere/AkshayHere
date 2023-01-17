@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> Did I stutter?
 >
-> <p>- Andy Bernard</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2023 4:10:36</sup></sub>
+<sub><sup>Last updated: 17/1/2023 8:53:55</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
