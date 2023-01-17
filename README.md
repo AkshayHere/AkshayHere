@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2023 20:21:19</sup></sub>
+<sub><sup>Last updated: 18/1/2023 0:13:51</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
