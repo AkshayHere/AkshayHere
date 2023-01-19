@@ -11,22 +11,22 @@ Would love to contribute to open source world.
 <br>
 
 <a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayhere&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt" />
 </a>
 
 <a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=akshayhere&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt" alt="Akshay's GitHub Stats" />
 </a>
 
 <br>
 
-## Curious what I am listening to
+## Latest Spotify Songs I am listening to
 
 <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-## 📣 How about an Office quote before you go?
+## 📣 Random Quote from characters of the Office TV Series (US version)
 
 > {office_quote}
 >
