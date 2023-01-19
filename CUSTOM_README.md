@@ -34,8 +34,6 @@ Would love to contribute to open source world.
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
-
 <br>
 
 <sub><sup>Last updated: {currentDate}</sup></sub>
