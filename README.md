@@ -9,13 +9,11 @@ Would love to contribute to open source world.
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
 <a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt" />
+  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt&card_width=410px" alt="Akshay's GitHub Stats" />
 </a>
-
 <a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt" alt="Akshay's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt&card_width=410px&line_height=29px" />
 </a>
 
 <br>
@@ -28,15 +26,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2023 16:50:56</sup></sub>
+<sub><sup>Last updated: 19/1/2023 16:53:50</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
