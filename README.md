@@ -28,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2023 8:55:54</sup></sub>
+<sub><sup>Last updated: 19/1/2023 12:13:25</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
