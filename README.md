@@ -13,6 +13,7 @@ Would love to contribute to open source world.
 <a href="https://github.com/akshayhere">
   <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt" />
 </a>
+
 <a href="https://github.com/akshayhere">
   <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt" alt="Akshay's GitHub Stats" />
 </a>
@@ -27,15 +28,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2023 16:39:00</sup></sub>
+<sub><sup>Last updated: 19/1/2023 16:42:19</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
