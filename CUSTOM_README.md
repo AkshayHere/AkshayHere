@@ -12,9 +12,6 @@ Would love to contribute to open source world.
 <a href="https://github.com/akshayhere">
   <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt&card_width=410px" alt="Akshay's GitHub Stats" />
 </a>
-<a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt&card_width=410px&line_height=29px" />
-</a>
 
 <br>
 
