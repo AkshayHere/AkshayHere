@@ -12,9 +12,6 @@ Would love to contribute to open source world.
 <a href="https://github.com/akshayhere">
   <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&hide=html,css&disable_animations=true&theme=cobalt&card_width=410px" alt="Akshay's GitHub Stats" />
 </a>
-<a href="https://github.com/akshayhere">
-  <img align="center" style="margin:0.5rem" src="https://dudes-abides-this-github-stats.vercel.app/api?username=akshayhere&show_icons=true&count_private=true&hide=stars,contribs&theme=cobalt&card_width=410px&line_height=29px" />
-</a>
 
 <br>
 
@@ -26,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2023 16:53:50</sup></sub>
+<sub><sup>Last updated: 19/1/2023 16:57:27</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
