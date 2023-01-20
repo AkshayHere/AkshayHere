@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sorry I annoyed you with my friendship.
+> It has to be official, and it has to be urine.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 20/1/2023 8:55:18</sup></sub>
+<sub><sup>Last updated: 20/1/2023 12:12:56</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
