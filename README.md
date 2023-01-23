@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Did I stutter?
 >
-> <p>- Andy Bernard</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 24/1/2023 0:13:52</sup></sub>
+<sub><sup>Last updated: 24/1/2023 4:11:06</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
