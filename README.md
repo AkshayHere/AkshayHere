@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have a lot of questions. Number one, how dare you?
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 25/1/2023 0:13:54</sup></sub>
+<sub><sup>Last updated: 25/1/2023 4:10:51</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
