@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Creed Bratton</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/1/2023 20:20:45</sup></sub>
+<sub><sup>Last updated: 27/1/2023 0:12:48</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
