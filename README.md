@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> It has to be official, and it has to be urine.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 27/1/2023 20:18:47</sup></sub>
+<sub><sup>Last updated: 28/1/2023 0:13:38</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
