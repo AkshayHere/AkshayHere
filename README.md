@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Ryan Howard</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 27/1/2023 12:12:30</sup></sub>
+<sub><sup>Last updated: 27/1/2023 16:13:05</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
