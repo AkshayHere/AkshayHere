@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It has to be official, and it has to be urine.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 28/1/2023 0:13:38</sup></sub>
+<sub><sup>Last updated: 28/1/2023 4:10:37</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
