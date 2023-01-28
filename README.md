@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 28/1/2023 4:10:37</sup></sub>
+<sub><sup>Last updated: 28/1/2023 8:54:29</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
