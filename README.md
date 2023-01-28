@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
@@ -31,7 +31,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/1/2023 0:12:31</sup></sub>
+<sub><sup>Last updated: 29/1/2023 4:09:51</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
