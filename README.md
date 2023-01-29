@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Dwight, you ignorant slut!
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/1/2023 12:12:10</sup></sub>
+<sub><sup>Last updated: 29/1/2023 16:12:14</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
