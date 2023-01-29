@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 29/1/2023 4:09:51</sup></sub>
+<sub><sup>Last updated: 29/1/2023 8:59:03</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
