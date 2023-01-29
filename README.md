@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 30/1/2023 0:12:26</sup></sub>
+<sub><sup>Last updated: 30/1/2023 4:09:57</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
