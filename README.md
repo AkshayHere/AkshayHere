@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Did I stutter?
 >
-> <p>- Oscar Martinez</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 31/1/2023 20:19:15</sup></sub>
+<sub><sup>Last updated: 1/2/2023 0:14:17</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
