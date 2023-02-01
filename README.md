@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 1/2/2023 20:21:07</sup></sub>
+<sub><sup>Last updated: 2/2/2023 0:13:06</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
