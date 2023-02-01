@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I. Declare. Bankruptcy!
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 1/2/2023 9:01:35</sup></sub>
+<sub><sup>Last updated: 1/2/2023 12:12:54</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
