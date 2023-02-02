@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 
@@ -31,7 +31,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 2/2/2023 8:55:33</sup></sub>
+<sub><sup>Last updated: 2/2/2023 12:12:46</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
