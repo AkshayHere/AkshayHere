@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/2/2023 0:14:18</sup></sub>
+<sub><sup>Last updated: 3/2/2023 4:11:12</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
