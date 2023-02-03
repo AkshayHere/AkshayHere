@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/2/2023 8:57:13</sup></sub>
+<sub><sup>Last updated: 3/2/2023 12:12:45</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
