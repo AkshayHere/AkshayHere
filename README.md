@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/2/2023 12:12:45</sup></sub>
+<sub><sup>Last updated: 3/2/2023 16:13:24</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
