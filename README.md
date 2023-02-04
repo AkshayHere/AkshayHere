@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/2/2023 8:53:18</sup></sub>
+<sub><sup>Last updated: 4/2/2023 12:11:59</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
