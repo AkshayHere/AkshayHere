@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/2/2023 8:59:12</sup></sub>
+<sub><sup>Last updated: 5/2/2023 12:12:06</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
