@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Toby Flenderson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/2/2023 4:09:50</sup></sub>
+<sub><sup>Last updated: 5/2/2023 8:59:12</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
