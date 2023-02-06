@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/2/2023 4:09:55</sup></sub>
+<sub><sup>Last updated: 6/2/2023 8:53:20</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
