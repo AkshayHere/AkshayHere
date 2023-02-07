@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Andy Bernard</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/2/2023 16:13:40</sup></sub>
+<sub><sup>Last updated: 7/2/2023 20:20:17</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
