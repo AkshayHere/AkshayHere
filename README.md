@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Pam Beesly</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/2/2023 4:11:18</sup></sub>
+<sub><sup>Last updated: 7/2/2023 8:54:50</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
