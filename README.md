@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I. Declare. Bankruptcy!
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Michael Scott</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/2/2023 16:14:12</sup></sub>
+<sub><sup>Last updated: 8/2/2023 20:20:06</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
