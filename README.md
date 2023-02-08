@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/2/2023 20:20:06</sup></sub>
+<sub><sup>Last updated: 9/2/2023 0:14:31</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
