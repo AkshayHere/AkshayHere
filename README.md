@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel God in this Chili’s tonight.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Pam Beesly</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 9/2/2023 12:12:34</sup></sub>
+<sub><sup>Last updated: 9/2/2023 16:13:51</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
