@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Gabe Lewis</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/2/2023 16:13:43</sup></sub>
+<sub><sup>Last updated: 10/2/2023 20:19:32</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
