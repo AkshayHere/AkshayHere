@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have a lot of questions. Number one, how dare you?
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/2/2023 0:14:24</sup></sub>
+<sub><sup>Last updated: 11/2/2023 4:11:18</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
