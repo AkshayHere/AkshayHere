@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/2/2023 16:12:52</sup></sub>
+<sub><sup>Last updated: 12/2/2023 20:18:29</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
