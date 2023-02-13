@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 13/2/2023 20:20:38</sup></sub>
+<sub><sup>Last updated: 14/2/2023 0:14:20</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
