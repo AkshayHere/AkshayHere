@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/2/2023 16:14:15</sup></sub>
+<sub><sup>Last updated: 14/2/2023 20:21:32</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
