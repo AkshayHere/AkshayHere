@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have a lot of questions. Number one, how dare you?
+> It has to be official, and it has to be urine.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 18/2/2023 20:18:15</sup></sub>
+<sub><sup>Last updated: 19/2/2023 0:13:11</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
