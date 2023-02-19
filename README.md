@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have a lot of questions. Number one, how dare you?
+> I. Declare. Bankruptcy!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/2/2023 12:12:32</sup></sub>
+<sub><sup>Last updated: 19/2/2023 16:12:59</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
