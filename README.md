@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 19/2/2023 8:57:49</sup></sub>
+<sub><sup>Last updated: 19/2/2023 12:12:32</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
