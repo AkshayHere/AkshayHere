@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2023 4:10:46</sup></sub>
+<sub><sup>Last updated: 20/2/2023 8:58:54</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
