@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
@@ -31,7 +31,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2023 8:58:54</sup></sub>
+<sub><sup>Last updated: 20/2/2023 12:13:12</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
