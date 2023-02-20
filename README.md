@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Sorry I annoyed you with my friendship.
 >
 > <p>- Andy Bernard</p>
 
@@ -31,7 +31,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2023 16:14:50</sup></sub>
+<sub><sup>Last updated: 20/2/2023 20:20:44</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
