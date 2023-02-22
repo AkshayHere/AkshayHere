@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Toby Flenderson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 22/2/2023 16:14:27</sup></sub>
+<sub><sup>Last updated: 22/2/2023 20:20:54</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
