@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you pray enough, you can change yourself into a cat person.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
 > <p>- Angela Martin</p>
 
@@ -31,7 +31,7 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 23/2/2023 12:13:18</sup></sub>
+<sub><sup>Last updated: 23/2/2023 16:14:03</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
