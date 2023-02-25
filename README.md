@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Jim Halpert</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2023 8:57:01</sup></sub>
+<sub><sup>Last updated: 25/2/2023 12:12:57</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
