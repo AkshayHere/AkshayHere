@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2023 4:11:50</sup></sub>
+<sub><sup>Last updated: 25/2/2023 8:57:01</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
