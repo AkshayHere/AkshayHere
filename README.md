@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2023 20:18:32</sup></sub>
+<sub><sup>Last updated: 26/2/2023 0:12:47</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
