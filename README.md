@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Dwight, you ignorant slut!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/2/2023 9:02:25</sup></sub>
+<sub><sup>Last updated: 26/2/2023 12:12:56</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
