@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/2/2023 12:12:56</sup></sub>
+<sub><sup>Last updated: 26/2/2023 16:13:02</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
