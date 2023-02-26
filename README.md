@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 26/2/2023 20:19:36</sup></sub>
+<sub><sup>Last updated: 27/2/2023 0:13:04</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
