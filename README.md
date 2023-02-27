@@ -23,15 +23,15 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 27/2/2023 8:57:18</sup></sub>
+<sub><sup>Last updated: 27/2/2023 12:13:25</sup></sub>
 
 <!-- > ### Want to know how I made this README?
 >
