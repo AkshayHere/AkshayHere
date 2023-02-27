@@ -1,9 +1,11 @@
 {
+    "type": "module",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "isomorphic-unfetch": "^3.1.0"
+        "isomorphic-unfetch": "^3.1.0",
+        "node-fetch": "^3.3.0"
     }
 }
