@@ -12,3 +12,7 @@ async function getRandomOfficeQuotes() {
 
 // FOR TESTING
 // console.log(getRandomOfficeQuotes());
+
+module.exports = {
+    getRandomOfficeQuotes,
+}
