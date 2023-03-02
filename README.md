@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Oscar Martinez</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 2/3/2023 9:01:24</sup></sub>
+<sub><sup>Last updated: 2/3/2023 12:13:35</sup></sub>
