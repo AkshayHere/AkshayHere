@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Michael Scott</p>
+> <p>- Phyllis Lapin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/3/2023 4:12:16</sup></sub>
+<sub><sup>Last updated: 3/3/2023 10:47:40</sup></sub>
