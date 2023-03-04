@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
@@ -31,4 +31,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/3/2023 12:12:58</sup></sub>
+<sub><sup>Last updated: 4/3/2023 16:12:56</sup></sub>
