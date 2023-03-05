@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Pam Beesly</p>
+> <p>- Oscar Martinez</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/3/2023 9:03:58</sup></sub>
+<sub><sup>Last updated: 5/3/2023 12:12:39</sup></sub>
