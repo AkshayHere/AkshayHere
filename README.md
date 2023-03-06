@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 6/3/2023 8:57:33</sup></sub>
+<sub><sup>Last updated: 6/3/2023 12:13:27</sup></sub>
