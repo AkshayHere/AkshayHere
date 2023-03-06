@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Erin Hannon</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/3/2023 0:14:44</sup></sub>
+<sub><sup>Last updated: 7/3/2023 4:11:48</sup></sub>
