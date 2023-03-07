@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Andy Bernard</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/3/2023 20:21:16</sup></sub>
+<sub><sup>Last updated: 8/3/2023 0:14:40</sup></sub>
