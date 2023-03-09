@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 9/3/2023 20:21:35</sup></sub>
+<sub><sup>Last updated: 10/3/2023 0:15:04</sup></sub>
