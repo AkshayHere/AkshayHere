@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am immensely proud of what I did for that turtle!
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Kevin Malone</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/3/2023 20:21:14</sup></sub>
+<sub><sup>Last updated: 11/3/2023 0:14:57</sup></sub>
