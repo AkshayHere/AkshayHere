@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/3/2023 20:17:58</sup></sub>
+<sub><sup>Last updated: 13/3/2023 0:12:26</sup></sub>
