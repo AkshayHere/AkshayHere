@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/3/2023 0:14:29</sup></sub>
+<sub><sup>Last updated: 14/3/2023 4:11:23</sup></sub>
