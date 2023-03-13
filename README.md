@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
@@ -31,4 +31,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 13/3/2023 16:14:12</sup></sub>
+<sub><sup>Last updated: 13/3/2023 20:21:18</sup></sub>
