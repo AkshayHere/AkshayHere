@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am immensely proud of what I did for that turtle!
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 14/3/2023 12:13:07</sup></sub>
+<sub><sup>Last updated: 14/3/2023 16:15:49</sup></sub>
