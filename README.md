@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
@@ -31,4 +31,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 16/3/2023 8:57:06</sup></sub>
+<sub><sup>Last updated: 16/3/2023 12:12:42</sup></sub>
