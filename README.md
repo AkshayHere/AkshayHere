@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 16/3/2023 12:12:42</sup></sub>
+<sub><sup>Last updated: 16/3/2023 16:13:46</sup></sub>
