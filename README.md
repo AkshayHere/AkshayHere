@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/3/2023 12:12:41</sup></sub>
+<sub><sup>Last updated: 17/3/2023 16:13:50</sup></sub>
