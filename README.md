@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It has to be official, and it has to be urine.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 17/3/2023 20:19:56</sup></sub>
+<sub><sup>Last updated: 18/3/2023 0:13:49</sup></sub>
