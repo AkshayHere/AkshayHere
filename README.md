@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sorry I annoyed you with my friendship.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Andy Bernard</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 21/3/2023 16:13:22</sup></sub>
+<sub><sup>Last updated: 21/3/2023 20:19:21</sup></sub>
