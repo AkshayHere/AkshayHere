@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you pray enough, you can change yourself into a cat person.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 22/3/2023 4:10:40</sup></sub>
+<sub><sup>Last updated: 22/3/2023 8:51:33</sup></sub>
