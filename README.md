@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 22/3/2023 8:51:33</sup></sub>
+<sub><sup>Last updated: 22/3/2023 12:11:41</sup></sub>
