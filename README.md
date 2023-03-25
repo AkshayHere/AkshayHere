@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I. Declare. Bankruptcy!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 25/3/2023 12:11:50</sup></sub>
+<sub><sup>Last updated: 25/3/2023 16:11:56</sup></sub>
