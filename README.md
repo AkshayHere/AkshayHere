@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 28/3/2023 12:12:15</sup></sub>
+<sub><sup>Last updated: 28/3/2023 16:14:28</sup></sub>
