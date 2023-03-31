@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 31/3/2023 8:53:37</sup></sub>
+<sub><sup>Last updated: 31/3/2023 12:12:05</sup></sub>
