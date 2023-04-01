@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 1/4/2023 12:11:27</sup></sub>
+<sub><sup>Last updated: 1/4/2023 16:11:40</sup></sub>
