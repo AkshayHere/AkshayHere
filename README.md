@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Did I stutter?
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 3/4/2023 0:11:08</sup></sub>
+<sub><sup>Last updated: 3/4/2023 4:09:26</sup></sub>
