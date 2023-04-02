@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you pray enough, you can change yourself into a cat person.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Angela Martin</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 2/4/2023 4:09:35</sup></sub>
+<sub><sup>Last updated: 2/4/2023 8:54:16</sup></sub>
