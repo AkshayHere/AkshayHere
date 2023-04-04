@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Oscar Martinez</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 4/4/2023 12:11:42</sup></sub>
+<sub><sup>Last updated: 4/4/2023 16:12:56</sup></sub>
