@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2023 8:52:27</sup></sub>
+<sub><sup>Last updated: 5/4/2023 12:11:45</sup></sub>
