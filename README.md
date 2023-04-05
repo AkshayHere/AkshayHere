@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
 > <p>- Pam Beesly</p>
 
@@ -31,4 +31,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2023 20:23:12</sup></sub>
+<sub><sup>Last updated: 6/4/2023 0:15:44</sup></sub>
