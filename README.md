@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 
@@ -31,4 +31,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2023 4:10:30</sup></sub>
+<sub><sup>Last updated: 5/4/2023 8:52:27</sup></sub>
