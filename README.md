@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you pray enough, you can change yourself into a cat person.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Angela Martin</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2023 16:13:24</sup></sub>
+<sub><sup>Last updated: 5/4/2023 20:23:12</sup></sub>
