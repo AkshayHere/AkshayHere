@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I. Declare. Bankruptcy!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 7/4/2023 16:12:22</sup></sub>
+<sub><sup>Last updated: 7/4/2023 20:17:34</sup></sub>
