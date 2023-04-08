@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have a lot of questions. Number one, how dare you?
+> I feel God in this Chili’s tonight.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/4/2023 16:11:21</sup></sub>
+<sub><sup>Last updated: 8/4/2023 20:16:16</sup></sub>
