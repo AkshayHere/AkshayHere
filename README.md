@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel God in this Chili’s tonight.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 8/4/2023 20:16:16</sup></sub>
+<sub><sup>Last updated: 9/4/2023 0:11:20</sup></sub>
