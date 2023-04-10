@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Did I stutter?
+> I. Declare. Bankruptcy!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/4/2023 4:09:35</sup></sub>
+<sub><sup>Last updated: 10/4/2023 8:51:08</sup></sub>
