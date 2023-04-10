@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you pray enough, you can change yourself into a cat person.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Angela Martin</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 10/4/2023 20:17:56</sup></sub>
+<sub><sup>Last updated: 11/4/2023 0:12:18</sup></sub>
