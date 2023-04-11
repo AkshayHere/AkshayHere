@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> It has to be official, and it has to be urine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 11/4/2023 8:50:55</sup></sub>
+<sub><sup>Last updated: 11/4/2023 12:11:22</sup></sub>
