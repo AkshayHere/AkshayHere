@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 12/4/2023 4:10:16</sup></sub>
+<sub><sup>Last updated: 12/4/2023 8:50:19</sup></sub>
