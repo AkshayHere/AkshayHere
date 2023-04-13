@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Pam Beesly</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 13/4/2023 12:11:49</sup></sub>
+<sub><sup>Last updated: 13/4/2023 16:12:41</sup></sub>
