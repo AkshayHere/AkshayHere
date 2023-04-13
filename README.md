@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 <br>
 
-<sub><sup>Last updated: 13/4/2023 16:12:41</sup></sub>
+<sub><sup>Last updated: 13/4/2023 20:18:40</sup></sub>
