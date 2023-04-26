@@ -9,22 +9,22 @@ async function main() {
   const office_quote = await getRandomOfficeQuotes();
    console.log('office_quote >> ', office_quote);
 
-  // if (office_quote) {
-  //   const currentDate = new Date().toLocaleString("SG", {
-  //     timeZone: "Asia/Singapore",
-  //   });
-  //   const { content, character } = office_quote.data;
-  //   const readme = readmeTemplate
-  //     .replace("{office_quote}", content)
-  //     .replace(
-  //       "{office_character}",
-  //       `- ${character.firstname} ${character.lastname}`
-  //     )
-  //     .replace("{currentDate}", currentDate);
-  //   // console.log(readme);
+  if (office_quote) {
+    const currentDate = new Date().toLocaleString("SG", {
+      timeZone: "Asia/Singapore",
+    });
+    const { content, character } = office_quote.data;
+    const readme = readmeTemplate
+      .replace("{office_quote}", content)
+      .replace(
+        "{office_character}",
+        `- ${character.firstname} ${character.lastname}`
+      )
+      .replace("{currentDate}", currentDate);
+    // console.log(readme);
 
-  //   await fs.writeFile("README.md", readme);
-  // }
+    await fs.writeFile("README.md", readme);
+  }
 }
 
 main();
