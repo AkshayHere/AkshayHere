@@ -21,13 +21,18 @@ Would love to contribute to open source world.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-## 📣 Random Quote from characters of the Office TV Series (US version)
+## Random XKCD Strip
+
+![Alt XKCD]({XKCDUrl})
+
+
+<!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
 
 > {office_quote}
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
