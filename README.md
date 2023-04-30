@@ -21,14 +21,19 @@ Would love to contribute to open source world.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-## 📣 Random Quote from characters of the Office TV Series (US version)
+## Random XKCD Strip
 
-> It has to be official, and it has to be urine.
+![Alt XKCD](https://imgs.xkcd.com/comics/e_scooters.png)
+
+
+<!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
+
+> {office_quote}
 >
-> <p>- Dwight Schrute</p>
+> <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 18/4/2023 4:10:19</sup></sub>
+<sub><sup>Last updated: {currentDate}</sup></sub>
