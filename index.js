@@ -12,17 +12,18 @@ async function main() {
   const currentDate = new Date().toLocaleString("SG", {
     timeZone: "Asia/Singapore",
   });
+  console.log("currentDate", currentDate);
 
   // Get XKCD Random URL
   const XKCDUrl = await getRandomXKCD();
   console.log("XKCDUrl", XKCDUrl);
 
   let readme = readmeTemplate.replace("{currentDate}", currentDate);
-  
+
   if (office_quote) {
     if (office_quote) {
       const { content, character } = office_quote.data;
-      readme = readmeTemplate
+      readme = readme
         .replace("{office_quote}", content)
         .replace(
           "{office_character}",
@@ -32,10 +33,9 @@ async function main() {
   }
 
   if (XKCDUrl) {
-    readme = readmeTemplate.replace("{XKCDUrl}", XKCDUrl);
+    readme = readme.replace("{XKCDUrl}", XKCDUrl);
   }
   console.log("readme", readme);
-
   await fs.writeFile("README.md", readme);
 }
 

@@ -28,7 +28,7 @@ function getRandomXKCD() {
             // console.log(link.src);
             links.push(link.src);
           });
-          console.log("links >> ", links);
+          // console.log("links >> ", links);
           resolve(links)
         });
       } else {
