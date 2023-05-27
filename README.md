@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## Random XKCD Strip
 
-![Alt XKCD](https://imgs.xkcd.com/comics/redwall.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/perspective.png)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 26/5/2023 10:30:01</sup></sub>
+<sub><sup>Last updated: 27/5/2023 10:28:58</sup></sub>
