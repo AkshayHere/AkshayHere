@@ -21,9 +21,9 @@ Would love to contribute to open source world.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-## Random XKCD Strip
+## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/launch_risk.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/grandpa_jason_and_grandpa_chad.png)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 5/6/2023 10:48:26</sup></sub>
+<sub><sup>Last updated: 5/6/2023 14:08:30</sup></sub>
