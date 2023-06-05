@@ -1,13 +1,11 @@
-name: Dynamic README injection
+name: Dynamic README Update Workflow
 on:
   schedule: # Run workflow automatically
-    # This will make it run every 4 hours
-    #- cron: "0 */4 * * *"
-    - cron: "0 2 * * *"
+    - cron: "0 15 * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
-  get-office-quotes:
+  update-readme-contents:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -35,13 +33,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-  # update-readme-with-blog:
-  #   needs: get-office-quotes
-  #   name: Update this repo's README with latest blog posts
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - uses: gautamkrishnar/blog-post-workflow@master
-  #       with:
-  #         # Replace this URL with your rss feed URL/s
-  #         feed_list: "https://braydoncoyer.dev/rss.xml"

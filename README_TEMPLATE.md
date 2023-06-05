@@ -21,7 +21,7 @@ Would love to contribute to open source world.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
 
-## Random XKCD Strip
+## XKCD of the Day
 
 ![Alt XKCD]({XKCDUrl})
 
