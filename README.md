@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/quirky_girls.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 6/6/2023 23:15:30</sup></sub>
+<sub><sup>Last updated: 7/6/2023 23:16:03</sup></sub>
