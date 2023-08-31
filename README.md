@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/george_clinton.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/1_100000th_scale_world.png)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 30/8/2023 23:15:42</sup></sub>
+<sub><sup>Last updated: 31/8/2023 23:15:33</sup></sub>
