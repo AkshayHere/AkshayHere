@@ -23,7 +23,7 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/skins.png)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 8/9/2023 23:12:42</sup></sub>
+<sub><sup>Last updated: 9/9/2023 23:13:23</sup></sub>
