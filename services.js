@@ -38,7 +38,7 @@ function getRandomXKCD() {
     });
   }).then((links) => {
     console.log(links);
-    return links[2] ?? '';
+    return links[1] ?? '';
   });
 }
 
