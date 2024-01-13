@@ -19,7 +19,7 @@ async function getRandomOfficeQuotes() {
 
 function getRandomXKCD() {
   const req_url = "https://c.xkcd.com/random/comic/"
-  logger.log('req_url: ', req_url);
+  console.log('req_url: ', req_url);
   return new Promise((resolve, reject) => {
     request({ uri: req_url }, function (error, response, body) {
       if (!error && response.statusCode == 200) {
