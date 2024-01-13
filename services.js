@@ -19,16 +19,17 @@ async function getRandomOfficeQuotes() {
 
 function getRandomXKCD() {
   const req_url = "https://c.xkcd.com/random/comic/"
+  logger.log('req_url: ', req_url);
   return new Promise((resolve, reject) => {
     request({ uri: req_url }, function (error, response, body) {
       if (!error && response.statusCode == 200) {
         const links = []
         JSDOM.fromURL(req_url).then((dom) => {
           dom.window.document.querySelectorAll("img").forEach((link) => {
-            // console.log(link.src);
+            console.log(link.src);
             links.push(link.src);
           });
-          // console.log("links >> ", links);
+          console.log("links >> ", links);
           resolve(links)
         });
       } else {
@@ -36,6 +37,7 @@ function getRandomXKCD() {
       }
     });
   }).then((links) => {
+    console.log(links);
     return links[2] ?? '';
   });
 }
