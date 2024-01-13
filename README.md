@@ -19,7 +19,7 @@ Would love to contribute to open source world.
 
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique={true|1|on|yes})
+![Spotify Details](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique=true)
 
 ## XKCD of the Day
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 13/1/2024 23:15:00</sup></sub>
+<sub><sup>Last updated: 13/1/2024 23:26:10</sup></sub>
