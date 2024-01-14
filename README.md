@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/new_pet.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/road_rage.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/1/2024 22:46:14</sup></sub>
+<sub><sup>Last updated: 14/1/2024 23:14:55</sup></sub>
