@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dual_usb_c.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> {office_quote}
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
-> <p>{office_character}</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
 
 <br>
 
-<sub><sup>Last updated: 13/1/2024 23:48:01</sup></sub>
+<sub><sup>Last updated: 14/1/2024 22:44:06</sup></sub>
