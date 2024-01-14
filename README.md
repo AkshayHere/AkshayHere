@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/new_pet.png)
 
 
-<!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
+## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
+_Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/1/2024 22:44:06</sup></sub>
+<sub><sup>Last updated: 14/1/2024 22:46:14</sup></sub>
