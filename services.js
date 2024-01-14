@@ -26,7 +26,7 @@ function getRandomXKCD() {
     request({ uri: XKCD_RANDOM_URL }, function (error, response, body) {
       if (!error && response.statusCode == 200) {
         const links = [];
-        JSDOM.fromURL(req_url).then((dom) => {
+        JSDOM.fromURL(XKCD_RANDOM_URL).then((dom) => {
           dom.window.document.querySelectorAll("img").forEach((link) => {
             console.log(link.src);
             links.push(link.src);
