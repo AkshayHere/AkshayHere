@@ -14,7 +14,7 @@ async function getRandomOfficeQuotes() {
       console.error(`Error : ${err.message}`)
     );
     const officeData = await officeQuote.json();
-    console.log(officeData.data);
+    console.log(officeData);
     return officeData;
   } catch (error) {
     console.error(`Exception @ getRandomOfficeQuotes > ${error.message}`);
