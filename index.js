@@ -30,7 +30,7 @@ async function main() {
     }
   }
 
-  if (XKCDUrl) {
+  if (urlXKCD) {
     readme = readme.replace("{XKCDUrl}", urlXKCD);
   }
   console.log("readme", readme);
