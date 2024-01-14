@@ -23,7 +23,7 @@ async function main() {
 
   if (officeData) {
     if (officeData) {
-      const { quote, character } = officeData.data;
+      const { quote, character } = officeData;
       readme = readme
         .replace("{office_quote}", quote)
         .replace("{office_character}", `- ${character}`);
