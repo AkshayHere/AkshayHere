@@ -26,13 +26,13 @@ Would love to contribute to open source world.
 ![Alt XKCD]({XKCDUrl})
 
 
-<!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
+## 📣 Random Quote from characters of the Office TV Series (US version)
 
 > {office_quote}
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_ -->
+_Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
