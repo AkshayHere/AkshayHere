@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/road_rage.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/hotels.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/1/2024 23:14:55</sup></sub>
+<sub><sup>Last updated: 15/1/2024 23:16:30</sup></sub>
