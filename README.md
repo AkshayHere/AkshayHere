@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hotels.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pep_rally.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So, Jim is actually my friend. But because he is his own worst enemy, the enemy of my friend is my enemy so, actually, Jim is my enemy.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 15/1/2024 23:16:30</sup></sub>
+<sub><sup>Last updated: 16/1/2024 23:16:30</sup></sub>
