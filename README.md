@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pep_rally.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bad_date.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So, Jim is actually my friend. But because he is his own worst enemy, the enemy of my friend is my enemy so, actually, Jim is my enemy.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/1/2024 23:16:30</sup></sub>
+<sub><sup>Last updated: 17/1/2024 23:16:36</sup></sub>
