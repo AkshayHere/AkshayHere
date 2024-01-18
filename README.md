@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bad_date.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/open_letter.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2024 23:16:36</sup></sub>
+<sub><sup>Last updated: 18/1/2024 23:16:41</sup></sub>
