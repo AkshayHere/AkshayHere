@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/open_letter.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/parameterball.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
+> I’ve got to make sure that YouTube comes down to tape this.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/1/2024 23:16:41</sup></sub>
+<sub><sup>Last updated: 19/1/2024 23:16:56</sup></sub>
