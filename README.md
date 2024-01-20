@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/parameterball.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/connoisseur.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’ve got to make sure that YouTube comes down to tape this.
+> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2024 23:16:56</sup></sub>
+<sub><sup>Last updated: 20/1/2024 23:14:35</sup></sub>
