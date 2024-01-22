@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/noise_filter.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a-minus-minus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not gonna cry over it. I did that in the car on the way home.
+> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/1/2024 23:14:59</sup></sub>
+<sub><sup>Last updated: 22/1/2024 23:17:22</sup></sub>
