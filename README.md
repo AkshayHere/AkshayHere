@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/53_cards.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/jack_and_jill.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You couldn’t handle my undivided attention.
+> Dwight, you ignorant slut!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/1/2024 23:17:02</sup></sub>
+<sub><sup>Last updated: 24/1/2024 23:17:28</sup></sub>
