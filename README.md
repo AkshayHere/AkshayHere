@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/infinite_scrolling.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/blockchain.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/1/2024 23:17:20</sup></sub>
+<sub><sup>Last updated: 26/1/2024 23:15:23</sup></sub>
