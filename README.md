@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/eternal_flame.gif)
+![Alt XKCD](https://imgs.xkcd.com/comics/birth.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
+> I’m not superstitious but I am a little stitious.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/1/2024 23:13:01</sup></sub>
+<sub><sup>Last updated: 29/1/2024 23:14:51</sup></sub>
