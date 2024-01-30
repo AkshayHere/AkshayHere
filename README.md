@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/birth.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not superstitious but I am a little stitious.
+> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/1/2024 23:14:51</sup></sub>
+<sub><sup>Last updated: 30/1/2024 23:15:57</sup></sub>
