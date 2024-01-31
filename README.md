@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/close_to_you.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 30/1/2024 23:15:57</sup></sub>
+<sub><sup>Last updated: 31/1/2024 23:15:01</sup></sub>
