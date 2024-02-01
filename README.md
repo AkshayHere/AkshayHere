@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/close_to_you.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/air_travel_packing_list.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Get a friend, loser.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 31/1/2024 23:15:01</sup></sub>
+<sub><sup>Last updated: 1/2/2024 23:14:43</sup></sub>
