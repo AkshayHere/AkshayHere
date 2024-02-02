@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/air_travel_packing_list.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_genres.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Get a friend, loser.
+> Always the Padawan, never the Jedi.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/2/2024 23:14:43</sup></sub>
+<sub><sup>Last updated: 2/2/2024 23:15:33</sup></sub>
