@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_genres.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/consensus_new_year.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Always the Padawan, never the Jedi.
+> When someone smiles at me, all I see is a chimpanzee begging for its life.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/2/2024 23:15:33</sup></sub>
+<sub><sup>Last updated: 3/2/2024 23:13:49</sup></sub>
