@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/consensus_new_year.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> I say dance, they say ‘How high?'
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/2/2024 23:13:49</sup></sub>
+<sub><sup>Last updated: 4/2/2024 23:13:30</sup></sub>
