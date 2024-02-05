@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/predictive_models.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I say dance, they say ‘How high?'
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/2/2024 23:13:30</sup></sub>
+<sub><sup>Last updated: 5/2/2024 23:14:53</sup></sub>
