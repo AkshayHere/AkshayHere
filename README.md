@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dne.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/water_delivery.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/2/2024 23:15:08</sup></sub>
+<sub><sup>Last updated: 7/2/2024 23:14:47</sup></sub>
