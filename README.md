@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/water_delivery.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/lying.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/2/2024 23:14:47</sup></sub>
+<sub><sup>Last updated: 8/2/2024 23:15:31</sup></sub>
