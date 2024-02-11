@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/schrodinger.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/similarities.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> As it turns out, you can’t just check someone into rehab against their will. They have to do it voluntarily. They have to hit rock bottom. So, I think I know what I need to do at this point. I need to find ways to push Meredith to the bottom. Um. I think I can do it.
+> A real man swallows his vomit when a lady is present.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/2/2024 23:13:32</sup></sub>
+<sub><sup>Last updated: 11/2/2024 23:15:51</sup></sub>
