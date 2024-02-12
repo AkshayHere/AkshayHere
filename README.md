@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/similarities.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/footprints.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> A real man swallows his vomit when a lady is present.
+> I really like Andy these days. He’s pretended, and he does exactly as I tell him to. All that will change when real Andy comes back tomorrow. Unless he comes back as pretend Dwight. In which case, we’re in for an epic, confusing showdown.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/2/2024 23:15:51</sup></sub>
+<sub><sup>Last updated: 12/2/2024 23:15:42</sup></sub>
