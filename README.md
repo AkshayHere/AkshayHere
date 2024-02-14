@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/finish_line.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/grownups.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
+> Pizza: the great equalizer.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/2/2024 23:13:57</sup></sub>
+<sub><sup>Last updated: 14/2/2024 23:15:02</sup></sub>
