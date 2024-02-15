@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/grownups.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Pizza: the great equalizer.
+> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/2/2024 23:15:02</sup></sub>
+<sub><sup>Last updated: 15/2/2024 23:15:07</sup></sub>
