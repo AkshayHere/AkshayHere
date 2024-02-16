@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bookstore.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
+> OK, see you later, Pan.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/2/2024 23:15:07</sup></sub>
+<sub><sup>Last updated: 16/2/2024 23:16:01</sup></sub>
