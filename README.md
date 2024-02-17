@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bookstore.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nightmare_email_feature.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, see you later, Pan.
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/2/2024 23:16:01</sup></sub>
+<sub><sup>Last updated: 17/2/2024 23:14:24</sup></sub>
