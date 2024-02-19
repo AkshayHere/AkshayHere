@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ipod.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bubble_universes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/2/2024 23:15:37</sup></sub>
+<sub><sup>Last updated: 19/2/2024 23:15:46</sup></sub>
