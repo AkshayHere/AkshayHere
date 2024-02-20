@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bubble_universes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/2/2024 23:15:46</sup></sub>
+<sub><sup>Last updated: 20/2/2024 23:14:12</sup></sub>
