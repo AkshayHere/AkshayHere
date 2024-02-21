@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mc_hammer_age.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
 >
-> <p>- Creed Bratton</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2024 23:14:12</sup></sub>
+<sub><sup>Last updated: 21/2/2024 23:15:06</sup></sub>
