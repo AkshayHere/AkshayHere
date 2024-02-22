@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mc_hammer_age.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fucking_blue_shells.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/2/2024 23:15:06</sup></sub>
+<sub><sup>Last updated: 22/2/2024 23:15:22</sup></sub>
