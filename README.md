@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_simpsons.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/starshade.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2024 23:13:27</sup></sub>
+<sub><sup>Last updated: 26/2/2024 23:15:40</sup></sub>
