@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fountain.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nighttime_stories.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life — my own.
+> It’s a good thing Russia doesn’t exist anymore.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 27/2/2024 23:15:25</sup></sub>
+<sub><sup>Last updated: 28/2/2024 23:14:58</sup></sub>
