@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/nighttime_stories.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/city.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> You think you’re excited? You should feel my nipples. Boing!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/2/2024 23:14:58</sup></sub>
+<sub><sup>Last updated: 29/2/2024 23:15:12</sup></sub>
