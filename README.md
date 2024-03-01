@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/city.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You think you’re excited? You should feel my nipples. Boing!
+> Today, smoking is going to save lives.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/2/2024 23:15:12</sup></sub>
+<sub><sup>Last updated: 1/3/2024 23:16:38</sup></sub>
