@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lunch_order.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/household_tips.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly.
+> If I can’t scuba, then what’s this all been about? What am I working toward?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/3/2024 23:13:46</sup></sub>
+<sub><sup>Last updated: 3/3/2024 23:14:24</sup></sub>
