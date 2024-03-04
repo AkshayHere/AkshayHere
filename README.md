@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/household_tips.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/research_risks.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I can’t scuba, then what’s this all been about? What am I working toward?
+> Get a friend, loser.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/3/2024 23:14:24</sup></sub>
+<sub><sup>Last updated: 4/3/2024 23:16:41</sup></sub>
