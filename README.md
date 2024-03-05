@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/research_risks.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/seven_years.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Get a friend, loser.
+> It’s a good thing Russia doesn’t exist anymore.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/3/2024 23:16:41</sup></sub>
+<sub><sup>Last updated: 5/3/2024 23:15:20</sup></sub>
