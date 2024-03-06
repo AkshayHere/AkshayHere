@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/seven_years.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cloud_swirls.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> Bread is the paper of the food industry. You write your sandwich on it.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/3/2024 23:15:20</sup></sub>
+<sub><sup>Last updated: 6/3/2024 23:17:26</sup></sub>
