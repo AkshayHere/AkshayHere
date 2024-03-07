@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cloud_swirls.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/marie_curie.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bread is the paper of the food industry. You write your sandwich on it.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 6/3/2024 23:17:26</sup></sub>
+<sub><sup>Last updated: 7/3/2024 23:15:12</sup></sub>
