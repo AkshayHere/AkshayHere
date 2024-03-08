@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/marie_curie.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/exoplanet_names_2.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 7/3/2024 23:15:12</sup></sub>
+<sub><sup>Last updated: 8/3/2024 23:15:40</sup></sub>
