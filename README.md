@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wikipedia_caltrops.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/humans.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+> Not enough for me? You are everything.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/3/2024 23:13:38</sup></sub>
+<sub><sup>Last updated: 10/3/2024 23:13:24</sup></sub>
