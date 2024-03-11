@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/humans.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/unreliable_connection.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Not enough for me? You are everything.
+> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/3/2024 23:13:24</sup></sub>
+<sub><sup>Last updated: 11/3/2024 23:16:35</sup></sub>
