@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/unreliable_connection.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/never_told_anyone.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/3/2024 23:16:35</sup></sub>
+<sub><sup>Last updated: 12/3/2024 23:15:10</sup></sub>
