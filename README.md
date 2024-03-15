@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/spelling.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/paradise_city.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/3/2024 23:15:47</sup></sub>
+<sub><sup>Last updated: 15/3/2024 23:15:10</sup></sub>
