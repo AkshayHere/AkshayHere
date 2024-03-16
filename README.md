@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/paradise_city.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mbmbam.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> It takes an advanced sense of humor. I don’t expect everyone to understand.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 15/3/2024 23:15:10</sup></sub>
+<sub><sup>Last updated: 16/3/2024 23:13:23</sup></sub>
