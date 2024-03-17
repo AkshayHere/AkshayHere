@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mbmbam.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/flash_games.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/3/2024 23:13:23</sup></sub>
+<sub><sup>Last updated: 17/3/2024 23:15:23</sup></sub>
