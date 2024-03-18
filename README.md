@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/flash_games.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pet_peeve_114.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/3/2024 23:15:23</sup></sub>
+<sub><sup>Last updated: 18/3/2024 23:15:34</sup></sub>
