@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pet_peeve_114.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+> You only live once? False. You live every day. You only die once.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/3/2024 23:15:34</sup></sub>
+<sub><sup>Last updated: 19/3/2024 23:16:31</sup></sub>
