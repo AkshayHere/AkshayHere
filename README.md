@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/space_adventure.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You only live once? False. You live every day. You only die once.
+> I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/3/2024 23:16:31</sup></sub>
+<sub><sup>Last updated: 20/3/2024 23:16:35</sup></sub>
