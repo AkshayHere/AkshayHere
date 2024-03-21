@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/space_adventure.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stingray_nebula.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/3/2024 23:16:35</sup></sub>
+<sub><sup>Last updated: 21/3/2024 23:16:23</sup></sub>
