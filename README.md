@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stingray_nebula.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/1996.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> Five minutes ahead of schedule… right on schedule.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/3/2024 23:16:23</sup></sub>
+<sub><sup>Last updated: 22/3/2024 23:14:45</sup></sub>
