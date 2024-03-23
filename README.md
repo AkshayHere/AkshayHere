@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/1996.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sharks.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Five minutes ahead of schedule… right on schedule.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/3/2024 23:14:45</sup></sub>
+<sub><sup>Last updated: 23/3/2024 23:16:29</sup></sub>
