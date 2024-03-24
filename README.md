@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sharks.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/time_tracking_software.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/3/2024 23:16:29</sup></sub>
+<sub><sup>Last updated: 24/3/2024 23:13:58</sup></sub>
