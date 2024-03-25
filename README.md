@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/time_tracking_software.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/singularity.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
+> Well, well, well, how the turntables.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/3/2024 23:13:58</sup></sub>
+<sub><sup>Last updated: 25/3/2024 23:16:55</sup></sub>
