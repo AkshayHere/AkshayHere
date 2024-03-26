@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/singularity.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, well, well, how the turntables.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/3/2024 23:16:55</sup></sub>
+<sub><sup>Last updated: 26/3/2024 23:15:07</sup></sub>
