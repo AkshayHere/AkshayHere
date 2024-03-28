@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/calendar_facts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/3/2024 23:16:25</sup></sub>
+<sub><sup>Last updated: 28/3/2024 23:16:41</sup></sub>
