@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/3/2024 23:16:41</sup></sub>
+<sub><sup>Last updated: 29/3/2024 23:15:46</sup></sub>
