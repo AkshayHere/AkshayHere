@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ears.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill, I go back to sleep again. Then I wake up to the smell of crackling bacon.
+> You think you’re excited? You should feel my nipples. Boing!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/3/2024 23:13:44</sup></sub>
+<sub><sup>Last updated: 1/4/2024 23:15:26</sup></sub>
