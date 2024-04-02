@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You think you’re excited? You should feel my nipples. Boing!
+> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/4/2024 23:15:26</sup></sub>
+<sub><sup>Last updated: 2/4/2024 23:16:39</sup></sub>
