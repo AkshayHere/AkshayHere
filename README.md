@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/art_project.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+> I love my employees even though I hit one of you with my car.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/4/2024 23:16:39</sup></sub>
+<sub><sup>Last updated: 3/4/2024 23:15:11</sup></sub>
