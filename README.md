@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/meat_cereals.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_ring.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> People will never be replaced by machines. In the end, life and business are about human connections. And computers are about trying to murder you in a lake. And to me the choice is easy.
+> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/4/2024 23:15:27</sup></sub>
+<sub><sup>Last updated: 5/4/2024 23:15:39</sup></sub>
