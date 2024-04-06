@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_ring.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/barrel_whirlpool.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+> I love my employees even though I hit one of you with my car.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/4/2024 23:15:39</sup></sub>
+<sub><sup>Last updated: 6/4/2024 23:14:34</sup></sub>
