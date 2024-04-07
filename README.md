@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/barrel_whirlpool.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/thor_tools.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I love my employees even though I hit one of you with my car.
+> Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/4/2024 23:14:34</sup></sub>
+<sub><sup>Last updated: 7/4/2024 23:15:48</sup></sub>
