@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/washing_machine_settings.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s Britney, bitch.
+> Always the Padawan, never the Jedi.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/4/2024 23:16:31</sup></sub>
+<sub><sup>Last updated: 12/4/2024 23:15:22</sup></sub>
