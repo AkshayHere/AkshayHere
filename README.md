@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/time_travel_thesis.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Always the Padawan, never the Jedi.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/4/2024 23:15:22</sup></sub>
+<sub><sup>Last updated: 13/4/2024 23:11:17</sup></sub>
