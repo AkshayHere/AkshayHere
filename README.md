@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/time_travel_thesis.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/microsoft.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> You don’t know me, you’ve just seen my penis.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/4/2024 23:11:17</sup></sub>
+<sub><sup>Last updated: 15/4/2024 6:05:47</sup></sub>
