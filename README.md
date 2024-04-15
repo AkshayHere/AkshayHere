@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/microsoft.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/prediction.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You don’t know me, you’ve just seen my penis.
+> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/4/2024 6:05:47</sup></sub>
+<sub><sup>Last updated: 15/4/2024 23:15:58</sup></sub>
