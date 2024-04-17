@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rey_and_kylo.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/backup_batteries.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael will be related to this baby through... delusion.
+> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/4/2024 23:15:57</sup></sub>
+<sub><sup>Last updated: 17/4/2024 23:18:38</sup></sub>
