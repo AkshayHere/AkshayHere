@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/backup_batteries.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a-minus-minus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
+> OK, see you later, Pan.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/4/2024 23:18:38</sup></sub>
+<sub><sup>Last updated: 18/4/2024 23:16:18</sup></sub>
