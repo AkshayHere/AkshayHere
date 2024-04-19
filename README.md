@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a-minus-minus.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, see you later, Pan.
+> Tell him to call me ASAP as possible.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/4/2024 23:16:18</sup></sub>
+<sub><sup>Last updated: 19/4/2024 23:16:05</sup></sub>
