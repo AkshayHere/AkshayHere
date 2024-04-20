@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/flowers.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Tell him to call me ASAP as possible.
+> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/4/2024 23:16:05</sup></sub>
+<sub><sup>Last updated: 20/4/2024 23:15:09</sup></sub>
