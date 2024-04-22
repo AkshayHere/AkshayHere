@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dominant_players.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stack.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I find the mystery genre disgusting. I hate being titillated.
+> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/4/2024 23:14:54</sup></sub>
+<sub><sup>Last updated: 22/4/2024 23:16:35</sup></sub>
