@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stack.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/college_knowledge.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
+> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 22/4/2024 23:16:35</sup></sub>
+<sub><sup>Last updated: 23/4/2024 23:15:26</sup></sub>
