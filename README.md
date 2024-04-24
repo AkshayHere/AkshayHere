@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/college_knowledge.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/universal_install_script.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> When I discovered YouTube, I didn’t work for five days.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/4/2024 23:15:26</sup></sub>
+<sub><sup>Last updated: 24/4/2024 23:17:28</sup></sub>
