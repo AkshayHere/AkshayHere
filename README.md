@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/universal_install_script.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/phone_checking.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When I discovered YouTube, I didn’t work for five days.
+> Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/4/2024 23:17:28</sup></sub>
+<sub><sup>Last updated: 25/4/2024 23:16:58</sup></sub>
