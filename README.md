@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/phone_checking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mobius_battle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/4/2024 23:16:58</sup></sub>
+<sub><sup>Last updated: 26/4/2024 23:16:58</sup></sub>
