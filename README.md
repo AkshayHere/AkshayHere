@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/language_development.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/dying_gift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> When I President, they see. They see.
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/4/2024 23:14:40</sup></sub>
+<sub><sup>Last updated: 28/4/2024 23:15:25</sup></sub>
