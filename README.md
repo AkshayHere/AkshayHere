@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dying_gift.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_past.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When I President, they see. They see.
+> It’s Britney, bitch.
 >
-> <p>- Kevin Malone</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/4/2024 23:15:25</sup></sub>
+<sub><sup>Last updated: 29/4/2024 23:17:17</sup></sub>
