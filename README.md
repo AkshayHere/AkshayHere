@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_past.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/idiocracy.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s Britney, bitch.
+> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/4/2024 23:17:17</sup></sub>
+<sub><sup>Last updated: 30/4/2024 23:13:42</sup></sub>
