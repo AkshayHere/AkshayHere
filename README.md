@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/idiocracy.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/polar_cartesian.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/4/2024 23:13:42</sup></sub>
+<sub><sup>Last updated: 1/5/2024 23:16:19</sup></sub>
