@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/polar_cartesian.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nightmare_code.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/5/2024 23:16:19</sup></sub>
+<sub><sup>Last updated: 2/5/2024 23:17:11</sup></sub>
