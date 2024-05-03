@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/nightmare_code.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
+> And I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/5/2024 23:17:11</sup></sub>
+<sub><sup>Last updated: 3/5/2024 23:17:19</sup></sub>
