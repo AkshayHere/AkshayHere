@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sticks_and_stones.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I feel God in this Chili’s tonight.
+> Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/5/2024 23:17:19</sup></sub>
+<sub><sup>Last updated: 4/5/2024 23:15:36</sup></sub>
