@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sticks_and_stones.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/incident_report.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised.
+> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/5/2024 23:15:36</sup></sub>
+<sub><sup>Last updated: 5/5/2024 23:16:52</sup></sub>
