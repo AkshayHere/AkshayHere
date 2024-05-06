@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/incident_report.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ineffective_sorts.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
+> The worst thing about prison was the dementors.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/5/2024 23:16:52</sup></sub>
+<sub><sup>Last updated: 6/5/2024 23:16:38</sup></sub>
