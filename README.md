@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tesla_coil.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/desert_island.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
+> Get a friend, loser.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/5/2024 23:16:17</sup></sub>
+<sub><sup>Last updated: 8/5/2024 23:16:11</sup></sub>
