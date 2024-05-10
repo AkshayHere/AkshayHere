@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/limerick.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/internet_argument.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/5/2024 23:18:22</sup></sub>
+<sub><sup>Last updated: 10/5/2024 23:16:20</sup></sub>
