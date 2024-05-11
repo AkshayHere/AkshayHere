@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/internet_argument.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/heists_and_escapes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/5/2024 23:16:20</sup></sub>
+<sub><sup>Last updated: 11/5/2024 23:15:05</sup></sub>
