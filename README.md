@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/heists_and_escapes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/morning_routine.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
+> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
 >
-> <p>- Creed Bratton</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/5/2024 23:15:05</sup></sub>
+<sub><sup>Last updated: 12/5/2024 23:16:04</sup></sub>
