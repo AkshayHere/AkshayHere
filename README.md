@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/salary_negotiation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/things_you_learn.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> Jim told me you could buy gaydar online.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/5/2024 23:16:39</sup></sub>
+<sub><sup>Last updated: 17/5/2024 23:17:14</sup></sub>
