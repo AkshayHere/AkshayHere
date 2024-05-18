@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/things_you_learn.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fall_back.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim told me you could buy gaydar online.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/5/2024 23:17:14</sup></sub>
+<sub><sup>Last updated: 18/5/2024 23:17:05</sup></sub>
