@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fall_back.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/formal_logic.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 18/5/2024 23:17:05</sup></sub>
+<sub><sup>Last updated: 19/5/2024 23:15:51</sup></sub>
