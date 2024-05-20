@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/formal_logic.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fruit_collider.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> They say on your deathbed you never wish you spent more time at the office — but I will.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/5/2024 23:15:51</sup></sub>
+<sub><sup>Last updated: 20/5/2024 23:17:56</sup></sub>
