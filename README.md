@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fruit_collider.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cursive_letters.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They say on your deathbed you never wish you spent more time at the office — but I will.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/5/2024 23:17:56</sup></sub>
+<sub><sup>Last updated: 21/5/2024 23:17:33</sup></sub>
