@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cursive_letters.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fastest_growing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/5/2024 23:17:33</sup></sub>
+<sub><sup>Last updated: 22/5/2024 23:18:06</sup></sub>
