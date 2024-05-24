@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/synonym_movies_2.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/security_holes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am faster than 80 percent of all snakes.
+> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/5/2024 23:18:02</sup></sub>
+<sub><sup>Last updated: 24/5/2024 23:18:08</sup></sub>
