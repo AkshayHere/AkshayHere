@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/uv.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/motion_blur.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 25/5/2024 23:16:05</sup></sub>
+<sub><sup>Last updated: 26/5/2024 23:17:21</sup></sub>
