@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/motion_blur.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/hacking.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
+> I want you to rub butter on my foot… Pam, please? I have Country Crock.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/5/2024 23:17:21</sup></sub>
+<sub><sup>Last updated: 27/5/2024 23:18:24</sup></sub>
