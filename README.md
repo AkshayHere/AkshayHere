@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hacking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/smfw.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I want you to rub butter on my foot… Pam, please? I have Country Crock.
+> I am ready to face any challenge that might be foolish enough to face me.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/5/2024 23:18:24</sup></sub>
+<sub><sup>Last updated: 28/5/2024 23:16:48</sup></sub>
