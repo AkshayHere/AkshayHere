@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/smfw.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/proof.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am ready to face any challenge that might be foolish enough to face me.
+> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/5/2024 23:16:48</sup></sub>
+<sub><sup>Last updated: 29/5/2024 23:18:32</sup></sub>
