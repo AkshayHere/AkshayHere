@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hurricane_names.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/barrel_mommies.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/5/2024 23:18:09</sup></sub>
+<sub><sup>Last updated: 31/5/2024 23:19:12</sup></sub>
