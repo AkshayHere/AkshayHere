@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/finish_line.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/earth_orbital_diagram.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> It’s not effeminate. It’s festive.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/6/2024 23:15:53</sup></sub>
+<sub><sup>Last updated: 2/6/2024 23:15:57</sup></sub>
