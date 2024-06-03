@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/earth_orbital_diagram.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sandboxing_cycle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s not effeminate. It’s festive.
+> Always the Padawan, never the Jedi.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/6/2024 23:15:57</sup></sub>
+<sub><sup>Last updated: 3/6/2024 23:18:21</sup></sub>
