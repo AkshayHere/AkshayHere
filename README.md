@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sandboxing_cycle.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/blockbuster_mining.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Always the Padawan, never the Jedi.
+> The only time I set the bar low is for limbo.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/6/2024 23:18:21</sup></sub>
+<sub><sup>Last updated: 4/6/2024 23:18:03</sup></sub>
