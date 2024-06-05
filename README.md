@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/blockbuster_mining.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/linguistics_club.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The only time I set the bar low is for limbo.
+> I’m an early bird and a night owl. So I’m wise and have worms.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/6/2024 23:18:03</sup></sub>
+<sub><sup>Last updated: 5/6/2024 23:17:33</sup></sub>
