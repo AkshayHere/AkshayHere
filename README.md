@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/doors_of_durin.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_race_part_3.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You think you’re excited? You should feel my nipples. Boing!
+> I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little, but on pretzel day? Well, I like pretzel day..
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/6/2024 23:17:08</sup></sub>
+<sub><sup>Last updated: 9/6/2024 23:16:18</sup></sub>
