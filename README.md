@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_race_part_3.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/diacritics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little, but on pretzel day? Well, I like pretzel day..
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/6/2024 23:16:18</sup></sub>
+<sub><sup>Last updated: 10/6/2024 23:19:21</sup></sub>
