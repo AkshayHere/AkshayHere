@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/diacritics.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/label_the_states.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/6/2024 23:19:21</sup></sub>
+<sub><sup>Last updated: 11/6/2024 23:18:27</sup></sub>
