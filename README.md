@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/label_the_states.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_gift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/6/2024 23:18:27</sup></sub>
+<sub><sup>Last updated: 12/6/2024 23:16:50</sup></sub>
