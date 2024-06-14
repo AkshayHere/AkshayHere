@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/aeris_dies.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/statistics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+> I have cause. It’s beCAUSE I hate him.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/6/2024 23:18:11</sup></sub>
+<sub><sup>Last updated: 14/6/2024 23:19:10</sup></sub>
