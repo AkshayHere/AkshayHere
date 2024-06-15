@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/statistics.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/diet_coke_mentos.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I have cause. It’s beCAUSE I hate him.
+> It’s not effeminate. It’s festive.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/6/2024 23:19:10</sup></sub>
+<sub><sup>Last updated: 15/6/2024 23:17:43</sup></sub>
