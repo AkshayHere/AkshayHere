@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/diet_coke_mentos.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/scantron.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s not effeminate. It’s festive.
+> I talk a lot, so I've learned to tune myself out.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/6/2024 23:17:43</sup></sub>
+<sub><sup>Last updated: 16/6/2024 23:17:32</sup></sub>
