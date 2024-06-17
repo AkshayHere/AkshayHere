@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/scantron.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/consecutive_vowels.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I talk a lot, so I've learned to tune myself out.
+> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/6/2024 23:17:32</sup></sub>
+<sub><sup>Last updated: 17/6/2024 23:19:01</sup></sub>
