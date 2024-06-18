@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/consecutive_vowels.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pi_vs_tau.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
+> I hate so much about the things you choose to be.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/6/2024 23:19:01</sup></sub>
+<sub><sup>Last updated: 18/6/2024 23:18:18</sup></sub>
