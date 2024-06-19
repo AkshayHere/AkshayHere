@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pi_vs_tau.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I hate so much about the things you choose to be.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/6/2024 23:18:18</sup></sub>
+<sub><sup>Last updated: 19/6/2024 23:18:40</sup></sub>
