@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/microdrones.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/6/2024 23:18:40</sup></sub>
+<sub><sup>Last updated: 20/6/2024 23:18:58</sup></sub>
