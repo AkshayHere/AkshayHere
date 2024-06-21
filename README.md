@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/microdrones.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/snake_facts.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/6/2024 23:18:58</sup></sub>
+<sub><sup>Last updated: 21/6/2024 23:23:44</sup></sub>
