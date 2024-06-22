@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/snake_facts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/malamanteau.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+> OK, too many different words from coming at me from too many different sentences.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/6/2024 23:23:44</sup></sub>
+<sub><sup>Last updated: 22/6/2024 23:17:00</sup></sub>
