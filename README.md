@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/language_nerd.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Why tip someone for a job I’m capable of doing myself? I can deliver food. I can drive a taxi. I can, and do, cut my own hair. I did, however, tip my urologist, because I am unable to pulverize my own kidney stones.
+> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/6/2024 23:16:44</sup></sub>
+<sub><sup>Last updated: 24/6/2024 23:18:39</sup></sub>
