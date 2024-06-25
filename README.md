@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/language_nerd.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/qwertial_aphasia.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
+> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/6/2024 23:18:39</sup></sub>
+<sub><sup>Last updated: 25/6/2024 23:17:52</sup></sub>
