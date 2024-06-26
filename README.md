@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/qwertial_aphasia.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/tic_tac_toe.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
+> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/6/2024 23:17:52</sup></sub>
+<sub><sup>Last updated: 26/6/2024 23:19:04</sup></sub>
