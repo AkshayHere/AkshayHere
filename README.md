@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cold_medicine.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/galaxies.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Ah, humor. I have it, too.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 27/6/2024 23:18:56</sup></sub>
+<sub><sup>Last updated: 28/6/2024 23:17:51</sup></sub>
