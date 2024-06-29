@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/galaxies.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/college_knowledge.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
+> Jim and I are great friends. We hang out a ton, mostly at work.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/6/2024 23:17:51</sup></sub>
+<sub><sup>Last updated: 29/6/2024 23:16:24</sup></sub>
