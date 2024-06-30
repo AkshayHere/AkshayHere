@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/college_knowledge.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wonder_woman_1984.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim and I are great friends. We hang out a ton, mostly at work.
+> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/6/2024 23:16:24</sup></sub>
+<sub><sup>Last updated: 30/6/2024 23:17:56</sup></sub>
