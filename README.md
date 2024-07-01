@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wonder_woman_1984.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/crowdsourcing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/6/2024 23:17:56</sup></sub>
+<sub><sup>Last updated: 1/7/2024 23:18:05</sup></sub>
