@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hydropower_breakthrough.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/lunch.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
+> I saved a life — my own.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/7/2024 23:17:45</sup></sub>
+<sub><sup>Last updated: 7/7/2024 23:17:49</sup></sub>
