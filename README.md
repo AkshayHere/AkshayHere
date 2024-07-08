@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lunch.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/prometheus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life — my own.
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/7/2024 23:17:49</sup></sub>
+<sub><sup>Last updated: 8/7/2024 23:18:33</sup></sub>
