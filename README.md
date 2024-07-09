@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/prometheus.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/more_accurate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/7/2024 23:18:33</sup></sub>
+<sub><sup>Last updated: 9/7/2024 23:18:26</sup></sub>
