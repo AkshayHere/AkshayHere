@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/awful_people.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/gift_exchange.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/7/2024 23:18:02</sup></sub>
+<sub><sup>Last updated: 12/7/2024 23:18:20</sup></sub>
