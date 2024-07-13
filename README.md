@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/gift_exchange.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/code_talkers.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 12/7/2024 23:18:20</sup></sub>
+<sub><sup>Last updated: 13/7/2024 23:16:53</sup></sub>
