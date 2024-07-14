@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/code_talkers.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/beauty.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/7/2024 23:16:53</sup></sub>
+<sub><sup>Last updated: 14/7/2024 23:25:08</sup></sub>
