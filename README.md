@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/beauty.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sunshield.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/7/2024 23:25:08</sup></sub>
+<sub><sup>Last updated: 15/7/2024 23:19:53</sup></sub>
