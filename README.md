@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sunshield.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/chain_of_command.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 15/7/2024 23:19:53</sup></sub>
+<sub><sup>Last updated: 16/7/2024 23:15:21</sup></sub>
