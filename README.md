@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/water_delivery.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/26_second_pulse.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When my mother was pregnant with me, they did an ultrasound and found she was having twins. When they did another ultrasound a few weeks later, they discovered that I had adsorbed the other fetus. Do I regret this? No, I believe his tissue has made me stronger. I now have the strength of a grown man and a little baby.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/7/2024 23:20:30</sup></sub>
+<sub><sup>Last updated: 18/7/2024 23:19:30</sup></sub>
