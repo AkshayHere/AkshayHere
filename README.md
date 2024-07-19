@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/26_second_pulse.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/common_cold_viruses.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I find the mystery genre disgusting. I hate being titillated.
+> I’m not gonna cry over it. I did that in the car on the way home.
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/7/2024 23:19:30</sup></sub>
+<sub><sup>Last updated: 19/7/2024 23:19:00</sup></sub>
