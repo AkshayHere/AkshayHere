@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/common_cold_viruses.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/visual_field.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not gonna cry over it. I did that in the car on the way home.
+> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/7/2024 23:19:00</sup></sub>
+<sub><sup>Last updated: 20/7/2024 23:16:36</sup></sub>
