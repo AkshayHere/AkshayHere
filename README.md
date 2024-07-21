@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/visual_field.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/jack_and_jill.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/7/2024 23:16:36</sup></sub>
+<sub><sup>Last updated: 21/7/2024 23:18:22</sup></sub>
