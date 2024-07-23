@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/immune_response.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/connoisseur.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/7/2024 23:19:33</sup></sub>
+<sub><sup>Last updated: 23/7/2024 23:19:13</sup></sub>
