@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/connoisseur.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/days_of_the_week.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/7/2024 23:19:13</sup></sub>
+<sub><sup>Last updated: 24/7/2024 23:18:59</sup></sub>
