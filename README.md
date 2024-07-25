@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/days_of_the_week.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/forget.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/7/2024 23:18:59</sup></sub>
+<sub><sup>Last updated: 25/7/2024 23:18:12</sup></sub>
