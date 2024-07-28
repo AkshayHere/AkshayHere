@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ice_sheets.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/drapes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
+> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 27/7/2024 23:16:57</sup></sub>
+<sub><sup>Last updated: 28/7/2024 23:17:00</sup></sub>
