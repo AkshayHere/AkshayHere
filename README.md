@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/en_garde.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/scenery_cheat_sheet.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not gonna cry over it. I did that in the car on the way home.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/7/2024 23:18:44</sup></sub>
+<sub><sup>Last updated: 31/7/2024 23:18:31</sup></sub>
