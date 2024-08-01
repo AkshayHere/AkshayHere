@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/scenery_cheat_sheet.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/voting_referendum.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
+> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/7/2024 23:18:31</sup></sub>
+<sub><sup>Last updated: 1/8/2024 23:18:31</sup></sub>
