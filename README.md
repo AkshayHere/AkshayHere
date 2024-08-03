@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/movie_folder.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/8/2024 23:18:29</sup></sub>
+<sub><sup>Last updated: 3/8/2024 23:18:19</sup></sub>
