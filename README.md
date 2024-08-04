@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/movie_folder.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/birds_and_dinosaurs.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You better learn your rules. If you don’t, you’ll be eaten in your sleep.
+> The people that you work with are, when you get down to it, your very best friends.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/8/2024 23:18:19</sup></sub>
+<sub><sup>Last updated: 4/8/2024 23:17:36</sup></sub>
