@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/birds_and_dinosaurs.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bad_timing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The people that you work with are, when you get down to it, your very best friends.
+> I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/8/2024 23:17:36</sup></sub>
+<sub><sup>Last updated: 5/8/2024 23:18:38</sup></sub>
