@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tax_ai.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/shoes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Nobody should have to go to work thinking, ‘Oh, this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To… an office is a place where dreams come true.
+> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/8/2024 23:19:06</sup></sub>
+<sub><sup>Last updated: 9/8/2024 23:19:44</sup></sub>
