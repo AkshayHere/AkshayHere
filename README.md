@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/shoes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/genetic_testing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 9/8/2024 23:19:44</sup></sub>
+<sub><sup>Last updated: 10/8/2024 23:18:42</sup></sub>
