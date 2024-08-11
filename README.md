@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/genetic_testing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_ordering.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> Michael will be related to this baby through... delusion.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/8/2024 23:18:42</sup></sub>
+<sub><sup>Last updated: 11/8/2024 23:18:05</sup></sub>
