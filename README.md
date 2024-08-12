@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/self-reference.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael will be related to this baby through... delusion.
+> I am Beyonce, always.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/8/2024 23:18:05</sup></sub>
+<sub><sup>Last updated: 12/8/2024 23:20:04</sup></sub>
