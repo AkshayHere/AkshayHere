@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/self-reference.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/symbols.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am Beyonce, always.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/8/2024 23:20:04</sup></sub>
+<sub><sup>Last updated: 13/8/2024 23:18:41</sup></sub>
