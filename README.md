@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/symbols.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/genetic_testing_results.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/8/2024 23:18:41</sup></sub>
+<sub><sup>Last updated: 14/8/2024 23:18:21</sup></sub>
