@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/size_comparisons.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/atoms.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Hey, what has two thumbs and hates Todd Packer? This guy.
+> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/8/2024 23:18:01</sup></sub>
+<sub><sup>Last updated: 16/8/2024 23:17:38</sup></sub>
