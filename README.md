@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/atoms.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fifty_shades.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+> Oh, you’re paying way too much for worms. Who’s your worm guy?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/8/2024 23:17:38</sup></sub>
+<sub><sup>Last updated: 17/8/2024 23:16:41</sup></sub>
