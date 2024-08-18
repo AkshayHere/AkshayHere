@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fifty_shades.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/red_rover.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Oh, you’re paying way too much for worms. Who’s your worm guy?
+> Presents are the best way to show how much you care. It’s a tangible thing you can point at and say, ‘Hey man, I love you. This many dollars worth.’
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/8/2024 23:16:41</sup></sub>
+<sub><sup>Last updated: 18/8/2024 23:16:43</sup></sub>
