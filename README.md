@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/red_rover.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/effects_of_high_altitude.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Presents are the best way to show how much you care. It’s a tangible thing you can point at and say, ‘Hey man, I love you. This many dollars worth.’
+> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/8/2024 23:16:43</sup></sub>
+<sub><sup>Last updated: 19/8/2024 23:19:14</sup></sub>
