@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/effects_of_high_altitude.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pain_rating.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
+> I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little, but on pretzel day? Well, I like pretzel day..
 >
-> <p>- Creed Bratton</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/8/2024 23:19:14</sup></sub>
+<sub><sup>Last updated: 20/8/2024 23:19:00</sup></sub>
