@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ballooning.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/server_problem.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.
+> OK, too many different words from coming at me from too many different sentences.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/8/2024 23:18:19</sup></sub>
+<sub><sup>Last updated: 22/8/2024 23:21:01</sup></sub>
