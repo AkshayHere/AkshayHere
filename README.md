@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/server_problem.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/it_might_be_cool.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, too many different words from coming at me from too many different sentences.
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/8/2024 23:21:01</sup></sub>
+<sub><sup>Last updated: 23/8/2024 23:21:00</sup></sub>
