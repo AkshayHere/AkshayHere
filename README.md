@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/orbital_argument.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/traffic_lights.gif)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/8/2024 23:17:31</sup></sub>
+<sub><sup>Last updated: 25/8/2024 23:17:56</sup></sub>
