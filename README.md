@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/traffic_lights.gif)
+![Alt XKCD](https://imgs.xkcd.com/comics/rba.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/8/2024 23:17:56</sup></sub>
+<sub><sup>Last updated: 26/8/2024 23:18:32</sup></sub>
