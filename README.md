@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rba.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/secretary_part_3.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> Love is all you need? False, you need water and rations.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/8/2024 23:18:32</sup></sub>
+<sub><sup>Last updated: 27/8/2024 23:19:21</sup></sub>
