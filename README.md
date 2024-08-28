@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/secretary_part_3.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sitting_in_a_tree.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Love is all you need? False, you need water and rations.
+> Did I stutter?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/8/2024 23:19:21</sup></sub>
+<sub><sup>Last updated: 28/8/2024 23:19:12</sup></sub>
