@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sitting_in_a_tree.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/rack_unit.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Did I stutter?
+> My mind is going a mile an hour.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/8/2024 23:19:12</sup></sub>
+<sub><sup>Last updated: 29/8/2024 23:20:18</sup></sub>
