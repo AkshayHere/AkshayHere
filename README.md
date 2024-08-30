@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rack_unit.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/hug_count.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My mind is going a mile an hour.
+> I saved a life — my own.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/8/2024 23:20:18</sup></sub>
+<sub><sup>Last updated: 30/8/2024 23:19:07</sup></sub>
