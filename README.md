@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/alternate_currency.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/alien_visitors.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life — my own.
+> That’s what she said!
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 31/8/2024 23:18:28</sup></sub>
+<sub><sup>Last updated: 1/9/2024 23:18:35</sup></sub>
