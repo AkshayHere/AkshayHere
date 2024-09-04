@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/congress.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/jurassic_world.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I hate the idea that someone out there hates me. I even hate thinking that Al Qaeda hates me. I think if they got to know me, they wouldn’t hate me.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/9/2024 23:19:38</sup></sub>
+<sub><sup>Last updated: 4/9/2024 23:19:36</sup></sub>
