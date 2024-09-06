@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/software_testing_day.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/scary.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
+> Jim told me you could buy gaydar online.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/9/2024 23:19:22</sup></sub>
+<sub><sup>Last updated: 6/9/2024 23:20:25</sup></sub>
