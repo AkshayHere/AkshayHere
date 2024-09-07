@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/scary.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wanna_see_the_code.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim told me you could buy gaydar online.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 6/9/2024 23:20:25</sup></sub>
+<sub><sup>Last updated: 7/9/2024 23:18:27</sup></sub>
