@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wanna_see_the_code.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/meat_cereals.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/9/2024 23:18:27</sup></sub>
+<sub><sup>Last updated: 8/9/2024 23:19:23</sup></sub>
