@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/software_testing_day.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/desert_island.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
+> Occasionally, I’ll hit someone with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 10/9/2024 23:19:23</sup></sub>
+<sub><sup>Last updated: 11/9/2024 23:20:20</sup></sub>
