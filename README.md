@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/desert_island.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/laptop_hell.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> Dwight, you ignorant slut.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/9/2024 23:20:20</sup></sub>
+<sub><sup>Last updated: 12/9/2024 23:19:24</sup></sub>
