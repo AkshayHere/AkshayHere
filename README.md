@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/password_strength.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cells.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I love inside jokes. I hope to be a part of one someday.
+> I miss Dwight. Congratulations Universe, you win.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/9/2024 23:18:07</sup></sub>
+<sub><sup>Last updated: 16/9/2024 23:21:21</sup></sub>
