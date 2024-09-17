@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cells.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/insomnia.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I miss Dwight. Congratulations Universe, you win.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Jim Halpert</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/9/2024 23:21:21</sup></sub>
+<sub><sup>Last updated: 17/9/2024 23:20:10</sup></sub>
