@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/carbonated_beverage_language_map.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/holy_ghost.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/9/2024 23:20:29</sup></sub>
+<sub><sup>Last updated: 19/9/2024 23:20:23</sup></sub>
