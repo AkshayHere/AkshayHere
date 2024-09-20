@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/holy_ghost.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/no_the_other_one.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/9/2024 23:20:23</sup></sub>
+<sub><sup>Last updated: 20/9/2024 23:19:50</sup></sub>
