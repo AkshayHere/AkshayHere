@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/no_the_other_one.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/1921_fact_checker.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/9/2024 23:19:50</sup></sub>
+<sub><sup>Last updated: 21/9/2024 23:19:40</sup></sub>
