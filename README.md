@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/1921_fact_checker.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/survivorship_bias.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/9/2024 23:19:40</sup></sub>
+<sub><sup>Last updated: 22/9/2024 23:18:10</sup></sub>
