@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/survivorship_bias.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/who_sends_the_first_text.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
+> All that singing got in the way of some perfectly good murders.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 22/9/2024 23:18:10</sup></sub>
+<sub><sup>Last updated: 23/9/2024 23:20:39</sup></sub>
