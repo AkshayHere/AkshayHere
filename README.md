@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/commemorative_plaque.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fmri_billboard.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
+> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 25/9/2024 23:21:26</sup></sub>
+<sub><sup>Last updated: 26/9/2024 23:20:25</sup></sub>
