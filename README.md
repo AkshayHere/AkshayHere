@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fmri_billboard.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cell_number.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/9/2024 23:20:25</sup></sub>
+<sub><sup>Last updated: 27/9/2024 23:19:31</sup></sub>
