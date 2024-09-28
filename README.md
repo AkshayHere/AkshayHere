@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cell_number.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wirecutter_recommendation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/9/2024 23:19:31</sup></sub>
+<sub><sup>Last updated: 28/9/2024 23:20:30</sup></sub>
