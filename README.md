@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wirecutter_recommendation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/walkthrough.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/9/2024 23:20:30</sup></sub>
+<sub><sup>Last updated: 29/9/2024 23:19:26</sup></sub>
