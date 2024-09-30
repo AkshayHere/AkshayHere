@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/walkthrough.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
+> Pizza: the great equalizer.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/9/2024 23:19:26</sup></sub>
+<sub><sup>Last updated: 30/9/2024 23:21:14</sup></sub>
