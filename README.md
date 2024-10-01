@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fixed_width.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Pizza: the great equalizer.
+> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/9/2024 23:21:14</sup></sub>
+<sub><sup>Last updated: 1/10/2024 23:20:50</sup></sub>
