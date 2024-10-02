@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fixed_width.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/delta_p.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/10/2024 23:20:50</sup></sub>
+<sub><sup>Last updated: 2/10/2024 23:21:10</sup></sub>
