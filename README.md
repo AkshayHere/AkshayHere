@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/delta_p.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/error_types.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/10/2024 23:21:10</sup></sub>
+<sub><sup>Last updated: 3/10/2024 23:21:21</sup></sub>
