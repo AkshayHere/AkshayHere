@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/error_types.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stargazing_3.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/10/2024 23:21:21</sup></sub>
+<sub><sup>Last updated: 4/10/2024 23:20:45</sup></sub>
