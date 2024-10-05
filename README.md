@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stargazing_3.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sign_combo.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/10/2024 23:20:45</sup></sub>
+<sub><sup>Last updated: 5/10/2024 23:18:59</sup></sub>
