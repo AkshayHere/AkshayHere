@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sign_combo.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/color_models.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> I say dance, they say ‘How high?'
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/10/2024 23:18:59</sup></sub>
+<sub><sup>Last updated: 6/10/2024 23:18:50</sup></sub>
