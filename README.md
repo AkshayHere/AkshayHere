@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/color_models.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/star_wars_spoiler_generator.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I say dance, they say ‘How high?'
+> Through concentration, I can raise and lower my cholesterol at will.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/10/2024 23:18:50</sup></sub>
+<sub><sup>Last updated: 7/10/2024 23:20:49</sup></sub>
