@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/star_wars_spoiler_generator.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cloud.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Through concentration, I can raise and lower my cholesterol at will.
+> When I President, they see. They see.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/10/2024 23:20:49</sup></sub>
+<sub><sup>Last updated: 8/10/2024 23:21:03</sup></sub>
