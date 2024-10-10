@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/2.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/packages.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do you think that doing alcohol is cool?
+> Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/10/2024 23:20:29</sup></sub>
+<sub><sup>Last updated: 10/10/2024 23:20:14</sup></sub>
