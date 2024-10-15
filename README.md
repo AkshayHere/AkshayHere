@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/twitter_bot.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a_way_so_familiar.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> It’s a good thing Russia doesn’t exist anymore.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/10/2024 23:20:41</sup></sub>
+<sub><sup>Last updated: 15/10/2024 23:20:49</sup></sub>
