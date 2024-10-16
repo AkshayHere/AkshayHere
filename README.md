@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_way_so_familiar.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/balloon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/10/2024 23:20:49</sup></sub>
+<sub><sup>Last updated: 16/10/2024 23:21:20</sup></sub>
