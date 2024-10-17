@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/balloon.png)
+![Alt XKCD](https://imgs.xkcd.com/news/harris_news@2x.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/10/2024 23:21:20</sup></sub>
+<sub><sup>Last updated: 17/10/2024 23:20:00</sup></sub>
