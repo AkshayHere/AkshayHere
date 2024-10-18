@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+> Today, smoking is going to save lives.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/10/2024 23:20:00</sup></sub>
+<sub><sup>Last updated: 18/10/2024 23:20:24</sup></sub>
