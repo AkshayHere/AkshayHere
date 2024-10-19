@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Today, smoking is going to save lives.
+> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/10/2024 23:20:24</sup></sub>
+<sub><sup>Last updated: 19/10/2024 23:18:26</sup></sub>
