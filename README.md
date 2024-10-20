@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> You couldn’t handle my undivided attention.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/10/2024 23:18:26</sup></sub>
+<sub><sup>Last updated: 20/10/2024 23:19:20</sup></sub>
