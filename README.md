@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You couldn’t handle my undivided attention.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/10/2024 23:19:20</sup></sub>
+<sub><sup>Last updated: 21/10/2024 23:22:03</sup></sub>
