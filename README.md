@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Why are all these people here? There’s too many people on this earth. We need a new plague.
+> I want you to rub butter on my foot… Pam, please? I have Country Crock.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/10/2024 23:22:03</sup></sub>
+<sub><sup>Last updated: 22/10/2024 23:20:54</sup></sub>
