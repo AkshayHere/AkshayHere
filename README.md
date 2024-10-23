@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I want you to rub butter on my foot… Pam, please? I have Country Crock.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/10/2024 23:20:54</sup></sub>
+<sub><sup>Last updated: 23/10/2024 23:21:01</sup></sub>
