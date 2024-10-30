@@ -28,7 +28,7 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My mind is going a mile an hour.
+> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/10/2024 23:21:28</sup></sub>
+<sub><sup>Last updated: 30/10/2024 23:21:19</sup></sub>
