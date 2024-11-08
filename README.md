@@ -28,12 +28,12 @@ Would love to contribute to open source world.
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> This day is BANANAS! B-A-N-A-N-A-S!
+> I am faster than 80 percent of all snakes.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/11/2024 23:20:13</sup></sub>
+<sub><sup>Last updated: 8/11/2024 23:19:58</sup></sub>
