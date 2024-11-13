@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/news/harris_news@2x.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/1337_part_3.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The eyes are the groin of the head.
+> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/11/2024 23:19:50</sup></sub>
+<sub><sup>Last updated: 13/11/2024 23:20:21</sup></sub>
