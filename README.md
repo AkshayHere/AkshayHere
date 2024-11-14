@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/1337_part_3.png)
+![Alt XKCD](https://imgs.xkcd.com/news/harris_news@2x.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/11/2024 23:20:21</sup></sub>
+<sub><sup>Last updated: 14/11/2024 23:20:59</sup></sub>
