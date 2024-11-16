@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/news/harris_news@2x.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/team_effort.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/11/2024 23:21:10</sup></sub>
+<sub><sup>Last updated: 16/11/2024 23:20:22</sup></sub>
