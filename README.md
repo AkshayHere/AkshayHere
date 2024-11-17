@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/team_effort.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/president_venn_diagram.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/11/2024 23:20:22</sup></sub>
+<sub><sup>Last updated: 17/11/2024 23:18:35</sup></sub>
