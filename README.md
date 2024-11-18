@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/president_venn_diagram.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/houseguests.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/11/2024 23:18:35</sup></sub>
+<sub><sup>Last updated: 18/11/2024 23:22:18</sup></sub>
