@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/too_much_talking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/heaven.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Five minutes ahead of schedule… right on schedule.
+> And I misspelled, in front of the entire school, the word ‘failure.’
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/11/2024 23:22:13</sup></sub>
+<sub><sup>Last updated: 20/11/2024 23:21:34</sup></sub>
