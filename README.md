@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/heaven.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/log_alignment.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I misspelled, in front of the entire school, the word ‘failure.’
+> Jim couldn’t land me in a thousand years.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/11/2024 23:21:34</sup></sub>
+<sub><sup>Last updated: 21/11/2024 23:21:41</sup></sub>
