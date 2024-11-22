@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/log_alignment.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/social_media.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim couldn’t land me in a thousand years.
+> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/11/2024 23:21:41</sup></sub>
+<sub><sup>Last updated: 22/11/2024 23:20:58</sup></sub>
