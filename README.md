@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/social_media.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/matrix_transform.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
+> I hate the idea that someone out there hates me. I even hate thinking that Al Qaeda hates me. I think if they got to know me, they wouldn’t hate me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/11/2024 23:20:58</sup></sub>
+<sub><sup>Last updated: 23/11/2024 23:18:49</sup></sub>
