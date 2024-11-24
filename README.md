@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/matrix_transform.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/banana_prices.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I hate the idea that someone out there hates me. I even hate thinking that Al Qaeda hates me. I think if they got to know me, they wouldn’t hate me.
+> It’s not effeminate. It’s festive.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/11/2024 23:18:49</sup></sub>
+<sub><sup>Last updated: 24/11/2024 23:18:38</sup></sub>
