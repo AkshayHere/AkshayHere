@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/banana_prices.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/censored_vaccine_card.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s not effeminate. It’s festive.
+> And I feel God in this Chili’s tonight.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/11/2024 23:18:38</sup></sub>
+<sub><sup>Last updated: 25/11/2024 23:22:03</sup></sub>
