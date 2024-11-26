@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/censored_vaccine_card.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/history.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I feel God in this Chili’s tonight.
+> Dwight, you ignorant slut.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/11/2024 23:22:03</sup></sub>
+<sub><sup>Last updated: 26/11/2024 23:22:32</sup></sub>
