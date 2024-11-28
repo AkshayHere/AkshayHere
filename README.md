@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/free_fallin.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/dockless_roombas.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Love is all you need? False, you need water and rations.
+> I'm always thinking one step ahead, like a carpenter who makes stairs.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/11/2024 23:21:48</sup></sub>
+<sub><sup>Last updated: 28/11/2024 23:21:42</sup></sub>
