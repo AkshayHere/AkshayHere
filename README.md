@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dockless_roombas.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/turtle_sandwich_standard_model.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> Yes, I am taking Andy hunting after work. Not long ago we were sexual competitors. I used to hate him, hate him, hate him, hate him. I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/11/2024 23:21:42</sup></sub>
+<sub><sup>Last updated: 30/11/2024 23:19:15</sup></sub>
