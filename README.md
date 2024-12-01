@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/turtle_sandwich_standard_model.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ferris_wheels.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes, I am taking Andy hunting after work. Not long ago we were sexual competitors. I used to hate him, hate him, hate him, hate him. I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/11/2024 23:19:15</sup></sub>
+<sub><sup>Last updated: 1/12/2024 23:19:32</sup></sub>
