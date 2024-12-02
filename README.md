@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ferris_wheels.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/alternate_universe.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
+> My mind is going a mile an hour.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/12/2024 23:19:32</sup></sub>
+<sub><sup>Last updated: 2/12/2024 23:22:48</sup></sub>
