@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/alternate_universe.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/hell.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My mind is going a mile an hour.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/12/2024 23:22:48</sup></sub>
+<sub><sup>Last updated: 3/12/2024 23:22:31</sup></sub>
