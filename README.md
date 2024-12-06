@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/minnesota.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/2.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The people that you work with are, when you get down to it, your very best friends.
+> I am faster than 80 percent of all snakes.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/12/2024 23:23:04</sup></sub>
+<sub><sup>Last updated: 6/12/2024 23:22:12</sup></sub>
