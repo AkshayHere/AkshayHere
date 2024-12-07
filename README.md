@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/2.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/spike_proteins.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am faster than 80 percent of all snakes.
+> The only time I set the bar low is for limbo.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/12/2024 23:22:12</sup></sub>
+<sub><sup>Last updated: 7/12/2024 23:19:19</sup></sub>
