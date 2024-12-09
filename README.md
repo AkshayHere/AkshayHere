@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ducklings.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/creepy.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/12/2024 23:21:17</sup></sub>
+<sub><sup>Last updated: 9/12/2024 23:22:43</sup></sub>
