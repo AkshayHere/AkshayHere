@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/creepy.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/circuit_symbols.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/12/2024 23:22:43</sup></sub>
+<sub><sup>Last updated: 10/12/2024 23:23:09</sup></sub>
