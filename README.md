@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/circuit_symbols.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/empirical.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> You only live once? False. You live every day. You only die once.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/12/2024 23:23:09</sup></sub>
+<sub><sup>Last updated: 11/12/2024 23:22:39</sup></sub>
