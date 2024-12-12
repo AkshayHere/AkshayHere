@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/empirical.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/journal.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You only live once? False. You live every day. You only die once.
+> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/12/2024 23:22:39</sup></sub>
+<sub><sup>Last updated: 12/12/2024 23:22:49</sup></sub>
