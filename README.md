@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/boyfriend.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/geeks_and_nerds.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You only live once? False. You live every day. You only die once.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/12/2024 23:22:01</sup></sub>
+<sub><sup>Last updated: 14/12/2024 23:19:49</sup></sub>
