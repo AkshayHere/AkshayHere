@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/geeks_and_nerds.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/dark_flow.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/12/2024 23:19:49</sup></sub>
+<sub><sup>Last updated: 15/12/2024 23:19:27</sup></sub>
