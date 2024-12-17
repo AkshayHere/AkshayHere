@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lava_lakes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/workaround.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/12/2024 23:22:44</sup></sub>
+<sub><sup>Last updated: 17/12/2024 23:22:28</sup></sub>
