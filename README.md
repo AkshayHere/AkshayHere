@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/workaround.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/binary_heart.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> I… declare…. bankruptcy!
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/12/2024 23:22:28</sup></sub>
+<sub><sup>Last updated: 18/12/2024 23:21:28</sup></sub>
