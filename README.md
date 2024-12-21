@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/undoing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pastime.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/12/2024 23:19:42</sup></sub>
+<sub><sup>Last updated: 21/12/2024 23:17:34</sup></sub>
