@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pastime.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/s_keyboard_leopard.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
+> OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/12/2024 23:17:34</sup></sub>
+<sub><sup>Last updated: 22/12/2024 23:17:29</sup></sub>
