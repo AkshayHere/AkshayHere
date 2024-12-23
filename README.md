@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/s_keyboard_leopard.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/euler_diagrams.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
+> You all took a life here today. You did. The life of the party.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/12/2024 23:17:29</sup></sub>
+<sub><sup>Last updated: 23/12/2024 23:19:52</sup></sub>
