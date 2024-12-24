@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/euler_diagrams.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/elefino.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You all took a life here today. You did. The life of the party.
+> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/12/2024 23:19:52</sup></sub>
+<sub><sup>Last updated: 24/12/2024 23:19:04</sup></sub>
