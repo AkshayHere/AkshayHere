@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/elefino.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/symptoms.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/12/2024 23:19:04</sup></sub>
+<sub><sup>Last updated: 25/12/2024 23:19:24</sup></sub>
