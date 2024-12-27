@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/quantum.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/trum.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> That has sort of an oaky afterbirth.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/12/2024 23:19:20</sup></sub>
+<sub><sup>Last updated: 27/12/2024 23:18:58</sup></sub>
