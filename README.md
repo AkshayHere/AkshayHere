@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/trum.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/us_survey_foot.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/12/2024 23:18:58</sup></sub>
+<sub><sup>Last updated: 28/12/2024 23:17:48</sup></sub>
