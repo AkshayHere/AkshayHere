@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/convincing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/outdated_periodic_table.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> Did I stutter?
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/12/2024 23:19:29</sup></sub>
+<sub><sup>Last updated: 31/12/2024 23:18:52</sup></sub>
