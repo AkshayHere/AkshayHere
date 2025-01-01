@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/outdated_periodic_table.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/supergroup.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Did I stutter?
+> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/12/2024 23:18:52</sup></sub>
+<sub><sup>Last updated: 1/1/2025 23:19:46</sup></sub>
