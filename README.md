@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cell_phones.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/missal_of_silos.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> It takes an advanced sense of humor. I don’t expect everyone to understand.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/1/2025 23:19:22</sup></sub>
+<sub><sup>Last updated: 3/1/2025 23:19:40</sup></sub>
