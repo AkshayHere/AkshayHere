@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/leaving.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They say on your deathbed you never wish you spent more time at the office — but I will.
+> I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/1/2025 23:17:45</sup></sub>
+<sub><sup>Last updated: 6/1/2025 23:20:33</sup></sub>
