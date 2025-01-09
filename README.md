@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/refresh_types.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> Pizza: the great equalizer.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/1/2025 23:20:43</sup></sub>
+<sub><sup>Last updated: 9/1/2025 23:20:41</sup></sub>
