@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/refresh_types.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/guitar_hero.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Pizza: the great equalizer.
+> I never thought I’d say this, but I think I ate too much bone marrow.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/1/2025 23:20:41</sup></sub>
+<sub><sup>Last updated: 10/1/2025 23:19:17</sup></sub>
