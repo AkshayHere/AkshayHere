@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/guitar_hero.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/know_your_vines.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> Well, happy birthday, Jesus. Sorry that your party’s so lame.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/1/2025 23:19:17</sup></sub>
+<sub><sup>Last updated: 11/1/2025 23:18:00</sup></sub>
