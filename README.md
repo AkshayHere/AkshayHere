@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/know_your_vines.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/relative_terms.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, happy birthday, Jesus. Sorry that your party’s so lame.
+> Oh, you’re paying way too much for worms. Who’s your worm guy?
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/1/2025 23:18:00</sup></sub>
+<sub><sup>Last updated: 12/1/2025 23:17:43</sup></sub>
