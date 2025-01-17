@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/force.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/greatest_scientist.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Dwight, you ignorant slut.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/1/2025 23:19:28</sup></sub>
+<sub><sup>Last updated: 17/1/2025 23:19:10</sup></sub>
