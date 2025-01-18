@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/greatest_scientist.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/oort_cloud.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut.
+> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2025 23:19:10</sup></sub>
+<sub><sup>Last updated: 18/1/2025 23:17:35</sup></sub>
