@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/oort_cloud.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/etymology.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/1/2025 23:17:35</sup></sub>
+<sub><sup>Last updated: 19/1/2025 23:18:08</sup></sub>
