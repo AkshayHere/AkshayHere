@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/etymology.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/noise_filter.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> Love is all you need? False, you need water and rations.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/1/2025 23:18:08</sup></sub>
+<sub><sup>Last updated: 20/1/2025 23:20:11</sup></sub>
