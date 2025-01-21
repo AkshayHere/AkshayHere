@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/noise_filter.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/formal_logic.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Love is all you need? False, you need water and rations.
+> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/1/2025 23:20:11</sup></sub>
+<sub><sup>Last updated: 21/1/2025 23:20:13</sup></sub>
