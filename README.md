@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/space_typography.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mc_hammer_age.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/1/2025 23:20:22</sup></sub>
+<sub><sup>Last updated: 23/1/2025 23:20:26</sup></sub>
