@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mc_hammer_age.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/online_package_tracking.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/1/2025 23:20:26</sup></sub>
+<sub><sup>Last updated: 24/1/2025 23:19:28</sup></sub>
