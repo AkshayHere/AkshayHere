@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/heart_stopping_texts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/revolutionary.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/1/2025 23:17:36</sup></sub>
+<sub><sup>Last updated: 26/1/2025 23:18:19</sup></sub>
