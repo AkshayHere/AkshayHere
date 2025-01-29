@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/professional_oaths.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/base_rate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> Oh, you know that line on the top of the shrimp? That’s feces.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/1/2025 23:20:28</sup></sub>
+<sub><sup>Last updated: 29/1/2025 23:19:57</sup></sub>
