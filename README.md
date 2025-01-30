@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/base_rate.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/survey_marker.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Oh, you know that line on the top of the shrimp? That’s feces.
+> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/1/2025 23:19:57</sup></sub>
+<sub><sup>Last updated: 30/1/2025 23:19:47</sup></sub>
