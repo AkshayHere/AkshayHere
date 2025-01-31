@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/survey_marker.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/interstellar_memes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/1/2025 23:19:47</sup></sub>
+<sub><sup>Last updated: 31/1/2025 23:17:42</sup></sub>
