@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/interstellar_memes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/experiment.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/1/2025 23:17:42</sup></sub>
+<sub><sup>Last updated: 1/2/2025 23:19:52</sup></sub>
