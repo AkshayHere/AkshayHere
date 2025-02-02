@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/experiment.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nolan_chart.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/2/2025 23:19:52</sup></sub>
+<sub><sup>Last updated: 2/2/2025 23:18:42</sup></sub>
