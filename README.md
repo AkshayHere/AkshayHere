@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rock.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/superzoom.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When I President, they see. They see.
+> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
 >
-> <p>- Kevin Malone</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/2/2025 23:20:30</sup></sub>
+<sub><sup>Last updated: 5/2/2025 23:20:20</sup></sub>
