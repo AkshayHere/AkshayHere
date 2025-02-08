@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/incision.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/crowdstrike.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
+> And I misspelled, in front of the entire school, the word ‘failure.’
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 7/2/2025 23:19:46</sup></sub>
+<sub><sup>Last updated: 8/2/2025 23:17:36</sup></sub>
