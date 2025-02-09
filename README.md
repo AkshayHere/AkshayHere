@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/crowdstrike.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/judgment_day.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I misspelled, in front of the entire school, the word ‘failure.’
+> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/2/2025 23:17:36</sup></sub>
+<sub><sup>Last updated: 9/2/2025 23:19:28</sup></sub>
