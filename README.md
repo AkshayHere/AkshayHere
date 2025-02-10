@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/judgment_day.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/containers.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> Pizza: the great equalizer.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/2/2025 23:19:28</sup></sub>
+<sub><sup>Last updated: 10/2/2025 23:21:17</sup></sub>
