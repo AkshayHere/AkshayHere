@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tasks.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/united_shapes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
+> Boy, have you lost your mind, 'cause I will help you find it!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/2/2025 23:22:07</sup></sub>
+<sub><sup>Last updated: 12/2/2025 23:21:17</sup></sub>
