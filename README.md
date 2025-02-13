@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/united_shapes.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/paths.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Boy, have you lost your mind, 'cause I will help you find it!
+> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/2/2025 23:21:17</sup></sub>
+<sub><sup>Last updated: 13/2/2025 23:21:26</sup></sub>
