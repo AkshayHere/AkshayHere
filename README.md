@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/exposure_notification.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fixed_width.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/2/2025 23:18:29</sup></sub>
+<sub><sup>Last updated: 16/2/2025 23:17:40</sup></sub>
