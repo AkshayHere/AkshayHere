@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fixed_width.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/anti_mind_virus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/2/2025 23:17:40</sup></sub>
+<sub><sup>Last updated: 17/2/2025 23:20:40</sup></sub>
