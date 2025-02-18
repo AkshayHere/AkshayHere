@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/anti_mind_virus.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/southern_half.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/2/2025 23:20:40</sup></sub>
+<sub><sup>Last updated: 18/2/2025 23:21:46</sup></sub>
