@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/southern_half.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/apple_jacks.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+> Can’t a guy just buy some bagels for his friends so they’ll owe him a favor which he can use to get someone fired who stole a co-manager position from him anymore? Jeez. When did everyone get so cynical?
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 18/2/2025 23:21:46</sup></sub>
+<sub><sup>Last updated: 19/2/2025 23:21:41</sup></sub>
