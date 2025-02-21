@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/good_code.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mount_st_helens.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
+> Well, well, well, how the turntables.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2025 23:22:11</sup></sub>
+<sub><sup>Last updated: 21/2/2025 23:20:21</sup></sub>
