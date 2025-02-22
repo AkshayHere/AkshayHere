@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mount_st_helens.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/juicer.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Well, well, well, how the turntables.
+> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/2/2025 23:20:21</sup></sub>
+<sub><sup>Last updated: 22/2/2025 23:17:36</sup></sub>
