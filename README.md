@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/juicer.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/other_car.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> The only time I set the bar low is for limbo.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/2/2025 23:17:36</sup></sub>
+<sub><sup>Last updated: 23/2/2025 23:17:52</sup></sub>
