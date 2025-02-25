@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/manual_for_civilization.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/homemade_masks.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Creed Bratton</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/2/2025 23:22:38</sup></sub>
+<sub><sup>Last updated: 25/2/2025 23:22:10</sup></sub>
