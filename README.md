@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/homemade_masks.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stack.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Pam Beesly</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2025 23:22:10</sup></sub>
+<sub><sup>Last updated: 26/2/2025 23:22:47</sup></sub>
