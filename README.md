@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stack.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/excessive_quotation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
+> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/2/2025 23:22:47</sup></sub>
+<sub><sup>Last updated: 27/2/2025 23:22:37</sup></sub>
