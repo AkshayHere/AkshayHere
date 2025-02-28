@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/excessive_quotation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/archive_request.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/2/2025 23:22:37</sup></sub>
+<sub><sup>Last updated: 28/2/2025 23:21:12</sup></sub>
