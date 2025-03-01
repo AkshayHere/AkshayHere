@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/archive_request.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/unquote.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I find the mystery genre disgusting. I hate being titillated.
+> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
 >
-> <p>- Angela Martin</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/2/2025 23:21:12</sup></sub>
+<sub><sup>Last updated: 1/3/2025 23:19:20</sup></sub>
