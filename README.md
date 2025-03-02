@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/unquote.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stories_of_the_past_and_future.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
+> Today, smoking is going to save lives.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/3/2025 23:19:20</sup></sub>
+<sub><sup>Last updated: 2/3/2025 23:19:23</sup></sub>
