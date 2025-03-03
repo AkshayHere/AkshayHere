@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stories_of_the_past_and_future.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/prescience.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Today, smoking is going to save lives.
+> Sasquatches are the strongest animal on the planet, so fine call me a Sasquatch!
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/3/2025 23:19:23</sup></sub>
+<sub><sup>Last updated: 3/3/2025 23:22:10</sup></sub>
