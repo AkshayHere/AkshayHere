@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lasering_incidents.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/to_taste.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, see you later, Pan.
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/3/2025 23:22:08</sup></sub>
+<sub><sup>Last updated: 5/3/2025 23:21:40</sup></sub>
