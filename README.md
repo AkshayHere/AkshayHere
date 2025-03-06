@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/to_taste.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/forgot_algebra.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/3/2025 23:21:40</sup></sub>
+<sub><sup>Last updated: 6/3/2025 23:21:39</sup></sub>
