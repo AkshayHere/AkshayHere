@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/forgot_algebra.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/advanced_technology.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+> You know a human can go on living for several hours after being decapitated.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/3/2025 23:21:39</sup></sub>
+<sub><sup>Last updated: 7/3/2025 23:21:00</sup></sub>
