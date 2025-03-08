@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/advanced_technology.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/movie_seating.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know a human can go on living for several hours after being decapitated.
+> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/3/2025 23:21:00</sup></sub>
+<sub><sup>Last updated: 8/3/2025 23:15:59</sup></sub>
