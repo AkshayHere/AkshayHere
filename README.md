@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/theft_quadrants.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/felidae.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The Civil War history industry has conveniently forgotten about the battle of Schrute Farms. Whatever. I’m over it. It’s just grossly irresponsible.
+> When I discovered YouTube, I didn’t work for five days.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/3/2025 23:22:56</sup></sub>
+<sub><sup>Last updated: 11/3/2025 23:23:06</sup></sub>
