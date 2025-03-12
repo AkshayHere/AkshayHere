@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/felidae.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/jack_and_jill.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When I discovered YouTube, I didn’t work for five days.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/3/2025 23:23:06</sup></sub>
+<sub><sup>Last updated: 12/3/2025 23:22:58</sup></sub>
