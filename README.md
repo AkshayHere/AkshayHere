@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/jack_and_jill.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/3/2025 23:22:58</sup></sub>
+<sub><sup>Last updated: 13/3/2025 23:23:15</sup></sub>
