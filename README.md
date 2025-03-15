@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/orbital_mechanics.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/semicontrolled_demolition.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/3/2025 23:21:23</sup></sub>
+<sub><sup>Last updated: 15/3/2025 23:18:23</sup></sub>
