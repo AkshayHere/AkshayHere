@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/budget_news.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/experiment.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Occasionally, I’ll hit someone with my car. So sue me.
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/3/2025 23:18:58</sup></sub>
+<sub><sup>Last updated: 17/3/2025 23:22:18</sup></sub>
