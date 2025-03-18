@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/experiment.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/internal_monologue.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
+> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/3/2025 23:22:18</sup></sub>
+<sub><sup>Last updated: 18/3/2025 23:23:06</sup></sub>
