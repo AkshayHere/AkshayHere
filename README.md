@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/temper.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/real_estate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/3/2025 23:22:40</sup></sub>
+<sub><sup>Last updated: 20/3/2025 23:23:09</sup></sub>
