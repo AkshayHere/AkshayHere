@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pando.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/new_sports_system.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/3/2025 23:21:43</sup></sub>
+<sub><sup>Last updated: 22/3/2025 23:18:47</sup></sub>
