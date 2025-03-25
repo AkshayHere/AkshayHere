@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hardwood.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/genetic_testing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/3/2025 23:22:50</sup></sub>
+<sub><sup>Last updated: 25/3/2025 23:23:18</sup></sub>
