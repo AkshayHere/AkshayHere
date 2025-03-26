@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/genetic_testing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/en_garde.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> They say on your deathbed you never wish you spent more time at the office — but I will.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 25/3/2025 23:23:18</sup></sub>
+<sub><sup>Last updated: 26/3/2025 23:23:24</sup></sub>
