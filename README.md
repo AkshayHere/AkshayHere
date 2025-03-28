@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/laundry.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/latency.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/3/2025 23:23:01</sup></sub>
+<sub><sup>Last updated: 28/3/2025 23:21:52</sup></sub>
