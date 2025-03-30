@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/space_basketball.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/painbow_award.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/3/2025 23:20:28</sup></sub>
+<sub><sup>Last updated: 30/3/2025 23:19:55</sup></sub>
