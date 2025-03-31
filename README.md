@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/painbow_award.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/startling.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> OK, too many different words from coming at me from too many different sentences.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 30/3/2025 23:19:55</sup></sub>
+<sub><sup>Last updated: 31/3/2025 23:22:37</sup></sub>
