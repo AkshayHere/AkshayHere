@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/startling.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/final_exam.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, too many different words from coming at me from too many different sentences.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/3/2025 23:22:37</sup></sub>
+<sub><sup>Last updated: 1/4/2025 23:23:02</sup></sub>
