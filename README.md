@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/final_exam.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/argument.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/4/2025 23:23:02</sup></sub>
+<sub><sup>Last updated: 2/4/2025 23:22:34</sup></sub>
