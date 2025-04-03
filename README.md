@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/argument.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/holy_ghost.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/4/2025 23:22:34</sup></sub>
+<sub><sup>Last updated: 3/4/2025 23:20:11</sup></sub>
