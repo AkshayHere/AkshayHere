@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/laptop_issues.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wifi.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/4/2025 23:21:35</sup></sub>
+<sub><sup>Last updated: 5/4/2025 23:19:14</sup></sub>
