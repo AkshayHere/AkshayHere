@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wifi.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/migrating_geese.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
+> It’s not effeminate. It’s festive.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2025 23:19:14</sup></sub>
+<sub><sup>Last updated: 6/4/2025 23:19:18</sup></sub>
