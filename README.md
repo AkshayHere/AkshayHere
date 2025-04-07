@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/migrating_geese.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/planet_definitions.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s not effeminate. It’s festive.
+> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/4/2025 23:19:18</sup></sub>
+<sub><sup>Last updated: 7/4/2025 23:22:41</sup></sub>
