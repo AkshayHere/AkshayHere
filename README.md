@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/planet_definitions.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/4/2025 23:22:41</sup></sub>
+<sub><sup>Last updated: 8/4/2025 23:23:36</sup></sub>
