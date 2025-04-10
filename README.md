@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/worst_case_scenario.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/license_plate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/4/2025 23:25:59</sup></sub>
+<sub><sup>Last updated: 10/4/2025 23:23:24</sup></sub>
