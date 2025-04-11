@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/license_plate.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/tony_hawk.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> I wish I could menstruate. If I could menstruate, I wouldn’t have to deal with idiotic calendars anymore. I’d just be able to count down from my previous cycle. Plus, I’d be more in tune with the moon and the tides.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/4/2025 23:23:24</sup></sub>
+<sub><sup>Last updated: 11/4/2025 23:22:32</sup></sub>
