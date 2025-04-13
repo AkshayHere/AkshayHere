@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ld50.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/standards.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
+> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 12/4/2025 23:19:15</sup></sub>
+<sub><sup>Last updated: 13/4/2025 23:21:29</sup></sub>
