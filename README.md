@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/standards.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/professional_oaths.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/4/2025 23:21:29</sup></sub>
+<sub><sup>Last updated: 14/4/2025 23:22:57</sup></sub>
