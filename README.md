@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/professional_oaths.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/words_that_end_in_gry.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 14/4/2025 23:22:57</sup></sub>
+<sub><sup>Last updated: 15/4/2025 23:22:42</sup></sub>
