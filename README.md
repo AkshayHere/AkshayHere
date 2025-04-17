@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/chemicals.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/error_types.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> You know a human can go on living for several hours after being decapitated.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/4/2025 23:23:32</sup></sub>
+<sub><sup>Last updated: 17/4/2025 23:22:26</sup></sub>
