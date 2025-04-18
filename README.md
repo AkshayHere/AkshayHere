@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/error_types.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/i_in_team.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know a human can go on living for several hours after being decapitated.
+> There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/4/2025 23:22:26</sup></sub>
+<sub><sup>Last updated: 18/4/2025 23:21:39</sup></sub>
