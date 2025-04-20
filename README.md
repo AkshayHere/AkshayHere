@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_new_captcha_approach.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/software_testing_day.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim couldn’t land me in a thousand years.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 19/4/2025 23:19:57</sup></sub>
+<sub><sup>Last updated: 20/4/2025 23:19:26</sup></sub>
