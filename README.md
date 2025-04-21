@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/software_testing_day.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/phantom_menace.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/4/2025 23:19:26</sup></sub>
+<sub><sup>Last updated: 21/4/2025 23:21:56</sup></sub>
