@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/phantom_menace.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/encoding.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/4/2025 23:21:56</sup></sub>
+<sub><sup>Last updated: 22/4/2025 23:22:51</sup></sub>
