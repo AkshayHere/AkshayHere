@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/encoding.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/subduction_license.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
+> The eyes are the groin of the head.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/4/2025 23:22:51</sup></sub>
+<sub><sup>Last updated: 23/4/2025 23:23:43</sup></sub>
