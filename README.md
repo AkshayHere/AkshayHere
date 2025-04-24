@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/subduction_license.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/christmas_presents.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The eyes are the groin of the head.
+> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/4/2025 23:23:43</sup></sub>
+<sub><sup>Last updated: 24/4/2025 23:23:41</sup></sub>
