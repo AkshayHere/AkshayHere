@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/christmas_presents.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/locke_and_demosthenes.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 24/4/2025 23:23:41</sup></sub>
+<sub><sup>Last updated: 25/4/2025 23:22:03</sup></sub>
