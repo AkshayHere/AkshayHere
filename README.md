@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/admin_mourning.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/4/2025 23:19:25</sup></sub>
+<sub><sup>Last updated: 27/4/2025 23:20:39</sup></sub>
