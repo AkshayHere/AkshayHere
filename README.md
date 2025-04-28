@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/admin_mourning.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/delivery.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I find the mystery genre disgusting. I hate being titillated.
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/4/2025 23:20:39</sup></sub>
+<sub><sup>Last updated: 28/4/2025 23:23:48</sup></sub>
