@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/delivery.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/d_b_cooper.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/4/2025 23:23:48</sup></sub>
+<sub><sup>Last updated: 29/4/2025 23:23:26</sup></sub>
