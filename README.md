@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/d_b_cooper.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> Make friends first, make sales second, make love third. In no particular order.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/4/2025 23:23:26</sup></sub>
+<sub><sup>Last updated: 30/4/2025 23:23:19</sup></sub>
