@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/code_golf.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Make friends first, make sales second, make love third. In no particular order.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 30/4/2025 23:23:19</sup></sub>
+<sub><sup>Last updated: 1/5/2025 23:21:42</sup></sub>
