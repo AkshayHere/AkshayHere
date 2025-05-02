@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/code_golf.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/reviews.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+> And I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/5/2025 23:21:42</sup></sub>
+<sub><sup>Last updated: 2/5/2025 23:22:11</sup></sub>
