@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/reviews.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/how_to_coil_a_cable.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I feel God in this Chili’s tonight.
+> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/5/2025 23:22:11</sup></sub>
+<sub><sup>Last updated: 3/5/2025 23:20:10</sup></sub>
