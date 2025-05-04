@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/how_to_coil_a_cable.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/worst_thing_that_could_happen.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
+> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/5/2025 23:20:10</sup></sub>
+<sub><sup>Last updated: 4/5/2025 23:20:22</sup></sub>
