@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/worst_thing_that_could_happen.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/doctor_visit.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/5/2025 23:20:22</sup></sub>
+<sub><sup>Last updated: 5/5/2025 23:23:09</sup></sub>
