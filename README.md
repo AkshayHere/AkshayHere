@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dubious_study.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
+> I fell in love with these kids. And I didn’t want to see them fall victim to the system. So I made ’em a promise. I told them if they graduated from high school, I would pay for their college education. I have made some empty promises in my life but, hands down, that was the most generous.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/5/2025 23:24:20</sup></sub>
+<sub><sup>Last updated: 9/5/2025 23:22:33</sup></sub>
