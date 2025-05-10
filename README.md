@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/british_map.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I fell in love with these kids. And I didn’t want to see them fall victim to the system. So I made ’em a promise. I told them if they graduated from high school, I would pay for their college education. I have made some empty promises in my life but, hands down, that was the most generous.
+> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 9/5/2025 23:22:33</sup></sub>
+<sub><sup>Last updated: 10/5/2025 23:20:38</sup></sub>
