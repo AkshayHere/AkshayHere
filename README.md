@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/british_map.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/protocol.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 10/5/2025 23:20:38</sup></sub>
+<sub><sup>Last updated: 11/5/2025 23:20:02</sup></sub>
