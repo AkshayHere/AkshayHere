@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/improvised.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/lithium_batteries.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/5/2025 23:25:50</sup></sub>
+<sub><sup>Last updated: 13/5/2025 23:24:11</sup></sub>
