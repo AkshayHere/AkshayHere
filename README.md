@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lithium_batteries.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/misinterpretation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/5/2025 23:24:11</sup></sub>
+<sub><sup>Last updated: 14/5/2025 23:24:09</sup></sub>
