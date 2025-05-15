@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/misinterpretation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/physics_cost_saving_tips.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+> I saved a life — my own.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/5/2025 23:24:09</sup></sub>
+<sub><sup>Last updated: 15/5/2025 23:21:53</sup></sub>
