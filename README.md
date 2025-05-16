@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/physics_cost_saving_tips.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_gift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life — my own.
+> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/5/2025 23:21:53</sup></sub>
+<sub><sup>Last updated: 16/5/2025 23:21:18</sup></sub>
