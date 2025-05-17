@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_gift.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/t_cells.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/5/2025 23:21:18</sup></sub>
+<sub><sup>Last updated: 17/5/2025 23:20:09</sup></sub>
