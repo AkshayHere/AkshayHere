@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/backward_in_time.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/arsenic_based_life.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill, I go back to sleep again. Then I wake up to the smell of crackling bacon.
+> It takes an advanced sense of humor. I don’t expect everyone to understand.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 18/5/2025 23:19:51</sup></sub>
+<sub><sup>Last updated: 19/5/2025 23:24:32</sup></sub>
