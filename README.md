@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/arsenic_based_life.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/teaching_physics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/5/2025 23:24:32</sup></sub>
+<sub><sup>Last updated: 20/5/2025 23:24:35</sup></sub>
