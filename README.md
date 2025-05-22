@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/snow_tracking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/correlation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/5/2025 23:25:08</sup></sub>
+<sub><sup>Last updated: 22/5/2025 23:23:57</sup></sub>
