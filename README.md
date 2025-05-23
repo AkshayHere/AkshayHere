@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/correlation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/update.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/5/2025 23:23:57</sup></sub>
+<sub><sup>Last updated: 23/5/2025 23:23:11</sup></sub>
