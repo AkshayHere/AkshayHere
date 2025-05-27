@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/screen_time.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/phylogenetic_tree.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/5/2025 23:23:17</sup></sub>
+<sub><sup>Last updated: 27/5/2025 23:24:28</sup></sub>
