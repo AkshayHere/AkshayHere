@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/phylogenetic_tree.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ipad.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> When I President, they see. They see.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/5/2025 23:24:28</sup></sub>
+<sub><sup>Last updated: 28/5/2025 23:23:21</sup></sub>
