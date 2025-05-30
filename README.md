@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/delicious.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/juno.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/5/2025 23:23:23</sup></sub>
+<sub><sup>Last updated: 30/5/2025 23:23:16</sup></sub>
