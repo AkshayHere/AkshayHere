@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/juno.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/easy_or_hard.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/5/2025 23:23:16</sup></sub>
+<sub><sup>Last updated: 31/5/2025 23:20:23</sup></sub>
