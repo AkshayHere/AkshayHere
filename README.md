@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/easy_or_hard.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/academia_vs_business.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
+> The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/5/2025 23:20:23</sup></sub>
+<sub><sup>Last updated: 1/6/2025 23:20:55</sup></sub>
