@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/vacuum.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/purity.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not usually the butt of the joke. I’m usually the face of the joke.
+> And I misspelled, in front of the entire school, the word ‘failure.’
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/6/2025 23:25:27</sup></sub>
+<sub><sup>Last updated: 3/6/2025 23:26:02</sup></sub>
