@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/purity.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/future.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I misspelled, in front of the entire school, the word ‘failure.’
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 3/6/2025 23:26:02</sup></sub>
+<sub><sup>Last updated: 4/6/2025 23:44:26</sup></sub>
