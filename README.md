@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/future.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/venting.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Michael will be related to this baby through... delusion.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/6/2025 23:44:26</sup></sub>
+<sub><sup>Last updated: 5/6/2025 23:24:32</sup></sub>
