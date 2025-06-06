@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/venting.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/brightness.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael will be related to this baby through... delusion.
+> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
 >
-> <p>- Jim Halpert</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/6/2025 23:24:32</sup></sub>
+<sub><sup>Last updated: 6/6/2025 23:20:50</sup></sub>
