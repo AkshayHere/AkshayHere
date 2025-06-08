@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/love_songs.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/lumpers_and_splitters.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am Beyonce, always.
+> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 7/6/2025 23:21:12</sup></sub>
+<sub><sup>Last updated: 8/6/2025 23:23:23</sup></sub>
