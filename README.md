@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/np_complete.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/forget.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I find the mystery genre disgusting. I hate being titillated.
+> To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/6/2025 23:24:53</sup></sub>
+<sub><sup>Last updated: 13/6/2025 23:24:03</sup></sub>
