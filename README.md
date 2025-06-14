@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/forget.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/complex_conjugate.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
+> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/6/2025 23:24:03</sup></sub>
+<sub><sup>Last updated: 14/6/2025 23:20:43</sup></sub>
