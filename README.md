@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/complex_conjugate.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bubblegum.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> ‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/6/2025 23:20:43</sup></sub>
+<sub><sup>Last updated: 15/6/2025 23:20:59</sup></sub>
