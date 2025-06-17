@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/first_thing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/brain_upload.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, too many different words from coming at me from too many different sentences.
+> I… declare…. bankruptcy!
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/6/2025 23:25:10</sup></sub>
+<sub><sup>Last updated: 17/6/2025 23:25:29</sup></sub>
