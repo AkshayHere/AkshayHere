@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/brain_upload.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I… declare…. bankruptcy!
+> I miss Dwight. Congratulations Universe, you win.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/6/2025 23:25:29</sup></sub>
+<sub><sup>Last updated: 18/6/2025 23:25:30</sup></sub>
