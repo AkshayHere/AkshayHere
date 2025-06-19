@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/parker_solar_probe.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I miss Dwight. Congratulations Universe, you win.
+> The worst thing about prison was the dementors.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/6/2025 23:25:30</sup></sub>
+<sub><sup>Last updated: 19/6/2025 23:23:53</sup></sub>
