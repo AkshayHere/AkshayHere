@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/parker_solar_probe.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/borrow_your_laptop.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The worst thing about prison was the dementors.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/6/2025 23:23:53</sup></sub>
+<sub><sup>Last updated: 20/6/2025 23:23:19</sup></sub>
