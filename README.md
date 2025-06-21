@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/borrow_your_laptop.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/password_reuse.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sorry I annoyed you with my friendship.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/6/2025 23:23:19</sup></sub>
+<sub><sup>Last updated: 21/6/2025 23:21:15</sup></sub>
