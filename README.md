@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/appliance_repair.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/elementary_physics_paths.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/6/2025 23:25:34</sup></sub>
+<sub><sup>Last updated: 24/6/2025 23:25:28</sup></sub>
