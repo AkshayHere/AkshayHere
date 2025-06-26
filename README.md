@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fmri.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/git_commit.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Pizza: the great equalizer.
+> I'm always thinking one step ahead, like a carpenter who makes stairs.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/6/2025 23:26:09</sup></sub>
+<sub><sup>Last updated: 26/6/2025 23:24:22</sup></sub>
