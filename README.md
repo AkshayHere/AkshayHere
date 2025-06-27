@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/git_commit.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/five_word_jargon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Andy Bernard</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/6/2025 23:24:22</sup></sub>
+<sub><sup>Last updated: 27/6/2025 23:23:49</sup></sub>
