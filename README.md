@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/banana_prices.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/apollo_speeches.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> This day is BANANAS! B-A-N-A-N-A-S!
+> I think green is kind of whorish.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/6/2025 23:21:04</sup></sub>
+<sub><sup>Last updated: 29/6/2025 23:21:18</sup></sub>
