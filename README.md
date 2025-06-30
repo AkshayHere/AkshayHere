@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/apollo_speeches.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/schrodinger.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I think green is kind of whorish.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/6/2025 23:21:18</sup></sub>
+<sub><sup>Last updated: 30/6/2025 23:25:26</sup></sub>
