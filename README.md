@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/schrodinger.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/alive_or_not.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> All that singing got in the way of some perfectly good murders.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/6/2025 23:25:26</sup></sub>
+<sub><sup>Last updated: 1/7/2025 23:24:52</sup></sub>
