@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/alive_or_not.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/creepy.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> All that singing got in the way of some perfectly good murders.
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/7/2025 23:24:52</sup></sub>
+<sub><sup>Last updated: 2/7/2025 23:25:02</sup></sub>
