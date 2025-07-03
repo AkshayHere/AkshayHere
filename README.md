@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/creepy.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cron_mail.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/7/2025 23:25:02</sup></sub>
+<sub><sup>Last updated: 3/7/2025 23:24:29</sup></sub>
