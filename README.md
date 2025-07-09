@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/exoplanets.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nachos.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You cheated on me? When I specifically asked you not to?
+> You only live once? False. You live every day. You only die once.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/7/2025 23:24:49</sup></sub>
+<sub><sup>Last updated: 9/7/2025 23:25:37</sup></sub>
