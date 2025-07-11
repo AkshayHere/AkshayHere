@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/moving.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/background_screens.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I miss Dwight. Congratulations Universe, you win.
+> I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/7/2025 23:26:35</sup></sub>
+<sub><sup>Last updated: 11/7/2025 23:25:17</sup></sub>
