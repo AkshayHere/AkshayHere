@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ancient_stars.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/business_idea.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
+> It takes an advanced sense of humor. I don’t expect everyone to understand.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/7/2025 23:22:36</sup></sub>
+<sub><sup>Last updated: 13/7/2025 23:22:03</sup></sub>
