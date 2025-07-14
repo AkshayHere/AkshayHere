@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/business_idea.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/all_the_girls.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It takes an advanced sense of humor. I don’t expect everyone to understand.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/7/2025 23:22:03</sup></sub>
+<sub><sup>Last updated: 14/7/2025 23:26:18</sup></sub>
