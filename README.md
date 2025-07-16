@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/geologic_faults.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/night_shift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/7/2025 23:24:40</sup></sub>
+<sub><sup>Last updated: 16/7/2025 23:26:38</sup></sub>
