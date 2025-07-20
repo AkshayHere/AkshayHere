@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/expiration_date_high_score.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sabotage.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
+> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/7/2025 23:23:07</sup></sub>
+<sub><sup>Last updated: 20/7/2025 23:22:53</sup></sub>
