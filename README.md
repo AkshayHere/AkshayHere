@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sabotage.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/paper_title.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
+> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/7/2025 23:22:53</sup></sub>
+<sub><sup>Last updated: 21/7/2025 23:26:19</sup></sub>
