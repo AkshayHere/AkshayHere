@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/paper_title.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a_better_idea.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+> I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/7/2025 23:26:19</sup></sub>
+<sub><sup>Last updated: 22/7/2025 23:26:57</sup></sub>
