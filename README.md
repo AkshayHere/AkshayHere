@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a_better_idea.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a-minus-minus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
+> I love inside jokes. I hope to be a part of one someday.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/7/2025 23:26:57</sup></sub>
+<sub><sup>Last updated: 23/7/2025 23:27:09</sup></sub>
