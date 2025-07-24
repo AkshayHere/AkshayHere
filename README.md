@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/a-minus-minus.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I love inside jokes. I hope to be a part of one someday.
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/7/2025 23:27:09</sup></sub>
+<sub><sup>Last updated: 24/7/2025 23:23:28</sup></sub>
