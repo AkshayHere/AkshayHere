@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/historical_dates.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/7/2025 23:23:28</sup></sub>
+<sub><sup>Last updated: 25/7/2025 23:26:25</sup></sub>
