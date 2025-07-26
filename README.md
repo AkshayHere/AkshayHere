@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/historical_dates.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/snack.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/7/2025 23:26:25</sup></sub>
+<sub><sup>Last updated: 26/7/2025 23:23:00</sup></sub>
