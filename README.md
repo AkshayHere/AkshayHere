@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/snack.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/five_word_jargon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Congratulations on your one cousin. I have seventy, each one better than the last!
+> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/7/2025 23:23:00</sup></sub>
+<sub><sup>Last updated: 27/7/2025 23:23:13</sup></sub>
