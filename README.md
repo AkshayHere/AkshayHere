@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tornado.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ducklings.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> Jim told me you could buy gaydar online.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/7/2025 23:27:04</sup></sub>
+<sub><sup>Last updated: 29/7/2025 23:28:01</sup></sub>
