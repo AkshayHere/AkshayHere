@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/self-reference.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/8/2025 23:26:36</sup></sub>
+<sub><sup>Last updated: 2/8/2025 23:23:32</sup></sub>
