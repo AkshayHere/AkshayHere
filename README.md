@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/self-reference.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/beautiful_dream.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+> Hey, what has two thumbs and hates Todd Packer? This guy.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/8/2025 23:23:32</sup></sub>
+<sub><sup>Last updated: 3/8/2025 23:23:52</sup></sub>
