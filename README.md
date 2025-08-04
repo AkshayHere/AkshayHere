@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/beautiful_dream.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/beam_of_light.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Hey, what has two thumbs and hates Todd Packer? This guy.
+> As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/8/2025 23:23:52</sup></sub>
+<sub><sup>Last updated: 4/8/2025 23:28:03</sup></sub>
