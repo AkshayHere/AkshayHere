@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/map_age_guide.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/excusing_yourself.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/8/2025 23:28:47</sup></sub>
+<sub><sup>Last updated: 6/8/2025 23:27:49</sup></sub>
