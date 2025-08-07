@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/excusing_yourself.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/felsius.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/8/2025 23:27:49</sup></sub>
+<sub><sup>Last updated: 7/8/2025 23:27:30</sup></sub>
