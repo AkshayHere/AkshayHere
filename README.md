@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/felsius.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ballooning.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/8/2025 23:27:30</sup></sub>
+<sub><sup>Last updated: 8/8/2025 23:26:37</sup></sub>
