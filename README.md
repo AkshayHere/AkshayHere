@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ballooning.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nerd_sniping.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
+> You don’t know me, you’ve just seen my penis.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/8/2025 23:26:37</sup></sub>
+<sub><sup>Last updated: 9/8/2025 23:22:37</sup></sub>
