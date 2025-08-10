@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/nerd_sniping.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wish_on_a_shooting_star.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You don’t know me, you’ve just seen my penis.
+> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 9/8/2025 23:22:37</sup></sub>
+<sub><sup>Last updated: 10/8/2025 23:22:27</sup></sub>
