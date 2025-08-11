@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wish_on_a_shooting_star.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_ordering.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/8/2025 23:22:27</sup></sub>
+<sub><sup>Last updated: 11/8/2025 23:26:20</sup></sub>
