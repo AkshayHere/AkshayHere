@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/schwa.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/8/2025 23:26:20</sup></sub>
+<sub><sup>Last updated: 12/8/2025 23:25:54</sup></sub>
