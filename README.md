@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/schwa.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/kedging_cannon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 12/8/2025 23:25:54</sup></sub>
+<sub><sup>Last updated: 13/8/2025 23:21:07</sup></sub>
