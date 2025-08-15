@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/supergroup.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fermats_first_theorem.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+> You think you’re excited? You should feel my nipples. Boing!
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/8/2025 23:25:15</sup></sub>
+<sub><sup>Last updated: 15/8/2025 23:23:34</sup></sub>
