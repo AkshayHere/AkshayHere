@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fermats_first_theorem.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_sun.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You think you’re excited? You should feel my nipples. Boing!
+> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 15/8/2025 23:23:34</sup></sub>
+<sub><sup>Last updated: 16/8/2025 23:20:58</sup></sub>
