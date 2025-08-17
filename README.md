@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_sun.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/earthquake_early_warnings.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
+> Ah, humor. I have it, too.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/8/2025 23:20:58</sup></sub>
+<sub><sup>Last updated: 17/8/2025 23:21:25</sup></sub>
