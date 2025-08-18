@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/earthquake_early_warnings.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/turkish_delight.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Ah, humor. I have it, too.
+> Saw Inception. Or at least I dreamt I did.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/8/2025 23:21:25</sup></sub>
+<sub><sup>Last updated: 18/8/2025 23:26:26</sup></sub>
