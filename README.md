@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/turkish_delight.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sunspot_cycle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Saw Inception. Or at least I dreamt I did.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/8/2025 23:26:26</sup></sub>
+<sub><sup>Last updated: 19/8/2025 23:24:03</sup></sub>
