@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/trash_compactor_party.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/effect_size.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/8/2025 23:24:00</sup></sub>
+<sub><sup>Last updated: 22/8/2025 23:22:26</sup></sub>
