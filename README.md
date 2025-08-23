@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/effect_size.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/konigsberg.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/8/2025 23:22:26</sup></sub>
+<sub><sup>Last updated: 23/8/2025 23:19:23</sup></sub>
