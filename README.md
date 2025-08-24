@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/konigsberg.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/iceberg.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> I never thought I’d say this, but I think I ate too much bone marrow.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/8/2025 23:19:23</sup></sub>
+<sub><sup>Last updated: 24/8/2025 23:20:03</sup></sub>
