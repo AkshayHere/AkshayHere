@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/iceberg.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/reaction_maps.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 24/8/2025 23:20:03</sup></sub>
+<sub><sup>Last updated: 25/8/2025 23:23:53</sup></sub>
