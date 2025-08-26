@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/reaction_maps.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/business_plan.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> This day is BANANAS! B-A-N-A-N-A-S!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/8/2025 23:23:53</sup></sub>
+<sub><sup>Last updated: 26/8/2025 23:23:28</sup></sub>
