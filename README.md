@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/business_plan.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/baby_post.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> This day is BANANAS! B-A-N-A-N-A-S!
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/8/2025 23:23:28</sup></sub>
+<sub><sup>Last updated: 27/8/2025 23:22:36</sup></sub>
