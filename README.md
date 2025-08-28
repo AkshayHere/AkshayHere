@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/baby_post.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_sea.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Jim told me you could buy gaydar online.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/8/2025 23:22:36</sup></sub>
+<sub><sup>Last updated: 28/8/2025 23:22:20</sup></sub>
