@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_sea.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/euler_diagrams.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Jim told me you could buy gaydar online.
+> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/8/2025 23:22:20</sup></sub>
+<sub><sup>Last updated: 29/8/2025 23:19:14</sup></sub>
