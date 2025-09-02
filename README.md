@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/designated_drivers.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/x_girls_y_cups.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
+> I'm going to do something I've never done at this job before - try.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/9/2025 23:21:15</sup></sub>
+<sub><sup>Last updated: 2/9/2025 23:23:29</sup></sub>
