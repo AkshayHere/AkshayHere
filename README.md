@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/x_girls_y_cups.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/business_idea.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm going to do something I've never done at this job before - try.
+> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/9/2025 23:23:29</sup></sub>
+<sub><sup>Last updated: 3/9/2025 23:22:49</sup></sub>
