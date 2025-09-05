@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/interferometry.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/common_star_types.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
+> Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/9/2025 23:21:54</sup></sub>
+<sub><sup>Last updated: 5/9/2025 23:21:46</sup></sub>
