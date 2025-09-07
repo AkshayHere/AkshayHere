@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/accident.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/drone_problems.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Five minutes ahead of schedule… right on schedule.
+> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/9/2025 23:17:38</sup></sub>
+<sub><sup>Last updated: 7/9/2025 23:18:39</sup></sub>
