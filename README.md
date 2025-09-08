@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/drone_problems.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/late_cenozoic.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
+> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 7/9/2025 23:18:39</sup></sub>
+<sub><sup>Last updated: 8/9/2025 23:21:14</sup></sub>
