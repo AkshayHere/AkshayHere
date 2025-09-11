@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/more_accurate.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/galaxies.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> It’s a good thing Russia doesn’t exist anymore.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/9/2025 23:21:33</sup></sub>
+<sub><sup>Last updated: 11/9/2025 23:19:56</sup></sub>
