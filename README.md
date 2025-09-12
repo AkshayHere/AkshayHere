@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/galaxies.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/nowplaying.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/9/2025 23:19:56</sup></sub>
+<sub><sup>Last updated: 12/9/2025 23:20:10</sup></sub>
