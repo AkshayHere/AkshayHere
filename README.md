@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/nowplaying.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/trimester.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
+> You only live once? False. You live every day. You only die once.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/9/2025 23:20:10</sup></sub>
+<sub><sup>Last updated: 13/9/2025 23:17:09</sup></sub>
