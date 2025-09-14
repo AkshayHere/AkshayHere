@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/trimester.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/open_mic_night.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You only live once? False. You live every day. You only die once.
+> It’s a good thing Russia doesn’t exist anymore.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/9/2025 23:17:09</sup></sub>
+<sub><sup>Last updated: 14/9/2025 23:17:59</sup></sub>
