@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/romantic_drama_equation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/emoji_movie.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The eyes are the groin of the head.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 15/9/2025 23:22:59</sup></sub>
+<sub><sup>Last updated: 16/9/2025 23:23:09</sup></sub>
