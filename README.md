@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/emoji_movie.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/julia_stiles.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+> I am running away from my responsibilities. And it feels good.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/9/2025 23:23:09</sup></sub>
+<sub><sup>Last updated: 17/9/2025 23:21:51</sup></sub>
