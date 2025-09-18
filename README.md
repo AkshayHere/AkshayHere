@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/julia_stiles.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/pilot_priority_list.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am running away from my responsibilities. And it feels good.
+> That has sort of an oaky afterbirth.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/9/2025 23:21:51</sup></sub>
+<sub><sup>Last updated: 18/9/2025 23:22:48</sup></sub>
