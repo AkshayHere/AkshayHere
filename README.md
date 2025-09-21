@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/trouble_for_science.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/call_my_cell.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+> Love is all you need? False, you need water and rations.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/9/2025 23:18:52</sup></sub>
+<sub><sup>Last updated: 21/9/2025 23:18:35</sup></sub>
