@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/perl_problems.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/screenshots.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+> No, don’t call me a hero. Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime. Those are the real heroes.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/9/2025 23:23:15</sup></sub>
+<sub><sup>Last updated: 23/9/2025 23:22:24</sup></sub>
