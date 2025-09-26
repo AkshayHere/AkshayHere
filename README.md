@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/the_race_part_4.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/9/2025 23:22:59</sup></sub>
+<sub><sup>Last updated: 26/9/2025 23:22:11</sup></sub>
