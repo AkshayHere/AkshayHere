@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/the_race_part_4.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/reviews.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/9/2025 23:22:11</sup></sub>
+<sub><sup>Last updated: 27/9/2025 23:18:34</sup></sub>
