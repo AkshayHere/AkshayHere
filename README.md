@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/reviews.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bluetooth.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/9/2025 23:18:34</sup></sub>
+<sub><sup>Last updated: 28/9/2025 23:18:11</sup></sub>
