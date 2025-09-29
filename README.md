@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bluetooth.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mass_spec.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/9/2025 23:18:11</sup></sub>
+<sub><sup>Last updated: 29/9/2025 23:22:09</sup></sub>
