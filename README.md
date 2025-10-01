@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/saturn_hexagon.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sick_day.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> We’re all homos. Homo… Sapiens.
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 30/9/2025 23:19:58</sup></sub>
+<sub><sup>Last updated: 1/10/2025 23:22:07</sup></sub>
