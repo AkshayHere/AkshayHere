@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sick_day.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/crime_scene.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/10/2025 23:22:07</sup></sub>
+<sub><sup>Last updated: 2/10/2025 23:21:55</sup></sub>
