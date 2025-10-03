@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/crime_scene.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+> You couldn’t handle my undivided attention.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/10/2025 23:21:55</sup></sub>
+<sub><sup>Last updated: 3/10/2025 23:20:56</sup></sub>
