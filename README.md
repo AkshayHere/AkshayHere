@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/consensus_time.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/election_screen_time.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> I hate so much about the things you choose to be.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/10/2025 23:18:13</sup></sub>
+<sub><sup>Last updated: 6/10/2025 23:22:11</sup></sub>
