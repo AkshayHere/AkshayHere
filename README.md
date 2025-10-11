@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/choices_part_4.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
+> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/10/2025 23:20:56</sup></sub>
+<sub><sup>Last updated: 11/10/2025 23:17:49</sup></sub>
