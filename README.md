@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/adjusting_a_chair.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/alternate_histories.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
+> Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/10/2025 23:17:49</sup></sub>
+<sub><sup>Last updated: 12/10/2025 23:18:31</sup></sub>
