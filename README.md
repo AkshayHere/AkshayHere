@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/alternate_histories.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pascals_law.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
+> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 12/10/2025 23:18:31</sup></sub>
+<sub><sup>Last updated: 13/10/2025 23:22:01</sup></sub>
