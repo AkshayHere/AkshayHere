@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pascals_law.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/log_cabin.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/10/2025 23:22:01</sup></sub>
+<sub><sup>Last updated: 14/10/2025 23:24:41</sup></sub>
