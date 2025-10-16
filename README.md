@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/kepler.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/earth_temperature_timeline.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/10/2025 23:21:06</sup></sub>
+<sub><sup>Last updated: 16/10/2025 23:23:26</sup></sub>
