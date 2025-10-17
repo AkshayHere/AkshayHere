@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/earth_temperature_timeline.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fantastic_four.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
+> I wonder if king-sized sheets are called presidential-sized in England?
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/10/2025 23:23:26</sup></sub>
+<sub><sup>Last updated: 17/10/2025 23:21:51</sup></sub>
