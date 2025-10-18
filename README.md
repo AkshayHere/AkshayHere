@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fantastic_four.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/overthinking.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wonder if king-sized sheets are called presidential-sized in England?
+> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/10/2025 23:21:51</sup></sub>
+<sub><sup>Last updated: 18/10/2025 23:18:42</sup></sub>
