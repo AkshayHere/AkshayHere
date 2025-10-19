@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/overthinking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ttsltswbd.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
+> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/10/2025 23:18:42</sup></sub>
+<sub><sup>Last updated: 19/10/2025 23:18:52</sup></sub>
