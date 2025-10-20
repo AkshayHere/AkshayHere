@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ttsltswbd.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cemetery.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/10/2025 23:18:52</sup></sub>
+<sub><sup>Last updated: 20/10/2025 23:22:43</sup></sub>
