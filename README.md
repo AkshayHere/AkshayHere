@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/new_years_eve.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/eht_black_hole_picture.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The eyes are the groin of the head.
+> Who is Justice Beaver?
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/10/2025 23:22:12</sup></sub>
+<sub><sup>Last updated: 22/10/2025 23:23:18</sup></sub>
