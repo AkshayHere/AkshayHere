@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/eht_black_hole_picture.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_tracker.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Who is Justice Beaver?
+> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 22/10/2025 23:23:18</sup></sub>
+<sub><sup>Last updated: 23/10/2025 23:23:20</sup></sub>
