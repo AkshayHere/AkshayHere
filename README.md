@@ -23,12 +23,12 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/vaccine_tracker.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/food_combinations.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
+> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
 >
 > <p>- Dwight Schrute</p>
 
@@ -36,4 +36,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/10/2025 23:23:20</sup></sub>
+<sub><sup>Last updated: 24/10/2025 23:23:31</sup></sub>
