@@ -23,17 +23,17 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/glacial_erratic.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fossil.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+> Always the Padawan, never the Jedi.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/10/2025 23:19:09</sup></sub>
+<sub><sup>Last updated: 26/10/2025 23:19:46</sup></sub>
