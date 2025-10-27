@@ -1,5 +1,4 @@
 [![Akshay's GitHub Banner](./assets/bigLebowski.jpg)](https://github.com/AkshayHere)
-
 ## 👋 Hi, I'm Akshay Mohan
 
 💻 Full-stack Developer passionate about building scalable, maintainable, and high-performance web applications.  
@@ -37,6 +36,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🧰 DevOps / Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -55,23 +55,19 @@
 
 ---
 
-<!-- ## Latest Spotify Songs I am listening to -->
-<!-- ![Spotify Details](https://spotify-recently-played-readme.vercel.app/api?user=akshay_here&unique=true) -->
-
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fossil.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/2020_election_map.png)
 
----
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Always the Padawan, never the Jedi.
+> We’re all homos. Homo… Sapiens.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/10/2025 23:19:46</sup></sub>
+<sub><sup>Last updated: 27/10/2025 23:24:14</sup></sub>
