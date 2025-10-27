@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayhere&show_icons=true&theme=tokyonight&count_private=true)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayhere&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github)
 
 ![Top Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=akshayhere&layout=compact&theme=tokyonight&card_width=467)
 
