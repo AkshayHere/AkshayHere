@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/in_the_trees.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/stratigraphic_record.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You are as creepy as a real serial killer. For real.
+> The people that you work with are, when you get down to it, your very best friends.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/10/2025 23:25:20</sup></sub>
+<sub><sup>Last updated: 29/10/2025 23:25:29</sup></sub>
