@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/stratigraphic_record.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/depth.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The people that you work with are, when you get down to it, your very best friends.
+> That’s what she said!
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/10/2025 23:25:29</sup></sub>
+<sub><sup>Last updated: 30/10/2025 23:25:35</sup></sub>
