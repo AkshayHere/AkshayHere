@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/depth.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/syllable_planning.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> That’s what she said!
+> A hero kills people, people that wish him harm. A hero is part human and part supernatural. A hero is born out of a childhood trauma, or out of a disaster, that must be avenged.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/10/2025 23:25:35</sup></sub>
+<sub><sup>Last updated: 31/10/2025 23:21:52</sup></sub>
