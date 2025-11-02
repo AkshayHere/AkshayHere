@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/familiar.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/pixels.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I say dance, they say ‘How high?'
+> People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/11/2025 23:18:33</sup></sub>
+<sub><sup>Last updated: 2/11/2025 23:19:28</sup></sub>
