@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tetherball_configurations.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/computational_linguists.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+> Yes, I am taking Andy hunting after work. Not long ago we were sexual competitors. I used to hate him, hate him, hate him, hate him. I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/11/2025 23:23:59</sup></sub>
+<sub><sup>Last updated: 4/11/2025 23:25:20</sup></sub>
