@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/laser_scope.jpg)
+![Alt XKCD](https://imgs.xkcd.com/comics/dockless_roombas.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
+> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 5/11/2025 23:22:37</sup></sub>
+<sub><sup>Last updated: 6/11/2025 23:25:19</sup></sub>
