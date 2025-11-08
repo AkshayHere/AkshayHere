@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/newtons_trajectories.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/weather_radar.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 7/11/2025 23:23:00</sup></sub>
+<sub><sup>Last updated: 8/11/2025 23:19:49</sup></sub>
