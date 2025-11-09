@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/weather_radar.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?
+> OK, too many different words from coming at me from too many different sentences.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/11/2025 23:19:49</sup></sub>
+<sub><sup>Last updated: 9/11/2025 23:19:01</sup></sub>
