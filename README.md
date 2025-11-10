@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/too_old_for_this_shit.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, too many different words from coming at me from too many different sentences.
+> Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/11/2025 23:19:01</sup></sub>
+<sub><sup>Last updated: 10/11/2025 23:25:33</sup></sub>
