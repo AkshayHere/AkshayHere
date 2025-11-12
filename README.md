@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/exposure_notification.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/2009_called.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill, I go back to sleep again. Then I wake up to the smell of crackling bacon.
+> At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/11/2025 23:24:55</sup></sub>
+<sub><sup>Last updated: 12/11/2025 23:26:10</sup></sub>
