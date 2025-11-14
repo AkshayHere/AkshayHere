@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/evaluating_tech_things.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/before_the_internet.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I talk a lot, so I've learned to tune myself out.
+> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/11/2025 23:25:03</sup></sub>
+<sub><sup>Last updated: 14/11/2025 23:20:49</sup></sub>
