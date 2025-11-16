@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fundamental_forces.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sky_spotters.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+> It’s a good thing Russia doesn’t exist anymore.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/11/2025 23:20:04</sup></sub>
+<sub><sup>Last updated: 16/11/2025 23:19:56</sup></sub>
