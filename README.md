@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sky_spotters.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/famous_duos.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a good thing Russia doesn’t exist anymore.
+> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/11/2025 23:19:56</sup></sub>
+<sub><sup>Last updated: 17/11/2025 23:26:09</sup></sub>
