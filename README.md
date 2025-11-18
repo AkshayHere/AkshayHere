@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/famous_duos.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/strunk_and_white.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/11/2025 23:26:09</sup></sub>
+<sub><sup>Last updated: 18/11/2025 23:26:01</sup></sub>
