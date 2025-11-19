@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/strunk_and_white.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 18/11/2025 23:26:01</sup></sub>
+<sub><sup>Last updated: 19/11/2025 23:24:50</sup></sub>
