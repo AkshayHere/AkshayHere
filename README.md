@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/origami_black_hole.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
+> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/11/2025 23:24:50</sup></sub>
+<sub><sup>Last updated: 20/11/2025 23:25:01</sup></sub>
