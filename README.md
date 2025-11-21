@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/origami_black_hole.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/space_basketball.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 20/11/2025 23:25:01</sup></sub>
+<sub><sup>Last updated: 21/11/2025 23:20:21</sup></sub>
