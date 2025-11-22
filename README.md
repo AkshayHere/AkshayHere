@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/space_basketball.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/human_altitude.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
+> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/11/2025 23:20:21</sup></sub>
+<sub><sup>Last updated: 22/11/2025 23:20:20</sup></sub>
