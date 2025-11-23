@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/human_altitude.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/awful_people.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
+> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/11/2025 23:20:20</sup></sub>
+<sub><sup>Last updated: 23/11/2025 23:20:22</sup></sub>
