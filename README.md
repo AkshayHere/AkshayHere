@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/awful_people.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/captain_speaking.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+> The Civil War history industry has conveniently forgotten about the battle of Schrute Farms. Whatever. I’m over it. It’s just grossly irresponsible.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/11/2025 23:20:22</sup></sub>
+<sub><sup>Last updated: 24/11/2025 23:26:50</sup></sub>
