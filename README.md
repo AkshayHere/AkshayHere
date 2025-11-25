@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/captain_speaking.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/goto.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> The Civil War history industry has conveniently forgotten about the battle of Schrute Farms. Whatever. I’m over it. It’s just grossly irresponsible.
+> I talk a lot, so I've learned to tune myself out.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/11/2025 23:26:50</sup></sub>
+<sub><sup>Last updated: 25/11/2025 23:26:09</sup></sub>
