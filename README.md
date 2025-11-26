@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/goto.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I talk a lot, so I've learned to tune myself out.
+> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/11/2025 23:26:09</sup></sub>
+<sub><sup>Last updated: 26/11/2025 23:22:51</sup></sub>
