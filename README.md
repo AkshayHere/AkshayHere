@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/labyrinth_puzzle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/11/2025 23:22:51</sup></sub>
+<sub><sup>Last updated: 27/11/2025 23:23:54</sup></sub>
