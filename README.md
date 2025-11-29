@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/making_things_difficult.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/secretary_part_3.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Any man who says he totally understands women is a fool. Because they are un-understandable.
+> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 28/11/2025 23:23:32</sup></sub>
+<sub><sup>Last updated: 29/11/2025 23:21:07</sup></sub>
