@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/secretary_part_3.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/exclusion_principle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 29/11/2025 23:21:07</sup></sub>
+<sub><sup>Last updated: 30/11/2025 23:21:13</sup></sub>
