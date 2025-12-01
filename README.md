@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/exclusion_principle.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 30/11/2025 23:21:13</sup></sub>
+<sub><sup>Last updated: 1/12/2025 23:26:33</sup></sub>
