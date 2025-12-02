@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/rounding.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
+> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/12/2025 23:26:33</sup></sub>
+<sub><sup>Last updated: 2/12/2025 23:27:46</sup></sub>
