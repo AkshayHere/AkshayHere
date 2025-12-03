@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rounding.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/join_myspace.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine.
+> I am running away from my responsibilities. And it feels good.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/12/2025 23:27:46</sup></sub>
+<sub><sup>Last updated: 3/12/2025 23:27:38</sup></sub>
