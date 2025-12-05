@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/in_ur_reality.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/batman.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Pizza: the great equalizer.
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/12/2025 23:27:56</sup></sub>
+<sub><sup>Last updated: 5/12/2025 23:26:05</sup></sub>
