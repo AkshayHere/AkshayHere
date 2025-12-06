@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/batman.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/kedging_cannon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/12/2025 23:26:05</sup></sub>
+<sub><sup>Last updated: 6/12/2025 23:20:47</sup></sub>
