@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dependencies.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/jwst_delays.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
+> Do I have a date for Valentine’s Day? Yes. February 14th.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/12/2025 23:20:11</sup></sub>
+<sub><sup>Last updated: 8/12/2025 23:27:07</sup></sub>
