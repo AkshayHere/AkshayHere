@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/jwst_delays.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/health_stats.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Do I have a date for Valentine’s Day? Yes. February 14th.
+> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/12/2025 23:27:07</sup></sub>
+<sub><sup>Last updated: 9/12/2025 23:28:24</sup></sub>
