@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/health_stats.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ai_research.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/12/2025 23:28:24</sup></sub>
+<sub><sup>Last updated: 10/12/2025 23:28:42</sup></sub>
