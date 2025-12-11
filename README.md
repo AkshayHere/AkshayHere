@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ai_research.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+> I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/12/2025 23:28:42</sup></sub>
+<sub><sup>Last updated: 11/12/2025 23:29:18</sup></sub>
