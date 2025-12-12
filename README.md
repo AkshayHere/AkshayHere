@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ozymandias.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+> I always wondered how they picked the person to die. I’d be good at picking the person.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/12/2025 23:29:18</sup></sub>
+<sub><sup>Last updated: 12/12/2025 23:26:32</sup></sub>
