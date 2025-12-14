@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/so_it_has_come_to_this.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/customer_rewards.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> That’s what she said!
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/12/2025 23:21:38</sup></sub>
+<sub><sup>Last updated: 14/12/2025 23:21:49</sup></sub>
