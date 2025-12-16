@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fishing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/significant.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> All that singing got in the way of some perfectly good murders.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/12/2025 23:27:51</sup></sub>
+<sub><sup>Last updated: 16/12/2025 23:27:48</sup></sub>
