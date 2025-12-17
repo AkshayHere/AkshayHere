@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/significant.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/i_in_team.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> And I’m optimistic because every day I get a little more desperate.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/12/2025 23:27:48</sup></sub>
+<sub><sup>Last updated: 17/12/2025 23:27:44</sup></sub>
