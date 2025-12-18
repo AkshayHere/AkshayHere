@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/i_in_team.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/xkcd_phone_4.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I’m optimistic because every day I get a little more desperate.
+> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/12/2025 23:27:44</sup></sub>
+<sub><sup>Last updated: 18/12/2025 23:27:24</sup></sub>
