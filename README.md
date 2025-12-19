@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/xkcd_phone_4.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/icon_swap.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/12/2025 23:27:24</sup></sub>
+<sub><sup>Last updated: 19/12/2025 23:27:01</sup></sub>
