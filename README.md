@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/icon_swap.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/land_mammals.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/12/2025 23:27:01</sup></sub>
+<sub><sup>Last updated: 20/12/2025 23:21:44</sup></sub>
