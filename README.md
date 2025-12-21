@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/land_mammals.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/university_age.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
 >
-> <p>- Pam Beesly</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/12/2025 23:21:44</sup></sub>
+<sub><sup>Last updated: 21/12/2025 23:22:07</sup></sub>
