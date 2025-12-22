@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/university_age.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/lakes_and_oceans.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
+> It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/12/2025 23:22:07</sup></sub>
+<sub><sup>Last updated: 22/12/2025 23:26:14</sup></sub>
