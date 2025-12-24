@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/blurring_the_line.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/experimentation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+> You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/12/2025 23:26:05</sup></sub>
+<sub><sup>Last updated: 24/12/2025 23:25:02</sup></sub>
