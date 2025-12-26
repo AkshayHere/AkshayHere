@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/delivery.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/oceanography_gift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
+> Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 25/12/2025 23:24:20</sup></sub>
+<sub><sup>Last updated: 26/12/2025 23:24:48</sup></sub>
