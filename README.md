@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/spice_girls.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/1_to_10.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/12/2025 23:22:00</sup></sub>
+<sub><sup>Last updated: 28/12/2025 23:23:19</sup></sub>
