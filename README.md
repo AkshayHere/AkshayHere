@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/1_to_10.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/island_storage.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/12/2025 23:23:19</sup></sub>
+<sub><sup>Last updated: 29/12/2025 23:26:44</sup></sub>
