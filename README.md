@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bonding.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/snake_facts.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 31/12/2025 23:24:41</sup></sub>
+<sub><sup>Last updated: 1/1/2026 23:24:48</sup></sub>
