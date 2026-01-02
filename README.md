@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/snake_facts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/bug.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
+> Make friends first, make sales second, make love third. In no particular order.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 1/1/2026 23:24:48</sup></sub>
+<sub><sup>Last updated: 2/1/2026 23:25:59</sup></sub>
