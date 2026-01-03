@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/bug.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/circuit_symbols.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Make friends first, make sales second, make love third. In no particular order.
+> How is it possible that in five years, I’ve had two engagements and only one chair?
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/1/2026 23:25:59</sup></sub>
+<sub><sup>Last updated: 3/1/2026 23:23:01</sup></sub>
