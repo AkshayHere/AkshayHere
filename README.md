@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/circuit_symbols.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/long_light.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> How is it possible that in five years, I’ve had two engagements and only one chair?
+> I’m not superstitious but I am a little stitious.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/1/2026 23:23:01</sup></sub>
+<sub><sup>Last updated: 4/1/2026 23:22:38</sup></sub>
