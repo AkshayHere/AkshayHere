@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/long_light.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/radon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m not superstitious but I am a little stitious.
+> Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/1/2026 23:22:38</sup></sub>
+<sub><sup>Last updated: 5/1/2026 23:27:46</sup></sub>
