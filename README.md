@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/radon.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/stingray_nebula.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
+> I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/1/2026 23:27:46</sup></sub>
+<sub><sup>Last updated: 6/1/2026 23:27:07</sup></sub>
