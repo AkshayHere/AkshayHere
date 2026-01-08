@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/perseids_pronunciation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/graduation.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sorry I annoyed you with my friendship.
+> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/1/2026 23:29:31</sup></sub>
+<sub><sup>Last updated: 8/1/2026 23:29:50</sup></sub>
