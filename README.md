@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/lego.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/aviation_firsts.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am better than you have ever been or ever will be.
+> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/1/2026 23:28:05</sup></sub>
+<sub><sup>Last updated: 10/1/2026 23:22:53</sup></sub>
