@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/aviation_firsts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/speculation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
+> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 10/1/2026 23:22:53</sup></sub>
+<sub><sup>Last updated: 11/1/2026 23:23:43</sup></sub>
