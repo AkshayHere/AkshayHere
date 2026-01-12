@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/speculation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/manual_override.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers.
+> Love is all you need? False, you need water and rations.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/1/2026 23:23:43</sup></sub>
+<sub><sup>Last updated: 12/1/2026 23:29:29</sup></sub>
