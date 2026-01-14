@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/circumference_formula.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/visual_field.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> OK, too many different words from coming at me from too many different sentences.
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/1/2026 23:29:38</sup></sub>
+<sub><sup>Last updated: 14/1/2026 23:29:27</sup></sub>
