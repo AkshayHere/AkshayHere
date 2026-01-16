@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fps_mod.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/7_eleven.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+> You know a human can go on living for several hours after being decapitated.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/1/2026 23:29:43</sup></sub>
+<sub><sup>Last updated: 16/1/2026 23:27:44</sup></sub>
