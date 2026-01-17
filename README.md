@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/7_eleven.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/excessive_quotation.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know a human can go on living for several hours after being decapitated.
+> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/1/2026 23:27:44</sup></sub>
+<sub><sup>Last updated: 17/1/2026 23:23:06</sup></sub>
