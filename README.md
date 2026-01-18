@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/excessive_quotation.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/laptop_hell.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Once I’m officially Regional Manager, my first order of business will be to demote Jim Halpert. So, I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+> Dwight, you ignorant slut!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/1/2026 23:23:06</sup></sub>
+<sub><sup>Last updated: 18/1/2026 23:23:16</sup></sub>
