@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/laptop_hell.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/apples.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Dwight, you ignorant slut!
+> There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 18/1/2026 23:23:16</sup></sub>
+<sub><sup>Last updated: 19/1/2026 23:30:18</sup></sub>
