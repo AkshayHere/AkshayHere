@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/emojidome.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/question_mark.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/1/2026 23:34:52</sup></sub>
+<sub><sup>Last updated: 21/1/2026 23:36:27</sup></sub>
