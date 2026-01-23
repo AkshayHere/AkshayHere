@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/secretary_part_1.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/tv_problems.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> As it turns out, you can’t just check someone into rehab against their will. They have to do it voluntarily. They have to hit rock bottom. So, I think I know what I need to do at this point. I need to find ways to push Meredith to the bottom. Um. I think I can do it.
+> I am faster than 80 percent of all snakes.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/1/2026 23:35:21</sup></sub>
+<sub><sup>Last updated: 23/1/2026 23:30:00</sup></sub>
