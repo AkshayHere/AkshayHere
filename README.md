@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/tv_problems.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mobius_battle.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am faster than 80 percent of all snakes.
+> People will never be replaced by machines. In the end, life and business are about human connections. And computers are about trying to murder you in a lake. And to me the choice is easy.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/1/2026 23:30:00</sup></sub>
+<sub><sup>Last updated: 24/1/2026 23:24:01</sup></sub>
