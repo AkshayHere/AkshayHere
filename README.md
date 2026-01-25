@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mobius_battle.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/a_simple_plan.jpg)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> People will never be replaced by machines. In the end, life and business are about human connections. And computers are about trying to murder you in a lake. And to me the choice is easy.
+> Get a friend, loser.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/1/2026 23:24:01</sup></sub>
+<sub><sup>Last updated: 25/1/2026 23:24:12</sup></sub>
