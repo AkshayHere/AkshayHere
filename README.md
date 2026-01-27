@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/marshmallow.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/towed_message.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I always wondered how they picked the person to die. I’d be good at picking the person.
+> Hold me! Cradle my hand!
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 26/1/2026 23:33:18</sup></sub>
+<sub><sup>Last updated: 27/1/2026 23:33:58</sup></sub>
