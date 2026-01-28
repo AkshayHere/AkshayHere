@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/towed_message.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ravioli_shaped_objects.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Hold me! Cradle my hand!
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 27/1/2026 23:33:58</sup></sub>
+<sub><sup>Last updated: 28/1/2026 23:36:43</sup></sub>
