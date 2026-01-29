@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ravioli_shaped_objects.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fresh_pears.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/1/2026 23:36:43</sup></sub>
+<sub><sup>Last updated: 29/1/2026 23:38:32</sup></sub>
