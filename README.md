@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fresh_pears.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/state_borders.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/1/2026 23:38:32</sup></sub>
+<sub><sup>Last updated: 30/1/2026 23:38:31</sup></sub>
