@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/state_borders.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/significant.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 30/1/2026 23:38:31</sup></sub>
+<sub><sup>Last updated: 31/1/2026 23:27:22</sup></sub>
