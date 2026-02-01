@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/significant.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/falling_asleep.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/1/2026 23:27:22</sup></sub>
+<sub><sup>Last updated: 1/2/2026 23:28:58</sup></sub>
