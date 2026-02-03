@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/cosmologist_genres.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pwned.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+> I’m an early bird and a night owl. So I’m wise and have worms.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 2/2/2026 23:39:41</sup></sub>
+<sub><sup>Last updated: 3/2/2026 23:53:11</sup></sub>
