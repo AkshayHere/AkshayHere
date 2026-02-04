@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pwned.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/boathouses_and_houseboats.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/2/2026 23:53:11</sup></sub>
+<sub><sup>Last updated: 4/2/2026 23:48:40</sup></sub>
