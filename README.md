@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/boathouses_and_houseboats.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/when_you_assume.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+> I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/2/2026 23:48:40</sup></sub>
+<sub><sup>Last updated: 5/2/2026 23:44:00</sup></sub>
