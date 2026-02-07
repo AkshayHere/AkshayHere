@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/probability_comparisons.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/piercing.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Today, smoking is going to save lives.
+> Will I get over it? Mmm. No. But life goes on.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 6/2/2026 23:43:03</sup></sub>
+<sub><sup>Last updated: 7/2/2026 23:28:47</sup></sub>
