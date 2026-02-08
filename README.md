@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/piercing.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wifi.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Will I get over it? Mmm. No. But life goes on.
+> Any man who says he totally understands women is a fool. Because they are un-understandable.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 7/2/2026 23:28:47</sup></sub>
+<sub><sup>Last updated: 8/2/2026 23:29:52</sup></sub>
