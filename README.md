@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wifi.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/never.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Any man who says he totally understands women is a fool. Because they are un-understandable.
+> And I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 8/2/2026 23:29:52</sup></sub>
+<sub><sup>Last updated: 9/2/2026 23:59:08</sup></sub>
