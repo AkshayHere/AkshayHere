@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/never.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/orbital_argument.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I feel God in this Chili’s tonight.
+> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/2/2026 23:59:08</sup></sub>
+<sub><sup>Last updated: 11/2/2026 0:08:12</sup></sub>
