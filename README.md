@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/orbital_argument.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/flowchart.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 11/2/2026 0:08:12</sup></sub>
+<sub><sup>Last updated: 12/2/2026 0:04:40</sup></sub>
