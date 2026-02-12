@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/flowchart.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> It’s not like booze ever killed anyone.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 12/2/2026 0:04:40</sup></sub>
+<sub><sup>Last updated: 12/2/2026 23:56:46</sup></sub>
