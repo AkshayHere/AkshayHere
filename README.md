@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/coronavirus_research.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/asterisk_corrections.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
+> It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/2/2026 23:46:48</sup></sub>
+<sub><sup>Last updated: 14/2/2026 23:29:12</sup></sub>
