@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/asterisk_corrections.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/malamanteau.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
+> My mind is going a mile an hour.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/2/2026 23:29:12</sup></sub>
+<sub><sup>Last updated: 15/2/2026 23:28:44</sup></sub>
