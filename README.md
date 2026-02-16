@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/malamanteau.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/2018.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My mind is going a mile an hour.
+> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 15/2/2026 23:28:44</sup></sub>
+<sub><sup>Last updated: 16/2/2026 23:43:49</sup></sub>
