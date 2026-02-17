@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/2018.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/gravity.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago.
+> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 16/2/2026 23:43:49</sup></sub>
+<sub><sup>Last updated: 17/2/2026 23:56:12</sup></sub>
