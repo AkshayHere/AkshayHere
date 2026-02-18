@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/gravity.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/car_size.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
+> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 17/2/2026 23:56:12</sup></sub>
+<sub><sup>Last updated: 18/2/2026 23:55:24</sup></sub>
