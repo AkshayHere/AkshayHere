@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/thats_what_she_said.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/deposition.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> Can’t a guy just buy some bagels for his friends so they’ll owe him a favor which he can use to get someone fired who stole a co-manager position from him anymore? Jeez. When did everyone get so cynical?
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/2/2026 23:39:33</sup></sub>
+<sub><sup>Last updated: 21/2/2026 23:28:42</sup></sub>
