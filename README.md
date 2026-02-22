@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/deposition.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/low_background_metal.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Can’t a guy just buy some bagels for his friends so they’ll owe him a favor which he can use to get someone fired who stole a co-manager position from him anymore? Jeez. When did everyone get so cynical?
+> I’m an early bird and a night owl. So I’m wise and have worms.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/2/2026 23:28:42</sup></sub>
+<sub><sup>Last updated: 22/2/2026 23:29:40</sup></sub>
