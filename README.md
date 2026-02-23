@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/low_background_metal.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/check_engine.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 22/2/2026 23:29:40</sup></sub>
+<sub><sup>Last updated: 23/2/2026 23:50:10</sup></sub>
