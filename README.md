@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/check_engine.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/electoral_precedent_2020.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
+> Saw Inception. Or at least I dreamt I did.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 23/2/2026 23:50:10</sup></sub>
+<sub><sup>Last updated: 25/2/2026 0:02:02</sup></sub>
