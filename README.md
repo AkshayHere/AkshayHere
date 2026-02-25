@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/electoral_precedent_2020.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/dress_color.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Saw Inception. Or at least I dreamt I did.
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/2/2026 0:02:02</sup></sub>
+<sub><sup>Last updated: 26/2/2026 0:07:11</sup></sub>
