@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/rogers_st.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/thorough_analysis.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I wonder if king-sized sheets are called presidential-sized in England.
+> All that singing got in the way of some perfectly good murders.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 26/2/2026 23:56:07</sup></sub>
+<sub><sup>Last updated: 27/2/2026 23:39:35</sup></sub>
