@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/thorough_analysis.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/glass_trolling.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> All that singing got in the way of some perfectly good murders.
+> I'm always thinking one step ahead, like a carpenter who makes stairs.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 27/2/2026 23:39:35</sup></sub>
+<sub><sup>Last updated: 28/2/2026 23:26:43</sup></sub>
