@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/glass_trolling.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/trash.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> When someone smiles at me, all I see is a chimpanzee begging for its life.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/2/2026 23:26:43</sup></sub>
+<sub><sup>Last updated: 1/3/2026 23:27:21</sup></sub>
