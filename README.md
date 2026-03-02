@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/trash.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/extrapolating.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> When someone smiles at me, all I see is a chimpanzee begging for its life.
+> Get a friend, loser.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 1/3/2026 23:27:21</sup></sub>
+<sub><sup>Last updated: 2/3/2026 23:44:34</sup></sub>
