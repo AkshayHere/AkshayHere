@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/extrapolating.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/interesting_life.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Get a friend, loser.
+> Let’s put a smile on that face.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 2/3/2026 23:44:34</sup></sub>
+<sub><sup>Last updated: 3/3/2026 23:50:22</sup></sub>
