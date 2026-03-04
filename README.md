@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/interesting_life.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/aaaaaa.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Let’s put a smile on that face.
+> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/3/2026 23:50:22</sup></sub>
+<sub><sup>Last updated: 4/3/2026 23:47:35</sup></sub>
