@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/aaaaaa.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/reading_in_the_original.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
+> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 4/3/2026 23:47:35</sup></sub>
+<sub><sup>Last updated: 5/3/2026 23:53:25</sup></sub>
