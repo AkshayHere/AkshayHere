@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/reading_in_the_original.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wing_lift.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm.
+> Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/3/2026 23:53:25</sup></sub>
+<sub><sup>Last updated: 6/3/2026 23:40:58</sup></sub>
