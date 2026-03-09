@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/hottest_editors.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/pore_strips.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, don’t call me a hero. Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime. Those are the real heroes.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/3/2026 23:27:37</sup></sub>
+<sub><sup>Last updated: 10/3/2026 0:01:00</sup></sub>
