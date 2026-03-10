@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pore_strips.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/universal_dreams.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Congratulations on your one cousin. I have seventy, each one better than the last!
+> Saw Inception. Or at least I dreamt I did.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/3/2026 0:01:00</sup></sub>
+<sub><sup>Last updated: 11/3/2026 0:02:33</sup></sub>
