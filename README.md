@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/universal_dreams.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/1000_comics.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Saw Inception. Or at least I dreamt I did.
+> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/3/2026 0:02:33</sup></sub>
+<sub><sup>Last updated: 11/3/2026 23:52:42</sup></sub>
