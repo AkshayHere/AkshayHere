@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/1000_comics.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/music_knowledge.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 11/3/2026 23:52:42</sup></sub>
+<sub><sup>Last updated: 13/3/2026 0:00:48</sup></sub>
