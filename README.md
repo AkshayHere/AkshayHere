@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/music_knowledge.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 13/3/2026 0:00:48</sup></sub>
+<sub><sup>Last updated: 13/3/2026 23:47:23</sup></sub>
