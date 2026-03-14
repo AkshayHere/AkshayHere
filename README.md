@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/napoleon.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/date_line.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 13/3/2026 23:47:23</sup></sub>
+<sub><sup>Last updated: 14/3/2026 23:32:23</sup></sub>
