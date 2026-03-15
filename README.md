@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/date_line.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/once_per_day.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
+> Who is Justice Beaver?
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 14/3/2026 23:32:23</sup></sub>
+<sub><sup>Last updated: 15/3/2026 23:33:14</sup></sub>
