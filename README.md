@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/drop_those_pounds.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/toasts.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am running away from my responsibilities. And it feels good.
+> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/3/2026 0:07:12</sup></sub>
+<sub><sup>Last updated: 18/3/2026 0:07:33</sup></sub>
