@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/toasts.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/eclipse_review.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 18/3/2026 0:07:33</sup></sub>
+<sub><sup>Last updated: 19/3/2026 0:09:22</sup></sub>
