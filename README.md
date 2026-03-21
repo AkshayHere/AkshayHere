@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/semicontrolled_demolition.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/recurring_nightmare.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I saved a life — my own.
+> Did I stutter?
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 20/3/2026 23:47:21</sup></sub>
+<sub><sup>Last updated: 21/3/2026 23:29:53</sup></sub>
