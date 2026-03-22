@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/recurring_nightmare.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/ballot_selfies.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Did I stutter?
+> I am running away from my responsibilities. And it feels good.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 21/3/2026 23:29:53</sup></sub>
+<sub><sup>Last updated: 22/3/2026 23:30:20</sup></sub>
