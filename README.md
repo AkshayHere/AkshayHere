@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/ballot_selfies.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I am running away from my responsibilities. And it feels good.
+> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 22/3/2026 23:30:20</sup></sub>
+<sub><sup>Last updated: 24/3/2026 0:01:50</sup></sub>
