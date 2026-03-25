@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/y_axis.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/etch-a-sketch.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> That has sort of an oaky afterbirth.
+> I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/3/2026 0:08:28</sup></sub>
+<sub><sup>Last updated: 26/3/2026 0:12:52</sup></sub>
