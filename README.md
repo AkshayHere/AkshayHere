@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/i_dont_own_a_tv.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/form.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 31/3/2026 0:07:30</sup></sub>
+<sub><sup>Last updated: 1/4/2026 0:07:29</sup></sub>
