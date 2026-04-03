@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/classic.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Identity theft is not a joke, Jim! Millions of families suffer every year.
+> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/4/2026 0:02:30</sup></sub>
+<sub><sup>Last updated: 3/4/2026 23:40:57</sup></sub>
