@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/consecutive_vowels.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 3/4/2026 23:40:57</sup></sub>
+<sub><sup>Last updated: 4/4/2026 23:35:51</sup></sub>
