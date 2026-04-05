@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/consecutive_vowels.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/brookhaven_rhic.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
+> I'm going to do something I've never done at this job before - try.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 4/4/2026 23:35:51</sup></sub>
+<sub><sup>Last updated: 5/4/2026 23:36:36</sup></sub>
