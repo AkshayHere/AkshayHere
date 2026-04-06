@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/brookhaven_rhic.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/movie_seating.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm going to do something I've never done at this job before - try.
+> A real man swallows his vomit when a lady is present.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 5/4/2026 23:36:36</sup></sub>
+<sub><sup>Last updated: 6/4/2026 23:52:23</sup></sub>
