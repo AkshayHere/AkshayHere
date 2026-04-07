@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/movie_seating.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/depth.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> A real man swallows his vomit when a lady is present.
+> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 6/4/2026 23:52:23</sup></sub>
+<sub><sup>Last updated: 8/4/2026 0:11:20</sup></sub>
