@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/depth.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/chain_of_command.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
+> It just seems awfully mean. But sometimes, the ends justify the mean.
 >
 > <p>- Michael Scott</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 8/4/2026 0:11:20</sup></sub>
+<sub><sup>Last updated: 9/4/2026 0:16:24</sup></sub>
