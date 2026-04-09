@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/chain_of_command.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/error_code.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> It just seems awfully mean. But sometimes, the ends justify the mean.
+> I am better than you have ever been or ever will be.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 9/4/2026 0:16:24</sup></sub>
+<sub><sup>Last updated: 10/4/2026 0:19:55</sup></sub>
