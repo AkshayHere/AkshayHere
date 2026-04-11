@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/suggestions.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/rba.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
+> Ah, humor. I have it, too.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 10/4/2026 23:57:29</sup></sub>
+<sub><sup>Last updated: 11/4/2026 23:37:09</sup></sub>
