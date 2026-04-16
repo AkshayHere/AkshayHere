@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/dehydration.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/grounded.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> No, don’t call me a hero. Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime. Those are the real heroes.
+> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 16/4/2026 0:07:31</sup></sub>
+<sub><sup>Last updated: 17/4/2026 0:23:47</sup></sub>
