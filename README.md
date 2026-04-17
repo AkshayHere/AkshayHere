@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/grounded.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/every_majors_terrible.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+> Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 17/4/2026 0:23:47</sup></sub>
+<sub><sup>Last updated: 18/4/2026 0:02:50</sup></sub>
