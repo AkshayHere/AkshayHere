@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/startup_opportunity.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/manuals.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 19/4/2026 23:40:26</sup></sub>
+<sub><sup>Last updated: 21/4/2026 0:13:05</sup></sub>
