@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/manuals.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/mimic_octopus.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 21/4/2026 0:13:05</sup></sub>
+<sub><sup>Last updated: 22/4/2026 0:11:50</sup></sub>
