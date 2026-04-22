@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/mimic_octopus.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/sledding_discussion.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
+> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 22/4/2026 0:11:50</sup></sub>
+<sub><sup>Last updated: 23/4/2026 0:09:48</sup></sub>
