@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/sledding_discussion.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fossil.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 23/4/2026 0:09:48</sup></sub>
+<sub><sup>Last updated: 24/4/2026 0:46:32</sup></sub>
