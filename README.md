@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/fossil.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/geologic_faults.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+> I'm always thinking one step ahead, like a carpenter who makes stairs.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 24/4/2026 0:46:32</sup></sub>
+<sub><sup>Last updated: 25/4/2026 0:06:13</sup></sub>
