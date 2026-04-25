@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/geologic_faults.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/easy_or_hard.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> I'm always thinking one step ahead, like a carpenter who makes stairs.
+> Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 25/4/2026 0:06:13</sup></sub>
+<sub><sup>Last updated: 25/4/2026 23:41:56</sup></sub>
