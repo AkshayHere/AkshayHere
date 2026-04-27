@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/border_message.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/computational_linguists.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 26/4/2026 23:46:37</sup></sub>
+<sub><sup>Last updated: 28/4/2026 0:42:48</sup></sub>
