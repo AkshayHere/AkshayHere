@@ -57,17 +57,17 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/computational_linguists.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/wrong_times_table.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> Bears, Beets, Battlestar Galactica.
+> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
 
-<sub><sup>Last updated: 28/4/2026 0:42:48</sup></sub>
+<sub><sup>Last updated: 29/4/2026 0:54:44</sup></sub>
