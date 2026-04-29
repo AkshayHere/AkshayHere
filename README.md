@@ -57,12 +57,12 @@
 
 ### XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/wrong_times_table.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/fall_foliage.png)
 
 
 ## 📣 Random Quote from characters of the Office TV Series (US version)
 
-> In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+> You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
 >
 > <p>- Dwight Schrute</p>
 
@@ -70,4 +70,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 <br>
 
-<sub><sup>Last updated: 29/4/2026 0:54:44</sup></sub>
+<sub><sup>Last updated: 30/4/2026 0:43:43</sup></sub>
