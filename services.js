@@ -48,7 +48,7 @@ function getRandomXKCD() {
     console.log(links);
     // return links[1] ?? "";
     return {
-      xkcdCode: xkcdCode,
+      xkcdCode,
       xkcdImgLink: links[1],
     };
   });

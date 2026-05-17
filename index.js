@@ -36,7 +36,7 @@ async function main() {
 
   if (xkcdImgLink && xkcdCode) {
     readme = readme.replace("{XKCDUrl}", xkcdImgLink);
-    readme = readme.replace("{xkcdInfoUrl}", xkcdImgLink);
+    readme = readme.replace("{xkcdInfoUrl}", `${EXPLAIN_XKCD_URL}${xkcdCode}`);
   }
   console.log("readme", readme);
   await fs.writeFile("README.md", readme);
