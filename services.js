@@ -1,0 +1,60 @@
+require("isomorphic-unfetch");
+const request = require("request");
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+
+const XKCD_RANDOM_URL = "https://c.xkcd.com/random/comic/";
+const OFFICE_RANDOM_QUOTE_URL =
+  "https://officeapi.akashrajpurohit.com/quote/random";
+
+// Fetches a random quote by different characters from the famous TV series `The Office` (US version)
+async function getRandomOfficeQuotes() {
+  try {
+    const officeQuote = await fetch(OFFICE_RANDOM_QUOTE_URL).catch((err) =>
+      console.error(`Error : ${err.message}`),
+    );
+    const officeData = await officeQuote.json();
+    console.log(officeData);
+    return officeData;
+  } catch (error) {
+    console.error(`Exception @ getRandomOfficeQuotes > ${error.message}`);
+  }
+}
+
+function getRandomXKCD() {
+  return new Promise((resolve, reject) => {
+    request({ uri: XKCD_RANDOM_URL }, function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        const links = [];
+        JSDOM.fromURL(XKCD_RANDOM_URL).then((dom) => {
+          const currentUrl = dom.window.document.URL;
+          console.log("currentUrl: ", currentUrl);
+          const xkcdCode = currentUrl.substring(this.href.lastIndexOf("/") + 1);
+          console.log("xkcdCode: ", xkcdCode);
+          dom.window.document.querySelectorAll("img").forEach((link) => {
+            console.log(link.src);
+            links.push(link.src);
+          });
+          console.log("links >> ", links);
+          resolve({ xkcdCode: xkcdCode, links: links });
+        });
+      } else {
+        reject("Failed to reach server");
+      }
+    });
+  }).then((response) => {
+    const { xkcdCode, links } = response;
+    console.log(xkcdCode);
+    console.log(links);
+    // return links[1] ?? "";
+    return {
+      xkcdCode: xkcdCode,
+      xkcdImgLink: links[1],
+    };
+  });
+}
+
+module.exports = {
+  getRandomOfficeQuotes,
+  getRandomXKCD,
+};
