@@ -22,8 +22,9 @@ async function main() {
 
   // Get XKCD Random URL
   const { xkcdCode, xkcdImgLink } = await getRandomXKCD();
+  const xkcdInfoUrl = xkcdCode ? `${EXPLAIN_XKCD_URL}${xkcdCode}` : EXPLAIN_XKCD_URL;
   console.log("XKCDUrl", xkcdImgLink);
-  console.log("xkcdInfoUrl", `${EXPLAIN_XKCD_URL}${xkcdCode}`);
+  console.log("xkcdInfoUrl", xkcdInfoUrl);
 
   // if (officeData) {
   //   if (officeData) {
@@ -34,9 +35,9 @@ async function main() {
   //   }
   // }
 
-  if (xkcdImgLink && xkcdCode) {
+  if (xkcdImgLink) {
     readme = readme.replace("{XKCDUrl}", xkcdImgLink);
-    readme = readme.replace("{xkcdInfoUrl}", `${EXPLAIN_XKCD_URL}${xkcdCode}`);
+    readme = readme.replace("{xkcdInfoUrl}", xkcdInfoUrl);
   }
   console.log("readme", readme);
   await fs.writeFile("README.md", readme);

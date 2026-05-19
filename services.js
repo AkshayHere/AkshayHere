@@ -29,7 +29,8 @@ function getRandomXKCD() {
         JSDOM.fromURL(XKCD_RANDOM_URL).then((dom) => {
           const currentUrl = dom.window.document.URL;
           console.log("currentUrl: ", currentUrl);
-          const xkcdCode = currentUrl.substring(this.href.lastIndexOf("/") + 1);
+          // const xkcdCode = currentUrl.substring(this.href.lastIndexOf("/") + 1);
+          const xkcdCode = currentUrl.split('/')[3];
           console.log("xkcdCode: ", xkcdCode);
           dom.window.document.querySelectorAll("img").forEach((link) => {
             console.log(link.src);
