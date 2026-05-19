@@ -25,7 +25,7 @@ Would love to contribute to open source world.
 
 ![Alt XKCD]({XKCDUrl})
 
-![explain xkcd]({xkcdInfoUrl})
+![explain xkcd](explain xkcd)({xkcdInfoUrl})
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
