@@ -37,5 +37,6 @@ Would love to contribute to open source world.
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 <br>
+-->
 
-<sub><sup>Last updated: {currentDate}</sup></sub> -->
+<sub><sup>Last updated: {currentDate}</sup></sub> 
