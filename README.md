@@ -23,9 +23,9 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/seashell.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/scary.png)
 
-[Explanation Here](https://www.explainxkcd.com/wiki/index.php/1236)
+[Explanation Here](https://www.explainxkcd.com/wiki/index.php/647)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -39,4 +39,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 <br>
 -->
 
-<sub><sup>Last updated: 2026-06-05 01:46:04</sup></sub> 
+<sub><sup>Last updated: 2026-06-06 01:20:15</sup></sub> 
