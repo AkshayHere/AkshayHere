@@ -23,9 +23,9 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/days_of_the_week.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/cubesat_launch.png)
 
-[Explanation Here](https://www.explainxkcd.com/wiki/index.php/930)
+[Explanation Here](https://www.explainxkcd.com/wiki/index.php/2148)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -39,4 +39,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 <br>
 -->
 
-<sub><sup>Last updated: 2026-06-20 01:19:54</sup></sub> 
+<sub><sup>Last updated: 2026-06-21 00:19:30</sup></sub> 
