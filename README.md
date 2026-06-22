@@ -23,9 +23,9 @@ Would love to contribute to open source world.
 
 ## XKCD of the Day
 
-![Alt XKCD](https://imgs.xkcd.com/comics/pet_peeve_114.png)
+![Alt XKCD](https://imgs.xkcd.com/comics/heartbleed.png)
 
-[Explanation Here](https://www.explainxkcd.com/wiki/index.php/238)
+[Explanation Here](https://www.explainxkcd.com/wiki/index.php/1353)
 
 
 <!-- ## 📣 Random Quote from characters of the Office TV Series (US version)
@@ -39,4 +39,4 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 <br>
 -->
 
-<sub><sup>Last updated: 2026-06-22 00:46:14</sup></sub> 
+<sub><sup>Last updated: 2026-06-23 02:47:10</sup></sub> 
